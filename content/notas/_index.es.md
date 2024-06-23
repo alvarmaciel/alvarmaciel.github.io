@@ -8,7 +8,7 @@ cascade:
 ---
 
 {{< lead >}}
-Una breve descripcion de mi persona y de mis recorridos.
+Notas.
 {{< /lead >}}
 
 ---
