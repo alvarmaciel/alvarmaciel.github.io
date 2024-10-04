@@ -5,7 +5,7 @@
     <link>https://archive.org/search.php?query=creator%3A%22Radio+San+Javier%22</link>
     <description>Feed RSS de los audios subidos por Radio San Javier a Internet Archive.</description>
     <language>es</language>
-    <atom:link href="https://tu-sitio.com/rss_feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://alvarmaciel.github.io/rss_feed_2.xml" rel="self" type="application/rss+xml"/>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://tu-sitio.com/imagen_podcast.jpg"/>
