@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" nsmap="{'itunes': 'http://www.itunes.com/dtds/podcast-1.0.dtd', 'atom': 'http://www.w3.org/2005/Atom', 'podcast': 'https://podcastindex.org/namespace/1.0'}">
+  <channel>
+    <title>Radio San Javier - Podcast Collection</title>
+    <link>https://archive.org/search.php?query=creator%3A%22Radio+San+Javier%22</link>
+    <description>Feed RSS de los audios subidos por Radio San Javier a Internet Archive.</description>
+    <language>es</language>
+    <atom:link href="https://tu-sitio.com/rss_feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://tu-sitio.com/imagen_podcast.jpg"/>
+    <item>
+      <title>ERSDMTP 20090304</title>
+      <link>https://archive.org/details/Ersdmtp20090304</link>
+      <pubDate>Fri, 04 Oct 2024 14:15:40 </pubDate>
+      <description>Vaya tela y vaya tela</description>
+      <enclosure url="https://archive.org/download/Ersdmtp20090304/Ersdmtp20090304.mp3" length="83237825" type="audio/mpeg"/>
+      <itunes:duration>3468.24</itunes:duration>
+      <itunes:image href="https://tu-sitio.com/imagen_episodio.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Presentacion MUSICOS DE AQUI en Radio San Javier</title>
+      <link>https://archive.org/details/PresentacionMusicosDeAquiEnRadioSanJavier</link>
+      <pubDate>Fri, 04 Oct 2024 14:15:41 </pubDate>
+      <description>Presentacion MUSICOS DE AQUI en Radio San Javier</description>
+      <enclosure url="https://archive.org/download/PresentacionMusicosDeAquiEnRadioSanJavier/MusicosDeAqui20091211.mp3" length="53204315" type="audio/mpeg"/>
+      <itunes:duration>1662.63</itunes:duration>
+      <itunes:image href="https://tu-sitio.com/imagen_episodio.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Alvar Maciel sobre Grooming Radio San javier</title>
+      <link>https://archive.org/details/piso-alvar-maciel-por-grooming-con-separador</link>
+      <pubDate>Fri, 04 Oct 2024 14:15:42 </pubDate>
+      <description>Entrevista en la radio San Javier, Córdoba, Argentina&lt;br /&gt;</description>
+      <enclosure url="https://archive.org/download/piso-alvar-maciel-por-grooming-con-separador/PISO Alvar Maciel por grooming -con separador.mp3" length="21421470" type="audio/mpeg"/>
+      <itunes:duration>1448.65</itunes:duration>
+      <itunes:image href="https://tu-sitio.com/imagen_episodio.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
