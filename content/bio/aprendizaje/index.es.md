@@ -23,8 +23,8 @@ Sin orden de relevancia y grandes rasgos:
 - Aulas en red me permitió aprender a trabajar con personas que nunca usaron la tecnología para enseñar.
 - Mis años como maestro me enseñaron a priorizar las tarea de mi trabajo en función de objetivos claros
 - Maestro Más Maestro me enseño a buscar siempre alternativas para alfabetizar en función de los estudiantes con los que me encontré.
-- Fundación Sadosky me enseño a coordinar equipos, y escribir contenidos.
-- Shiphero me enseño a programar, solo y con otros, hacer productos estables y organizar mis tareas en función de un objetivo realizable. 
+- Fundación Sadosky me enseño a coordinar equipos, y escribir contenidos y trabajar de forma remota.
+- Shiphero me enseño a programar, solo y con otros, hacer productos estables y atacar problemas en producción desde múltiples ángulos. 
 
 ### charlas:
 

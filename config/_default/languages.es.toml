@@ -13,9 +13,9 @@ title = "Inicio"
   description = "Un punto de partida al laberinto de mi persona"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-[author]
+[params.author]
   name = "Alvar"
-  image = "img/conMate.jpg"
+  image = "img/alvar_edificios.jpg"
   headline = "Lento es normal"
   bio = "Programador. Maestro... Lento es normal. Desde La Población, Córdoba, Argentina"
   links = [

@@ -13,9 +13,9 @@ title = "Start"
   description = "A starting point to the labyrinth of my being"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-[author]
+[params.author]
   name = "Alvar"
-  image = "img/conMate.jpg"
+  image = "img/alvar_edificios.jpg"
   headline = "Slow is normal"
   bio = "Developer, Teacher... slow is normal. From La Población, Córdoba, Argentina"
   links = [
