@@ -39,7 +39,7 @@ gastamos, cuanto gano aproximadamente. Cual es mi auto, el politoco o politca
 que me gusta, el partido que me disgusta. Cual el mi equipo de futbol, que hice
 hace 20 años, cuando me emborrache, que pensaba hace 15 y que pienso ahora.
 
-Mucho no.
+Es un montón, ¿no?
 
 para ir desarmando la madeja es importante saber, que en principio, google no es
 su relato. Esta es una de esas compania que como dijimos concentran ganancias
