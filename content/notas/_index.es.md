@@ -8,7 +8,7 @@ cascade:
 ---
 
 {{< lead >}}
-Columnas, notas y pensamientos.
+Columnas y pensamientos.
 {{< /lead >}}
 
 ---
