@@ -1,1 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bio on Start</title><link>https://alvarmaciel.github.io/en/tags/bio/</link><description>Recent content in Bio on Start</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2024 Alvar</copyright><lastBuildDate>Sun, 26 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://alvarmaciel.github.io/en/tags/bio/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>https://alvarmaciel.github.io/en/bio/quien-soy/</link><pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/en/bio/quien-soy/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/bio/quien-soy/featured.png"/></item><item><title>Learnings</title><link>https://alvarmaciel.github.io/en/bio/aprendizaje/</link><pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/en/bio/aprendizaje/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/bio/aprendizaje/featured.png"/></item><item><title>Jobs</title><link>https://alvarmaciel.github.io/en/bio/trabajos/</link><pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/en/bio/trabajos/</guid><description/></item><item><title>My life in the Web</title><link>https://alvarmaciel.github.io/en/bio/mi-vida-en-la-web/</link><pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/en/bio/mi-vida-en-la-web/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bio on Start</title><link>https://alvarmaciel.github.io/en/tags/bio/</link><description>Recent content in Bio on Start</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2024 Alvar</copyright><lastBuildDate>Sun, 26 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://alvarmaciel.github.io/en/tags/bio/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>https://alvarmaciel.github.io/en/bio/quien-soy/</link><pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/en/bio/quien-soy/</guid><description>&lt;p>Father of two children. Teacher, today Backend Developer. Worked integrating technologies in didactic processes in the primary, pre-school and high school areas. I am a grade teacher, high school teacher. I collaborated with Mozilla, Smalltalk and free software or education events.
+I program mainly in Python, I learn Smalltalk and Rust. I translate from English things that interest me, like &lt;a href="https://www.newschool.edu/lang/faculty/mckenzie-wark/" target="_blank">McKenzie Wark&lt;/a>, Python documentation or &lt;a href="https://alvarmaciel.gitlab.io/cyberiada/categories/traducciones/" target="_blank">some of these articles&lt;/a>.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/bio/quien-soy/featured.png"/></item><item><title>Learnings</title><link>https://alvarmaciel.github.io/en/bio/aprendizaje/</link><pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/en/bio/aprendizaje/</guid><description>&lt;p>I am interested in many things, such as education and its relationship with technology, programming and its paradigms, the history and architecture of solutions to implementation problems, philosophy and the reflection on the impacts of radical innovations in our world, and mathematics and its methods of understanding the world. These are my most intense areas of interest. I am somewhat disorganized in learning and am constantly working to be more systematic. Even so, today I am much more efficient than in previous years.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/bio/aprendizaje/featured.png"/></item><item><title>Jobs</title><link>https://alvarmaciel.github.io/en/bio/trabajos/</link><pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/en/bio/trabajos/</guid><description>&lt;h3 class="relative group">Currently:
+&lt;div id="currently" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#currently" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>Backend Developer at Shiphero&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Previous Jobs:
+&lt;div id="previous-jobs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#previous-jobs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>Digital Environments Teacher: Escuela PROA Villa Dolores&lt;/li>
+&lt;li>Integration Teacher: Integrarte Villa Dolores. Escuela Dolores Aguirre de Funes.&lt;/li>
+&lt;li>Content Creator for the Computational Thinking Project for Plan Ceibal at Fundación Sadosky.&lt;/li>
+&lt;li>Technology Teacher at the Technical Secondary School of the University of San Martín.&lt;/li>
+&lt;li>Teacher for the School Trajectory Reorganization Program (Acceleration): School No. 7 DE 8 Grade Mode&lt;/li>
+&lt;li>Remote Programming Teacher for Plan Ceibal at Fundación Sadosky.&lt;/li>
+&lt;li>Pedagogical Coordinator of Remote Computational Thinking Teachers for Plan Ceibal at Fundación Sadosky.&lt;/li>
+&lt;li>Content Creator for the Computational Thinking Project Argentina - CAF at Fundación Sadosky.&lt;/li>
+&lt;li>Remote Computational Thinking Teacher for Plan Ceibal at Fundación Sadosky.&lt;/li>
+&lt;li>Teacher for the School Trajectory Reorganization Program (Acceleration): School No. 21 DE 20 Group Mode&lt;/li>
+&lt;li>Teacher for the Maestro más Maestro program at: School No. 4 DE 19; School No. 11 DE 19; School No. 7 DE 8.&lt;/li>
+&lt;li>Youth and Adults Primary Level Teacher of the Third Cycle at Centro Isauro Arancibia.&lt;/li>
+&lt;li>Leveling Teacher at Centro Educativo Isauro Arancibia.&lt;/li>
+&lt;li>Technology Coordinator at Aequalis School (&lt;a href="http://aequalis.esc.edu.ar" target="_blank">http://aequalis.esc.edu.ar&lt;/a>).&lt;/li>
+&lt;li>Expert in Digital Inclusion Projects from the School, Corrientes, Zona Oeste.&lt;/li>
+&lt;li>Specialist in GNU/Linux operating systems in educational environments.&lt;/li>
+&lt;li>Administrator and manager of distance courses on Moodle and ATutor platforms.&lt;/li>
+&lt;li>Trainer in pedagogical uses of technologies in Santa Cruz, San Luis, Corrientes, and Buenos Aires.&lt;/li>
+&lt;li>Member of the Aulas en Red project in the Autonomous City of Buenos Aires.&lt;/li>
+&lt;li>Pedagogical Coordinator of the Technological - Educational Reference project of Fundación Equidad for the Fatima Project.&lt;/li>
+&lt;li>Technological - Educational Reference of the Civil Association Chicos.Net.&lt;/li>
+&lt;/ul></description></item><item><title>My life in the Web</title><link>https://alvarmaciel.github.io/en/bio/mi-vida-en-la-web/</link><pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/en/bio/mi-vida-en-la-web/</guid><description>&lt;p>I maintain a blog about my nerdier side &lt;a href="https://alvarmaciel.gitlab.io/cyberiada/" target="_blank">Cybriada&lt;/a> and I maintained a blog about education and technology, &lt;a href="https://acercadelaeducacion.com.ar/" target="_blank">Acerca de la Educación&lt;/a> for many years. Now I keep them online but no longer write there. Note: the articles are in Spanish.&lt;/p></description></item></channel></rss>
