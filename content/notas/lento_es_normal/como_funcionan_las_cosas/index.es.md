@@ -61,8 +61,8 @@ y la logica de mercado, es decir, producir ganancia es la que orienta.
 Y que es lo que mas vendio google para generar esos margenes tan alto de
 ganacias Publicidad. Google comprendió tempranamente que Internet es un medio de
 comunicacion, y en esos medios, es la publicidad lo que los sostiene. En este
-punto quiero hacer un alto y leer lo que Esteban Magnani nos cuenta en La Jaula
-del COnfort
+punto quiero hacer un alto y leer lo que [Esteban Magnani](https://www.estebanmagnani.com.ar) nos cuenta en [La Jaula
+del Confort.](https://www.estebanmagnani.com.ar/2019/10/30/la-jaula-del-confort/)
 
 
 

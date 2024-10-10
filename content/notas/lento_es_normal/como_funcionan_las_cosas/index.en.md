@@ -19,7 +19,7 @@ To start unraveling this, it is important to know that, initially, Google is not
 
 Perhaps they started that way, but at some point in their growth, they had to decide between growing or perishing, and growth has a cost. These companies grew based on investments. That means companies, the state, and individuals lent them money in exchange for sharing the profits. Therefore, the company’s direction is no longer free from pressure because the money invested must yield returns. Thus, objectives change, and the market logic, that is, to produce profit, guides the course.
 
-And what did Google sell most to generate such high profit margins? Advertising. Google understood early on that the internet is a medium of communication, and in those media, it is advertising that sustains them. At this point, I want to pause and read what Esteban Magnani tells us in "The Comfort Cage."
+And what did Google sell most to generate such high profit margins? Advertising. Google understood early on that the internet is a medium of communication, and in those media, it is advertising that sustains them. At this point, I want to pause and read what [Esteban Magnani](http://estebanmagnani.com.ar/) tells us in ["The Comfort Cage."](https://www.estebanmagnani.com.ar/2019/10/30/la-jaula-del-confort/)
 
 By selling advertising, Google survived the dot-com crisis. Now then, advertising—how does that work? How do you make money selling ads? Well, it’s because the medium and how to reach consumers changed radically. What would happen if we knew what each person wanted and needed? If we could offer each individual just what they were looking for or desiring. If we could provide a service through which the butcher's ad reaches the person who wants to have a barbecue.
 
