@@ -1,14 +1,14 @@
 ---
 title: "Notas"
-description: "Para Sol y Eva" 
+description: "Flujo de ideas" 
 cascade:
-  showDate: false
-  showAuthor: false
+  showDate: true
+  showAuthor: true
   invertPagination: true
 ---
 
 {{< lead >}}
-Notas.
+Columnas, notas y pensamientos.
 {{< /lead >}}
 
 ---

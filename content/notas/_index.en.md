@@ -1,6 +1,6 @@
 ---
-title: "Notas"
-description: "Para Sol y Eva" 
+title: "Notes"
+description: "Flow of though" 
 cascade:
   showDate: false
   showAuthor: false
@@ -8,7 +8,7 @@ cascade:
 ---
 
 {{< lead >}}
-Una breve descripcion de mi persona y de mis recorridos.
+Columns and thoughts.
 {{< /lead >}}
 
 ---

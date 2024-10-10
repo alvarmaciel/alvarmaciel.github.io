@@ -15,9 +15,9 @@ title = "Inicio"
 
 [params.author]
   name = "Alvar"
-  image = "img/alvar_edificios.jpg"
+  image = "img/foto_oficina.jpg"
   headline = "Lento es normal"
-  bio = "Programador. Maestro... Lento es normal. Desde La Población, Córdoba, Argentina"
+  bio = "Programador. Maestro. Desde La Población, Córdoba, Argentina"
   links = [
     { email = "mailto:alvarmaciel@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },

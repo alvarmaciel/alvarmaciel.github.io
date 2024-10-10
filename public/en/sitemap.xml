@@ -3,6 +3,70 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/en/notas/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/notas/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/notas/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/notas/lento_es_normal/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/notas/lento_es_normal/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/notas/lento_es_normal/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/notas/lento_es_normal/como_funcionan_las_cosas/</loc>
+    <lastmod>2024-08-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/notas/lento_es_normal/como_funcionan_las_cosas/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/notas/lento_es_normal/como_funcionan_las_cosas/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/en/bio/quien-soy/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -32,22 +96,6 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/en/bio/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/en/</loc>
-    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/"
     />
   </url>
   <url>
@@ -112,21 +160,6 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/en/posts/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/en/notas/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/notas/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/notas/"
     />
   </url>
 </urlset>
