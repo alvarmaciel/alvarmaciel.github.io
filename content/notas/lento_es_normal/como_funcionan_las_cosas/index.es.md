@@ -4,7 +4,7 @@ date: 2024-08-16
 draft: false
 description: "sobre nuestro amigo Google"
 tags: ["tecnología"]
-category: ["medios"]
+categories: ["radio"]
 ---
 
 Pienso que su importancia radica en que este conocimiento nos permite decidir. Y

@@ -4,7 +4,7 @@ Date: 2024-08-16
 Draft: false
 Description: "about our friend Google"
 Tags: ["technology"]
-Category: ["media"]
+categories: ["radio"]
 ---
 
 I think its importance lies in the fact that this knowledge allows us to decide. And decision-making is something that we are largely deprived of in a world that drives us to choose based on impulses and emotions. What is the difference between one thing and the other? Why, if I make decisions about how to feed myself, what kind of food to buy, or where, based on prices, affinity with the store, or what we consider healthy for me or my family, is it so difficult to apply the same criteria to other things, such as the devices or apps I use? How do we figure out which foods and their combinations are good, and how should we go about evaluating the same for the everyday apps that ultimately impact my mind and body? This is the proposal: to reflect and explore together how things work, so that later, each person can decide. We are going to start with something that surrounds us and is part of our everyday life.
