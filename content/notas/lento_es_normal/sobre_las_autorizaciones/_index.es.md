@@ -7,7 +7,7 @@ Tags: ["sociedad",]
 categories: ["radio"]
 ---
 
-### ¿Qué autorizamos en el celu y que autorizamos en una página?
+## ¿Qué autorizamos en el celu y que autorizamos en una página?
 
 Porqué nos piden autorizar cosas, porqué nos bloquean si no las autorizamos, hay
 que autorizar o no autorizar. Esta fue la pregunta de una vecina la semana
@@ -16,7 +16,9 @@ desde ahí empezar a responder. En principio existen dos grandes tipos de
 solicitudes, las vinculadas a las páginas web y las vinculadas a las
 aplicaciones de celulares. Las primeras, en general no afectan a la navegación,
 las segundas, pueden si afectar el uso de una aplicación.
-*** ¿Por qué hay páginas que me piden autorizaciones?
+Las páginas web te piden autorizacion para instalar cookies
+
+### ¿Por qué hay páginas que me piden autorizaciones?
 Las páginas web te piden autorizar cookies debido a las regulaciones de
 protección de datos, como el Reglamento General de Protección de Datos (GDPR) en
 la Unión Europea o la Ley de Privacidad del Consumidor de California (CCPA) en
