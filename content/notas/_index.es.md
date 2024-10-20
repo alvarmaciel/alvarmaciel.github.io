@@ -8,7 +8,7 @@ cascade:
 ---
 
 {{< lead >}}
-Columnas y pensamientos.
+- Lento es normal: Colección de notas en algunos medios
 {{< /lead >}}
 
 ---

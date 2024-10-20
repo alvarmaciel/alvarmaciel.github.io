@@ -2,13 +2,13 @@
 title: "Notes"
 description: "Flow of though" 
 cascade:
-  showDate: false
-  showAuthor: false
+  showDate: true
+  showAuthor: true
   invertPagination: true
 ---
 
 {{< lead >}}
-Columns and thoughts.
+- Slow is normal: Collection of articles in some media.
 {{< /lead >}}
 
 ---
