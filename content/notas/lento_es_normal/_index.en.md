@@ -3,6 +3,7 @@ Title: "Slow is Normal"
 Description: "Radio and periodic column"
 Date: 2024-10-10
 Cascade:
+    showViews: false
     showDate: true
     showAuthor: true
     invertPagination: true
