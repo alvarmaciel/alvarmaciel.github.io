@@ -90,8 +90,8 @@ smartTOCHideUnfocusedChildren = false
   showCards = false
   orderByWeight = false
   groupByYear = false
-  cardView = false
-  cardViewScreenWidth = false
+  cardView = true
+  cardViewScreenWidth = true
   constrainItemsWidth = false
 
 [sitemap]

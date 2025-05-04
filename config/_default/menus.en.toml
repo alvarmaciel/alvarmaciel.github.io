@@ -16,9 +16,25 @@
   weight = 10
 
 [[main]]
-  name = "Notes"
-  pageRef = "notas"
+  name = "Posts"
+  pageRef = "posts"
   weight = 11
+
+[[main]]
+  name = "Other blogs"
+  weight = 12
+
+[[main]]
+  name = "Cyberiada"
+  parent = "Other blogs"
+  url = "https://alvarmaciel.gitlab.io/cyberiada/"
+  weight = 12
+
+[[main]]
+  name = "Acerca de la educacion"
+  url = "https://acercadelaeducacion.com.ar"
+  parent = "Other blogs"
+  weight = 13
 
 #[[main]]
 #  name = "Parent"

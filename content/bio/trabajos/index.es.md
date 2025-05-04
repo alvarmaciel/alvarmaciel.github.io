@@ -18,6 +18,7 @@ heroStyle: "background"
 - Maestro Integrador: Integrarte Villa Dolores. Escuela Dolores Aguirre de Funes.
 - Contenidista del Proyecto Pensamiento Computacional para Plan Ceibal en la Fundación SAdosky.
 - Profesor de Tecnologías en Escuela Secundaria técnica de la Universidad de San Martín.
+<!--more-->
 - Maestro de programa Reorganización de trayectorias escolares (Aceleración): Escuela Nro 7 DE 8 Modalidad grado
 - Docente remoto de programación para el plan Ceibal en Fundación Sadosky Plan Ceibal.
 - Referente Pedagógico de Docentes remotos de pensamiento computacional para el plan Ceibal en Fundación Sadosky 

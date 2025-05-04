@@ -16,9 +16,25 @@
   weight = 10
 
 [[main]]
-  name = "Notas"
-  pageRef = "notas"
+  name = "Posts"
+  pageRef = "posts"
   weight = 11
+
+[[main]]
+  name = "Otros blogs"
+  weight = 12
+
+[[main]]
+  name = "Cyberiada"
+  parent = "Otros blogs"
+  url = "https://alvarmaciel.gitlab.io/cyberiada/"
+  weight = 12
+
+[[main]]
+  name = "Acerca de la educacion"
+  url = "https://acercadelaeducacion.com.ar"
+  parent = "Otros blogs"
+  weight = 13
 
 # [[main]]
 #   name = "Shortcodes"
@@ -62,6 +78,13 @@
 #  weight = 1000
 
 [[main]]
+  identifier = "rss"
+  pre = "rss-square"
+  url = "/index.xml"
+  weight = 100
+
+
+[[main]]
   identifier = "twitter"
   pre = "x-twitter"
   url = "https://twitter.com/amaciel"
@@ -78,6 +101,16 @@
   pre = "github"
   url = "https://github.com/alvarmaciel"
   weight = 400
+
+# [[subnavigation]]
+#   name = "Cyberiada"
+#   pageRef = "tags/interesting-topic"
+#   weight = 10
+
+# [[subnavigation]]
+#   name = "Acerca de la educacion"
+#   pageRef = "categories/awesome"
+#   weight = 20
 
 
 # -- Footer Menu --
