@@ -6,16 +6,47 @@
     <description>Recent content in Welcome to my fair :tada: on Start</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Alvar</copyright>
-    <lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Alvar</copyright>
+    <lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bitter Cookies</title>
+      <link>http://localhost:1313/en/posts/galletitas_amargas/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/posts/galletitas_amargas/</guid>
+      <description>&lt;p&gt;Why do they ask us to authorize things? Why do they block us if we don&amp;rsquo;t? Should we authorize or not? This was a question from a neighbor last week, and I think we need to separate the problems, make them smaller, and start answering from there.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/galletitas_amargas/featured_Galletita_Sonrisas.jpg" />
+    </item>
+    
+    <item>
+      <title>About What We Authorize</title>
+      <link>http://localhost:1313/en/posts/sobre_las_autorizaciones/</link>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/posts/sobre_las_autorizaciones/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;What do we authorize on our phones and on a webpage? 
+    &lt;div id=&#34;what-do-we-authorize-on-our-phones-and-on-a-webpage&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-do-we-authorize-on-our-phones-and-on-a-webpage&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;Why do they ask us to authorize things? Why do they block us if we don&amp;rsquo;t authorize? Should we authorize or not? This was a question from a neighbor last week, and I think we need to break down the issues, make them smaller, and start answering from there. Essentially, there are two major types of requests: those related to websites and those related to mobile applications. The former generally do not affect browsing, while the latter can indeed affect the use of an app.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/sobre_las_autorizaciones/featured_autorizaciones.jpg" />
+    </item>
+    
     <item>
       <title>How Things Work</title>
-      <link>http://localhost:1313/en/notas/lento_es_normal/como_funcionan_las_cosas/</link>
+      <link>http://localhost:1313/en/posts/como_funcionan_las_cosas/</link>
       <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/notas/lento_es_normal/como_funcionan_las_cosas/</guid>
+      <guid>http://localhost:1313/en/posts/como_funcionan_las_cosas/</guid>
       <description>&lt;p&gt;I think its importance lies in the fact that this knowledge allows us to decide. And decision-making is something that we are largely deprived of in a world that drives us to choose based on impulses and emotions. What is the difference between one thing and the other? Why, if I make decisions about how to feed myself, what kind of food to buy, or where, based on prices, affinity with the store, or what we consider healthy for me or my family, is it so difficult to apply the same criteria to other things, such as the devices or apps I use? How do we figure out which foods and their combinations are good, and how should we go about evaluating the same for the everyday apps that ultimately impact my mind and body? This is the proposal: to reflect and explore together how things work, so that later, each person can decide. We are going to start with something that surrounds us and is part of our everyday life.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/notas/lento_es_normal/como_funcionan_las_cosas/featured_como_funcionan_las_cosas.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/como_funcionan_las_cosas/featured.jpg" />
     </item>
     
     <item>
@@ -26,7 +57,7 @@
       <guid>http://localhost:1313/en/bio/quien-soy/</guid>
       <description>&lt;p&gt;Father of two children. Teacher, today Backend Developer. Worked integrating technologies in didactic processes in the primary, pre-school and high school areas. I am a grade teacher, high school teacher. I collaborated with Mozilla, Smalltalk and free software or education events.
 I program mainly in Python, I learn Smalltalk and Rust. I translate from English things that interest me, like &lt;a href=&#34;https://www.newschool.edu/lang/faculty/mckenzie-wark/&#34; target=&#34;_blank&#34;&gt;McKenzie Wark&lt;/a&gt;, Python documentation or &lt;a href=&#34;https://alvarmaciel.gitlab.io/cyberiada/categories/traducciones/&#34; target=&#34;_blank&#34;&gt;some of these articles&lt;/a&gt;.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bio/quien-soy/featured.png" />
+      
     </item>
     
     <item>
@@ -36,7 +67,7 @@ I program mainly in Python, I learn Smalltalk and Rust. I translate from English
       
       <guid>http://localhost:1313/en/bio/aprendizaje/</guid>
       <description>&lt;p&gt;I am interested in many things, such as education and its relationship with technology, programming and its paradigms, the history and architecture of solutions to implementation problems, philosophy and the reflection on the impacts of radical innovations in our world, and mathematics and its methods of understanding the world. These are my most intense areas of interest. I am somewhat disorganized in learning and am constantly working to be more systematic. Even so, today I am much more efficient than in previous years.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bio/aprendizaje/featured.png" />
+      
     </item>
     
     <item>

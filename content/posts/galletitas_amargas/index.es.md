@@ -1,7 +1,7 @@
 ---
 Title: "Galletitas amargas"
 Date: 2024-10-07
-Draft: true
+Draft: false
 Description: "Qué autorizamos y por qué"
 Tags: ["sociedad",]
 categories: ["periodico"]

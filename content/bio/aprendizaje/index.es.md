@@ -12,6 +12,8 @@ heroStyle: "background"
 
 Me interesan muchas cosas, la educación y su relación con la tecnología, la programación sus paradigmas, historia y arquitectura de soluciones a problemas de implementación. La filosofía y la reflexión sobre los impactos de las novedades radicales en nuestro mundo. La matemática y sus métodos de conocer el mundo. Esos son mis áreas de interés más intensas, soy algo desorganizado para el aprendizaje y estoy en constante trabajo para ser más sistemático. Así y todo, hoy soy mucho más eficiente que años anteriores.
 
+<!--more-->
+
 ### Estudios formales e informales:
 - Técnico en computación.
 - Profesor de Enseñanza Primaria.

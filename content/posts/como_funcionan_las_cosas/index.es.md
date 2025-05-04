@@ -3,17 +3,19 @@ title: "Cómo funcionan las cosas"
 date: 2024-08-16
 draft: false
 description: "sobre nuestro amigo Google"
-tags: ["tecnología"]
+tags: ["tecnologia"]
 categories: ["radio"]
 ---
 
-Pienso que su importancia radica en que este conocimiento nos permite decidir. Y
-la decisión es eso de lo que estamos bastante privados en un mundo que nos lleva
-de las narices a elegir a partir de impulsos y emociones. ¿Que diferencia hay
+Saber como funcionan las cosas  nos permite decidir. Y nuestra capacidad de decidir es algo de lo que estamos bastante privados en un mundo que nos lleva
+de las narices a elegir a partir de impulsos y emociones. 
+
+¿Que diferencia hay
 entra una cosa y otra? Por qué, si tomo decisiones sobre como alimentarme, que
 tipo de comida comprar, o dónde, en función de precios, simpatía con el comercio
-o lo que consideramos saludable para mi o mi familia. Por qué es tan difícil
-tener los mismos criterios con otras cosas, como por ejemplo los dispositivo o
+o lo que consideramos saludable para mi o mi familia. 
+
+Por qué es tan difícil tener los mismos criterios con otras cosas, como por ejemplo los dispositivo o
 aplicaciones que uso Cómo hacemos para saber que alimentos y su combinación son
 buenos y como deberíamos hacer para evaluar lo mismo pero con aplicaciones
 cotidianas que en definitiva impactan en mi mente y mi cuerpo. Esta es la
@@ -77,3 +79,7 @@ Bien, de esto se trata pero a nivel planetario. Así creció, sabiendo y
 segmentando cada vez mejor a quien mostrar cada anuncio. Una idea sencilla, pero
 que a la vez, cambio para siempre como habitamos el mundo. Esta es una hilacha
 de una madeja con muchas puntas.
+
+---
+
+Imagen vía : https://www.pexels.com/photo/brown-metal-rusty-gears-4544992/

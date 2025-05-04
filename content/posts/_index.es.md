@@ -6,13 +6,13 @@ draft: false
 showDate : false
 showDateUpdated : false
 showHeadingAnchors : false
-showPagination : false
+showPagination : true
 showReadingTime : false
 showTableOfContents : true
-showTaxonomies : false 
+showTaxonomies : true 
 showWordCount : false
 showSummary : false
 sharingLinks : false
-
+cardView: false
 ---
 

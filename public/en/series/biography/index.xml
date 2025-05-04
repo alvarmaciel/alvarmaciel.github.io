@@ -6,8 +6,9 @@
     <description>Recent content in Biography on Start</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Alvar</copyright>
+    <copyright>© 2025 Alvar</copyright>
     <lastBuildDate>Sun, 26 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/series/biography/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>About me</title>
       <link>http://localhost:1313/en/bio/quien-soy/</link>
@@ -16,7 +17,7 @@
       <guid>http://localhost:1313/en/bio/quien-soy/</guid>
       <description>&lt;p&gt;Father of two children. Teacher, today Backend Developer. Worked integrating technologies in didactic processes in the primary, pre-school and high school areas. I am a grade teacher, high school teacher. I collaborated with Mozilla, Smalltalk and free software or education events.
 I program mainly in Python, I learn Smalltalk and Rust. I translate from English things that interest me, like &lt;a href=&#34;https://www.newschool.edu/lang/faculty/mckenzie-wark/&#34; target=&#34;_blank&#34;&gt;McKenzie Wark&lt;/a&gt;, Python documentation or &lt;a href=&#34;https://alvarmaciel.gitlab.io/cyberiada/categories/traducciones/&#34; target=&#34;_blank&#34;&gt;some of these articles&lt;/a&gt;.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bio/quien-soy/featured.png" />
+      
     </item>
     
     <item>
@@ -26,7 +27,7 @@ I program mainly in Python, I learn Smalltalk and Rust. I translate from English
       
       <guid>http://localhost:1313/en/bio/aprendizaje/</guid>
       <description>&lt;p&gt;I am interested in many things, such as education and its relationship with technology, programming and its paradigms, the history and architecture of solutions to implementation problems, philosophy and the reflection on the impacts of radical innovations in our world, and mathematics and its methods of understanding the world. These are my most intense areas of interest. I am somewhat disorganized in learning and am constantly working to be more systematic. Even so, today I am much more efficient than in previous years.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bio/aprendizaje/featured.png" />
+      
     </item>
     
     <item>

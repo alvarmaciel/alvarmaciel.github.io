@@ -1,9 +1,9 @@
 ---
-Title: "Acerca de lo que autorizamos"
-Date: 2024-08-23
-Draft: false
-Description: "Qué autorizamos y por qué"
-Tags: ["sociedad",]
+title: "Acerca de lo que autorizamos"
+date: 2024-08-23
+draft: false
+description: "Qué autorizamos y por qué"
+tags: ["sociedad",]
 categories: ["radio"]
 ---
 

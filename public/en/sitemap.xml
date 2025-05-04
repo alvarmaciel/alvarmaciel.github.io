@@ -3,40 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/en/notas/</loc>
-    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/en/posts/galletitas_amargas/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/notas/"
+      href="http://localhost:1313/posts/galletitas_amargas/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/notas/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/en/notas/lento_es_normal/</loc>
-    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/notas/lento_es_normal/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/notas/lento_es_normal/"
+      href="http://localhost:1313/en/posts/galletitas_amargas/"
     />
   </url>
   <url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -51,35 +35,35 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/en/notas/lento_es_normal/sobre_las_autorizaciones/</loc>
+    <loc>http://localhost:1313/en/posts/sobre_las_autorizaciones/</loc>
     <lastmod>2024-08-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/notas/lento_es_normal/sobre_las_autorizaciones/"
+      href="http://localhost:1313/posts/sobre_las_autorizaciones/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/notas/lento_es_normal/sobre_las_autorizaciones/"
+      href="http://localhost:1313/en/posts/sobre_las_autorizaciones/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/en/notas/lento_es_normal/como_funcionan_las_cosas/</loc>
+    <loc>http://localhost:1313/en/posts/como_funcionan_las_cosas/</loc>
     <lastmod>2024-08-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/notas/lento_es_normal/como_funcionan_las_cosas/"
+      href="http://localhost:1313/posts/como_funcionan_las_cosas/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/notas/lento_es_normal/como_funcionan_las_cosas/"
+      href="http://localhost:1313/en/posts/como_funcionan_las_cosas/"
     />
   </url>
   <url>

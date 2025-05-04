@@ -6,8 +6,9 @@
     <description>Recent content in Bio on Inicio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <copyright>© 2024 Alvar</copyright>
+    <copyright>© 2025 Alvar</copyright>
     <lastBuildDate>Sun, 26 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/bio/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Acerca de mi</title>
       <link>http://localhost:1313/bio/quien-soy/</link>
@@ -16,7 +17,7 @@
       <guid>http://localhost:1313/bio/quien-soy/</guid>
       <description>&lt;p&gt;Padre de dos niños. Docente, hoy Backend Developer. Trabaje integrando tecnologías en procesos didácticos en el área de primaria, inicial y secundaria. Soy Maestro de grado, profesor de secundario. Colaboré con Mozilla, Smalltalk y eventos de software libre o educación.
 Programo principalmente en Python, aprendo Smalltalk y Rust. Traduzco del inglés cosas que me interesan, como a &lt;a href=&#34;https://www.newschool.edu/lang/faculty/mckenzie-wark/&#34; target=&#34;_blank&#34;&gt;McKenzie Wark&lt;/a&gt;, la documentación de Python o &lt;a href=&#34;https://alvarmaciel.gitlab.io/cyberiada/categories/traducciones/&#34; target=&#34;_blank&#34;&gt;alguno de estos artículos&lt;/a&gt;.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bio/quien-soy/featured.png" />
+      
     </item>
     
     <item>
@@ -26,7 +27,7 @@ Programo principalmente en Python, aprendo Smalltalk y Rust. Traduzco del inglé
       
       <guid>http://localhost:1313/bio/aprendizaje/</guid>
       <description>&lt;p&gt;Me interesan muchas cosas, la educación y su relación con la tecnología, la programación sus paradigmas, historia y arquitectura de soluciones a problemas de implementación. La filosofía y la reflexión sobre los impactos de las novedades radicales en nuestro mundo. La matemática y sus métodos de conocer el mundo. Esos son mis áreas de interés más intensas, soy algo desorganizado para el aprendizaje y estoy en constante trabajo para ser más sistemático. Así y todo, hoy soy mucho más eficiente que años anteriores.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bio/aprendizaje/featured.png" />
+      
     </item>
     
     <item>

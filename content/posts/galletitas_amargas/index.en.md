@@ -1,9 +1,9 @@
 ---
-Title: "Bitter Cookies"
-Date: 2024-10-07
-Draft: true
-Description: "What we authorize and why"
-Tags: ["society"]
+title: "Bitter Cookies"
+date: 2024-10-07
+draft: false
+description: "What we authorize and why"
+tags: ["society"]
 categories: ["newspaper"]
 ---
 
