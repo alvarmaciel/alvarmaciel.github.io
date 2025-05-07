@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biografía on Inicio</title>
-    <link>https://alvarmaciel.github.io/bio/</link>
+    <link>http://localhost:1313/bio/</link>
     <description>Recent content in Biografía on Inicio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2025 Alvar</copyright>
-    <lastBuildDate>Sun, 26 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://alvarmaciel.github.io/bio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/bio/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Acerca de mi</title>
-      <link>https://alvarmaciel.github.io/bio/quien-soy/</link>
+      <link>http://localhost:1313/bio/quien-soy/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://alvarmaciel.github.io/bio/quien-soy/</guid>
+      <guid>http://localhost:1313/bio/quien-soy/</guid>
       <description>&lt;p&gt;Padre de dos niños. Docente, hoy Backend Developer. Trabaje integrando tecnologías en procesos didácticos en el área de primaria, inicial y secundaria. Soy Maestro de grado, profesor de secundario. Colaboré con Mozilla, Smalltalk y eventos de software libre o educación.
 Programo principalmente en Python, aprendo Smalltalk y Rust. Traduzco del inglés cosas que me interesan, como a &lt;a href=&#34;https://www.newschool.edu/lang/faculty/mckenzie-wark/&#34; target=&#34;_blank&#34;&gt;McKenzie Wark&lt;/a&gt;, la documentación de Python o &lt;a href=&#34;https://alvarmaciel.gitlab.io/cyberiada/categories/traducciones/&#34; target=&#34;_blank&#34;&gt;alguno de estos artículos&lt;/a&gt;.&lt;/p&gt;</description>
       
@@ -22,20 +22,20 @@ Programo principalmente en Python, aprendo Smalltalk y Rust. Traduzco del inglé
     
     <item>
       <title>Aprendizajes</title>
-      <link>https://alvarmaciel.github.io/bio/aprendizaje/</link>
+      <link>http://localhost:1313/bio/aprendizaje/</link>
       <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://alvarmaciel.github.io/bio/aprendizaje/</guid>
+      <guid>http://localhost:1313/bio/aprendizaje/</guid>
       <description>&lt;p&gt;Me interesan muchas cosas, la educación y su relación con la tecnología, la programación sus paradigmas, historia y arquitectura de soluciones a problemas de implementación. La filosofía y la reflexión sobre los impactos de las novedades radicales en nuestro mundo. La matemática y sus métodos de conocer el mundo. Esos son mis áreas de interés más intensas, soy algo desorganizado para el aprendizaje y estoy en constante trabajo para ser más sistemático. Así y todo, hoy soy mucho más eficiente que años anteriores.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Trabajos</title>
-      <link>https://alvarmaciel.github.io/bio/trabajos/</link>
+      <link>http://localhost:1313/bio/trabajos/</link>
       <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://alvarmaciel.github.io/bio/trabajos/</guid>
+      <guid>http://localhost:1313/bio/trabajos/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;Actualmente: 
     &lt;div id=&#34;actualmente&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -72,10 +72,10 @@ Programo principalmente en Python, aprendo Smalltalk y Rust. Traduzco del inglé
     
     <item>
       <title>Mi vida en la web</title>
-      <link>https://alvarmaciel.github.io/bio/mi-vida-en-la-web/</link>
+      <link>http://localhost:1313/bio/mi-vida-en-la-web/</link>
       <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://alvarmaciel.github.io/bio/mi-vida-en-la-web/</guid>
+      <guid>http://localhost:1313/bio/mi-vida-en-la-web/</guid>
       <description>&lt;p&gt;Mantengo un blog sobre mi lado mas ñoño &lt;a href=&#34;https://alvarmaciel.gitlab.io/cyberiada/&#34; target=&#34;_blank&#34;&gt;Cybriada&lt;/a&gt; y mantuve un blog de educación y tecnología, &lt;a href=&#34;https://acercadelaeducacion.com.ar/&#34; target=&#34;_blank&#34;&gt;Acerca de la Educación&lt;/a&gt; durante muchos años, ahora los sostengo on line pero no escribo más ahí&lt;/p&gt;</description>
       
     </item>
