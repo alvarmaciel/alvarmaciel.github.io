@@ -1,7 +1,7 @@
 # -- Main Menu --
 # The main menu is displayed in the header at the top of the page.
 # Acceptable parameters are name, pageRef, page, url, title, weight.
-# 
+#
 # The simplest menu configuration is to provide:
 #   name = The name to be displayed for this menu link
 #   pageRef = The identifier of the page or section to link to
@@ -11,30 +11,40 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Bio"
-  pageRef = "bio"
-  weight = 10
+name = "Bio"
+pageRef = "bio"
+weight = 10
 
 [[main]]
-  name = "Posts"
-  pageRef = "posts"
-  weight = 11
+name = "Posts"
+pageRef = "posts"
+weight = 11
 
 [[main]]
-  name = "Otros blogs"
-  weight = 12
+name = "Otros blogs"
+weight = 12
 
 [[main]]
-  name = "Cyberiada"
-  parent = "Otros blogs"
-  url = "https://alvarmaciel.gitlab.io/cyberiada/"
-  weight = 12
+name = "Cyberiada"
+parent = "Otros blogs"
+url = "https://alvarmaciel.gitlab.io/cyberiada/"
+weight = 12
 
 [[main]]
-  name = "Acerca de la educacion"
-  url = "https://acercadelaeducacion.com.ar"
-  parent = "Otros blogs"
-  weight = 13
+name = "Acerca de la educacion"
+url = "https://acercadelaeducacion.com.ar"
+parent = "Otros blogs"
+weight = 13
+
+[[main]]
+name = "Medios"
+weight = 13
+
+[[main]]
+name = "Lento es Normal"
+parent = "Medios"
+pageRef = "media/lento_es_normal"
+weight = 14
 
 # [[main]]
 #   name = "Shortcodes"
@@ -78,29 +88,29 @@
 #  weight = 1000
 
 [[main]]
-  identifier = "rss"
-  pre = "rss-square"
-  url = "/index.xml"
-  weight = 100
+identifier = "rss"
+pre = "rss-square"
+url = "/index.xml"
+weight = 100
 
 
 [[main]]
-  identifier = "twitter"
-  pre = "x-twitter"
-  url = "https://twitter.com/amaciel"
-  weight = 200
+identifier = "twitter"
+pre = "x-twitter"
+url = "https://twitter.com/amaciel"
+weight = 200
 
 [[main]]
-  identifier = "mastodon"
-  pre = "mastodon"
-  url = "https://mastodon.social/@alvarmaciel"
-  weight = 300
+identifier = "mastodon"
+pre = "mastodon"
+url = "https://mastodon.social/@alvarmaciel"
+weight = 300
 
 [[main]]
-  identifier = "github"
-  pre = "github"
-  url = "https://github.com/alvarmaciel"
-  weight = 400
+identifier = "github"
+pre = "github"
+url = "https://github.com/alvarmaciel"
+weight = 400
 
 # [[subnavigation]]
 #   name = "Cyberiada"
@@ -117,12 +127,12 @@
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
- [[footer]]
-   name = "Tags"
-   pageRef = "tags"
-   weight = 10
+[[footer]]
+name = "Tags"
+pageRef = "tags"
+weight = 10
 
 [[footer]]
-  name = "Categories"
-  pageRef = "categories"
-  weight = 20
+name = "Categories"
+pageRef = "categories"
+weight = 20

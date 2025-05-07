@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Inicio</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://alvarmaciel.github.io/categories/</link>
     <description>Recent content in Categories on Inicio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2025 Alvar</copyright>
-    <lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://alvarmaciel.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Periodico</title>
-      <link>http://localhost:1313/categories/periodico/</link>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      <title>Lento Es Normal</title>
+      <link>https://alvarmaciel.github.io/categories/lento-es-normal/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/periodico/</guid>
+      <guid>https://alvarmaciel.github.io/categories/lento-es-normal/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Lento Es Nomral</title>
-      <link>http://localhost:1313/categories/lento-es-nomral/</link>
-      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <title>Periodico</title>
+      <link>https://alvarmaciel.github.io/categories/periodico/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/lento-es-nomral/</guid>
+      <guid>https://alvarmaciel.github.io/categories/periodico/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Radio</title>
-      <link>http://localhost:1313/categories/radio/</link>
+      <link>https://alvarmaciel.github.io/categories/radio/</link>
       <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/radio/</guid>
+      <guid>https://alvarmaciel.github.io/categories/radio/</guid>
       <description></description>
       
     </item>

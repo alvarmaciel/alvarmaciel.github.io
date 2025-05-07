@@ -3,163 +3,195 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/en/posts/galletitas_amargas/</loc>
+    <loc>https://alvarmaciel.github.io/en/media/</loc>
+    <lastmod>2025-05-05T20:55:37+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://alvarmaciel.github.io/media/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://alvarmaciel.github.io/en/media/"
+    />
+  </url>
+  <url>
+    <loc>https://alvarmaciel.github.io/en/media/lento_es_normal/</loc>
+    <lastmod>2025-05-05T20:55:37+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://alvarmaciel.github.io/media/lento_es_normal/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://alvarmaciel.github.io/en/media/lento_es_normal/"
+    />
+  </url>
+  <url>
+    <loc>https://alvarmaciel.github.io/en/</loc>
+    <lastmod>2025-05-05T20:55:37+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://alvarmaciel.github.io/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://alvarmaciel.github.io/en/"
+    />
+  </url>
+  <url>
+    <loc>https://alvarmaciel.github.io/en/posts/galletitas_amargas/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/posts/galletitas_amargas/"
+      href="https://alvarmaciel.github.io/posts/galletitas_amargas/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/posts/galletitas_amargas/"
+      href="https://alvarmaciel.github.io/en/posts/galletitas_amargas/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/en/</loc>
-    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/en/posts/sobre_las_autorizaciones/</loc>
+    <loc>https://alvarmaciel.github.io/en/posts/sobre_las_autorizaciones/</loc>
     <lastmod>2024-08-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/posts/sobre_las_autorizaciones/"
+      href="https://alvarmaciel.github.io/posts/sobre_las_autorizaciones/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/posts/sobre_las_autorizaciones/"
+      href="https://alvarmaciel.github.io/en/posts/sobre_las_autorizaciones/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/en/posts/como_funcionan_las_cosas/</loc>
+    <loc>https://alvarmaciel.github.io/en/posts/como_funcionan_las_cosas/</loc>
     <lastmod>2024-08-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/posts/como_funcionan_las_cosas/"
+      href="https://alvarmaciel.github.io/posts/como_funcionan_las_cosas/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/posts/como_funcionan_las_cosas/"
+      href="https://alvarmaciel.github.io/en/posts/como_funcionan_las_cosas/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/en/bio/quien-soy/</loc>
+    <loc>https://alvarmaciel.github.io/en/bio/quien-soy/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/bio/quien-soy/"
+      href="https://alvarmaciel.github.io/bio/quien-soy/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/bio/quien-soy/"
+      href="https://alvarmaciel.github.io/en/bio/quien-soy/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/en/bio/</loc>
+    <loc>https://alvarmaciel.github.io/en/bio/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/bio/"
+      href="https://alvarmaciel.github.io/bio/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/bio/"
+      href="https://alvarmaciel.github.io/en/bio/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/en/bio/aprendizaje/</loc>
+    <loc>https://alvarmaciel.github.io/en/bio/aprendizaje/</loc>
     <lastmod>2023-11-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/bio/aprendizaje/"
+      href="https://alvarmaciel.github.io/bio/aprendizaje/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/bio/aprendizaje/"
+      href="https://alvarmaciel.github.io/en/bio/aprendizaje/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/en/bio/trabajos/</loc>
+    <loc>https://alvarmaciel.github.io/en/bio/trabajos/</loc>
     <lastmod>2023-11-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/bio/trabajos/"
+      href="https://alvarmaciel.github.io/bio/trabajos/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/bio/trabajos/"
+      href="https://alvarmaciel.github.io/en/bio/trabajos/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/en/bio/mi-vida-en-la-web/</loc>
+    <loc>https://alvarmaciel.github.io/en/bio/mi-vida-en-la-web/</loc>
     <lastmod>2023-11-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/bio/mi-vida-en-la-web/"
+      href="https://alvarmaciel.github.io/bio/mi-vida-en-la-web/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/bio/mi-vida-en-la-web/"
+      href="https://alvarmaciel.github.io/en/bio/mi-vida-en-la-web/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/en/posts/</loc>
+    <loc>https://alvarmaciel.github.io/en/posts/</loc>
     <lastmod>2022-06-13T20:55:37+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/posts/"
+      href="https://alvarmaciel.github.io/posts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/posts/"
+      href="https://alvarmaciel.github.io/en/posts/"
     />
   </url>
 </urlset>

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Start</title>
-    <link>http://localhost:1313/en/posts/</link>
+    <link>https://alvarmaciel.github.io/en/posts/</link>
     <description>Recent content in Posts on Start</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Alvar</copyright>
-    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="https://alvarmaciel.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bitter Cookies</title>
-      <link>http://localhost:1313/en/posts/galletitas_amargas/</link>
+      <link>https://alvarmaciel.github.io/en/posts/galletitas_amargas/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/posts/galletitas_amargas/</guid>
+      <guid>https://alvarmaciel.github.io/en/posts/galletitas_amargas/</guid>
       <description>&lt;p&gt;Why do they ask us to authorize things? Why do they block us if we don&amp;rsquo;t? Should we authorize or not? This was a question from a neighbor last week, and I think we need to separate the problems, make them smaller, and start answering from there.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/galletitas_amargas/featured_Galletita_Sonrisas.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/posts/galletitas_amargas/featured_Galletita_Sonrisas.jpg" />
     </item>
     
     <item>
       <title>About What We Authorize</title>
-      <link>http://localhost:1313/en/posts/sobre_las_autorizaciones/</link>
+      <link>https://alvarmaciel.github.io/en/posts/sobre_las_autorizaciones/</link>
       <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/posts/sobre_las_autorizaciones/</guid>
+      <guid>https://alvarmaciel.github.io/en/posts/sobre_las_autorizaciones/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;What do we authorize on our phones and on a webpage? 
     &lt;div id=&#34;what-do-we-authorize-on-our-phones-and-on-a-webpage&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -36,17 +36,17 @@
     
 &lt;/h3&gt;
 &lt;p&gt;Why do they ask us to authorize things? Why do they block us if we don&amp;rsquo;t authorize? Should we authorize or not? This was a question from a neighbor last week, and I think we need to break down the issues, make them smaller, and start answering from there. Essentially, there are two major types of requests: those related to websites and those related to mobile applications. The former generally do not affect browsing, while the latter can indeed affect the use of an app.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/sobre_las_autorizaciones/featured_autorizaciones.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/posts/sobre_las_autorizaciones/featured_autorizaciones.jpg" />
     </item>
     
     <item>
       <title>How Things Work</title>
-      <link>http://localhost:1313/en/posts/como_funcionan_las_cosas/</link>
+      <link>https://alvarmaciel.github.io/en/posts/como_funcionan_las_cosas/</link>
       <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/posts/como_funcionan_las_cosas/</guid>
+      <guid>https://alvarmaciel.github.io/en/posts/como_funcionan_las_cosas/</guid>
       <description>&lt;p&gt;I think its importance lies in the fact that this knowledge allows us to decide. And decision-making is something that we are largely deprived of in a world that drives us to choose based on impulses and emotions. What is the difference between one thing and the other? Why, if I make decisions about how to feed myself, what kind of food to buy, or where, based on prices, affinity with the store, or what we consider healthy for me or my family, is it so difficult to apply the same criteria to other things, such as the devices or apps I use? How do we figure out which foods and their combinations are good, and how should we go about evaluating the same for the everyday apps that ultimately impact my mind and body? This is the proposal: to reflect and explore together how things work, so that later, each person can decide. We are going to start with something that surrounds us and is part of our everyday life.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/como_funcionan_las_cosas/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/posts/como_funcionan_las_cosas/featured.jpg" />
     </item>
     
   </channel>
