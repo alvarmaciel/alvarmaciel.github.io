@@ -14,4 +14,4 @@ audio:
 {{< archiveaudio id="lento-es-normal-miercoles-28-5-25" >}}
 
 Podés escucharlo también desde [archive.org](https://archive.org/details/lento-es-normal-miercoles-28-5-25).
-
+[Para leer mas, este es el artículo de 421 sbre soberanía cognitiva](https://www.cuatroveintiuno.com/soberania-cognitiva-introduccion-autonomia-psiquica/)
