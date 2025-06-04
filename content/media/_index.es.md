@@ -11,8 +11,8 @@ showReadingTime : false
 showTableOfContents : true
 showTaxonomies : true 
 showWordCount : false
-showSummary : false
-sharingLinks : false
+showSummary : true
+sharingLinks : true
 cardView: false
 ---
 
