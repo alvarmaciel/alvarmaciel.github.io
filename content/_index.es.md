@@ -3,7 +3,7 @@ title: "Bienvenidos a mi feria :tada:"
 description: "Este es mi sitio personal"
 ---
 
-Padre de dos. Docente. Backend Developer.
+Padre de dos. Docente. Backend Developer trabajando en ciberseguridad.
 Estas son notas, pensamientos, y algunas columnas radiales.
 Tengo un blog más técnico: [Cyeriadas](alvarmaciel.gitlab.io/cyberiada/) y un histórico sobre educación: [Acerca de la educacion](https://acercadelaeducacion.com.ar/).
 
