@@ -6,7 +6,6 @@ description: "Low tech, High Life"
 rss_description: "Low Tech, High Life"
 tags: ["radio", "tecnologia", "sociedad"]
 categories: ["lento es normal"]
-
 ---
 
 Aclaración: No hay audio hoy. Este es el texto usado para la columna. Por las cosas de la vida, aquello que pronostiqué al final del texto se hizo realidad y el audio se perdió.
