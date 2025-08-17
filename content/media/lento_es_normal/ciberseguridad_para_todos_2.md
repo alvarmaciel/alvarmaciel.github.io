@@ -4,7 +4,7 @@ date: 2025-06-11
 draft: false
 description: "Como andar seguros por la Internet"
 rss_description: "Como andar seguros por la Internet"
-tags: ["radio, tecnologia","ciberseguridad"]
+tags: ["radio", "tecnologia","ciberseguridad"]
 categories: ["lento es normal"]
 audio:
   - "https://archive.org/download/lento-es-normal-miercoles-11-6-25/LENTO_ES_NORMAL-MIERCOLES-11-6-25.mp3"
