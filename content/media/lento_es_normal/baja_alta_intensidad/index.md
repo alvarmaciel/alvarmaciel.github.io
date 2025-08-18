@@ -26,7 +26,7 @@ voy a citar a Juan Ruocco:
 
 > La idea de Low Tech High Life se vincula en parte con el concepto de soberanía cognitiva. En principio, porque abre un espacio de "diseño" en la posibilidad de pensar los usos que le damos a la tecnología y el tiempo que gastamos tanto en comprar nuevos dispositivos como en aprender a usarlos, generalmente para reemplazar funciones que ya teníamos resueltas. Esta reflexión abarca varias puntos: tiempo y dinero, relación costo-beneficio, y carga cognitiva.
 
-[[https://www.cuatroveintiuno.com/low-tech-high-life-cottagecore-cyberpunk/][En low tech, High Life. cuatroveintiuno]]
+[https://www.cuatroveintiuno.com/low-tech-high-life-cottagecore-cyberpunk/](En low tech, High Life. cuatroveintiuno)
 
 Juan segmenta en tres categorías la reflexión:
 
