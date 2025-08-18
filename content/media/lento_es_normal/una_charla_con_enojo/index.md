@@ -6,8 +6,6 @@ description: "Sobre la comodidad de los servicios"
 rss_description: "Sobre la comodidad de los servicios"
 tags: ["radio", "tecnologia", "servicios"]
 categories: ["lento es normal"]
-featureimage: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/10/dandadan-2-okarun-new-hair.jpg"
-featureimagecaption: "nuevo peinado"
 audio:
   - "https://archive.org/download/lento-es-normal-miercoles-23-7-25/LENTO_ES_NORMAL-%20MIERCOLES%20-%2023-7-25.mp3"
 ---
