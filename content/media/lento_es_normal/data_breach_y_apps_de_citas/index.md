@@ -16,6 +16,6 @@ Consecuencias inesperadas a partir de la filtracion de datos. Y una charla sobre
 Links Sobre lo que hablamos:
 
 <!--more-->
-
+- [Nota sobre la filtración de Tea](https://cybersecurefox.com/es/plataforma-tea-filtracion-masiva-datos-personales-59gb/) 
 - La imagen es de Serial Experiments Lain. Gran Anime.
 
