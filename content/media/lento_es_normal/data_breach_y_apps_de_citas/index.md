@@ -1,5 +1,5 @@
 ---
-title: "Filtraciones de dats y apps de citas"
+title: "Filtraciones de datos y apps de citas"
 date: 2025-07-30
 draft: false
 description: "La privacidad es importante. Muy importante"
