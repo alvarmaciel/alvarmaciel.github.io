@@ -6,6 +6,7 @@ description: "La privacidad es importante. Muy importante"
 rss_description: "La privacidad es importante. Muy importante"
 tags: ["radio", "tecnologia", "filtraciones"]
 categories: ["lento es normal"]
+featuredimage: featured.jpg
 audio:
   - "https://archive.org/download/lento-es-normal-miercoles-30-7-25/LENTO-ES-NORMAL-MIERCOLES-30-7-25.mp3"
 ---
