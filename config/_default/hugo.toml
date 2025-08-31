@@ -18,6 +18,17 @@ buildFuture = false
 enableEmoji = true
 
 # googleAnalytics = "G-XXXXXXXXX"
+[params]
+  description = "Un punto de partida al laberinto de mi persona"
+
+  [params.podcast]
+    author = "Alvar"
+    owner_name = "Alvar"
+    owner_email = "alvarmaciel@gmail.com"
+    category = "Technology"
+    explicit = "no"
+    image = "images/con_compu.png"
+    description = "Lento es normal: un podcast sobre tecnología, cultura y vida cotidiana"
 
 [pagination]
   pagerSize = 100

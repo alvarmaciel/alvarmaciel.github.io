@@ -4,16 +4,26 @@
 <channel>
   <title>{{ .Title }}</title>
   <link>{{ .Permalink }}</link>
-  <description>{{ .Description | htmlEscape }}</description>
+  <description>{{ or .Site.Params.podcast.description .Site.Params.description .Description | htmlEscape }}</description>
   <language>{{ .Site.LanguageCode }}</language>
+
+  <!-- <description>{{ .Description | htmlEscape }}</description> -->
+  <!-- <language>{{ .Site.LanguageCode }}</language> -->
   <atom:link href="{{ .Permalink }}" rel="self" type="application/rss+xml"/>
 
   <!-- iTunes podcast metadata -->
-  <itunes:author>Alvar</itunes:author>
-  <itunes:summary>{{ .Description | htmlEscape }}</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="{{ .Site.BaseURL }}images/con_compu.png"/>
-  <itunes:category text="Technology"/>
+  <!-- <itunes:author>Alvar</itunes:author> -->
+  <!-- <itunes:summary>{{ .Description | htmlEscape }}</itunes:summary> -->
+  <!-- <itunes:explicit>no</itunes:explicit> -->
+   <itunes:author>{{ or .Site.Params.podcast.author "Alvar" }}</itunes:author>
+  <itunes:summary>{{ or .Site.Params.podcast.description .Site.Params.description .Summary | htmlEscape }}</itunes:summary>
+  <itunes:explicit>{{ or .Site.Params.podcast.explicit "no" }}</itunes:explicit>
+
+  <!-- <itunes:image href="{{ .Site.BaseURL }}images/con_compu.png"/> -->
+  <!-- <itunes:category text="Technology"/> -->
+  <itunes:image href="{{ (or .Site.Params.podcast.image "images/con_compu.png") | absURL }}"/>
+  <itunes:category text="{{ or .Site.Params.podcast.category "Technology" }}"/>
+
   <itunes:owner>
     <itunes:name>Alvar</itunes:name>
     <itunes:email>alvarmaciel@gmail.com</itunes:email>
