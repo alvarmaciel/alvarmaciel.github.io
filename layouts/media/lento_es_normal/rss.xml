@@ -12,7 +12,7 @@
   <itunes:author>Alvar</itunes:author>
   <itunes:summary>{{ .Description | htmlEscape }}</itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="{{ .Site.BaseURL }}images/logo-podcast.jpg"/>
+  <itunes:image href="{{ .Site.BaseURL }}images/con_compu.png"/>
   <itunes:category text="Technology"/>
   <itunes:owner>
     <itunes:name>Alvar</itunes:name>
@@ -36,6 +36,13 @@
 
     <itunes:author>Alvar</itunes:author>
     <itunes:explicit>no</itunes:explicit>
+
+    {{- $img := "" -}}
+    {{- with .Params.featureimage }}{{ $img = . | absURL }}{{ end -}}
+    {{- if not $img }}{{ with .Params.featureImage }}{{ $img = . | absURL }}{{ end }}{{ end -}}
+    {{- if not $img }}{{ with .Params.image }}{{ $img = . | absURL }}{{ end }}{{ end -}}
+    {{- if $img }}<itunes:image href="{{ $img }}"/>{{ end }}
+
 
     {{ with .Params.description }}
       <itunes:subtitle>{{ . | htmlEscape }}</itunes:subtitle>
