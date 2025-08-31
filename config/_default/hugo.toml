@@ -30,6 +30,7 @@ enableEmoji = true
     image = "images/con_compu.png"
     description = "Lento es normal: un podcast sobre tecnología, cultura y vida cotidiana"
 
+
 [pagination]
   pagerSize = 100
 

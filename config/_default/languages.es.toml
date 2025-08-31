@@ -41,7 +41,7 @@ title = "Inicio"
 #     { keybase = "https://keybase.io/username" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
-#     { linkedin = "https://linkedin.com/in/username" },
+    { linkedin = "https://linkedin.com/in/alvarmaciel" },
     { mastodon = "https://mastodon.social/@alvarmaciel" },
 #     { medium = "https://medium.com/username" },
 #     { microsoft = "https://www.microsoft.com/" },
@@ -66,4 +66,5 @@ title = "Inicio"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
+     { spotify = "https://open.spotify.com/show/5hJVg8ZiQIfBk8hHxNlpOS" }
   ]

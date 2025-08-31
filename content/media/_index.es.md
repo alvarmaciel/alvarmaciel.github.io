@@ -15,4 +15,3 @@ showSummary : true
 sharingLinks : true
 cardView: false
 ---
-
