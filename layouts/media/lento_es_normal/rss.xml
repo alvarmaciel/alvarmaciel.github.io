@@ -36,13 +36,41 @@
 
     <itunes:author>Alvar</itunes:author>
     <itunes:explicit>no</itunes:explicit>
+    <!--images-->
+    {{/* Imagen por episodio: respeta leaf bundles y URLs absolutas */}}
+{{- $img := "" -}}
 
-    {{- $img := "" -}}
-    {{- with .Params.featureimage }}{{ $img = . | absURL }}{{ end -}}
-    {{- if not $img }}{{ with .Params.featureImage }}{{ $img = . | absURL }}{{ end }}{{ end -}}
-    {{- if not $img }}{{ with .Params.image }}{{ $img = . | absURL }}{{ end }}{{ end -}}
-    {{- if $img }}<itunes:image href="{{ $img }}"/>{{ end }}
+{{- with .Params.featureimage -}}
+  {{- $cand := . -}}
+  {{- if or (hasPrefix $cand "http://") (hasPrefix $cand "https://") -}}
+    {{- $img = $cand -}}
+  {{- else -}}
+    {{- with $.Resources.GetMatch $cand -}}
+      {{- $img = .Permalink -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
 
+{{- if not $img -}}
+  {{- with .Resources.GetMatch "featured.*" -}}
+    {{- $img = .Permalink -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if not $img -}}
+  {{- with .Params.image -}}
+    {{- $cand := . -}}
+    {{- if or (hasPrefix $cand "http://") (hasPrefix $cand "https://") -}}
+      {{- $img = $cand -}}
+    {{- else -}}
+      {{- with $.Resources.GetMatch $cand -}}
+        {{- $img = .Permalink -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if $img -}}<itunes:image href="{{ $img }}"/>{{- end -}}
 
     {{ with .Params.description }}
       <itunes:subtitle>{{ . | htmlEscape }}</itunes:subtitle>
