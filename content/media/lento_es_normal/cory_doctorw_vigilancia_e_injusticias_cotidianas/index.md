@@ -1,7 +1,7 @@
 ---
 title: "Cory Doctorow, vigilancia e injusticias cotidianas"
 date: 2025-08-15
-draft: true
+draft: false
 description: "La privacidad es lo primero"
 rss_description: "La privacidad es lo primero"
 tags: ["radio", "sociedad", "privacidad"]
