@@ -18,6 +18,24 @@ El hallazgo central: **no es el tiempo frente a la pantalla lo que predice daño
 
 La conversación enlaza además con el libro de **Jean M. Twenge**, *10 Rules for Raising Kids in a High-Tech World*, que propone pautas familiares y sociales para preparar a los chicos antes de entregarles su primer celular.  
 La conclusión: **las reglas individuales no bastan sin acción colectiva** —debate entre adultos, regulación del diseño adictivo y aprendizaje de tecnologías alternativas.
+
+Disponible en:
+
+<div style="display:flex;gap:1rem;flex-wrap:wrap;justify-content:center;align-items:center;">
+<a href="https://archive.org/details/@amaciel" rel="noopener" target="_blank">
+  <img class="nozoom" src="/images/internet-archive-podcast-badge.svg" alt="Escuchalo en Internet Archive" width="165" height="40">
+</a> | 
+
+<a href="https://open.spotify.com/show/5hJVg8ZiQIfBk8hHxNlpOS" rel="noopener" target="_blank">
+  <img class="nozoom" src="/images/spotify-podcast-badge.svg" alt="Escuchalo en Spotify" width="165" height="40">
+</a> | 
+
+<a href="/media/lento_es_normal/index.rss" rel="noopener" target="_blank">
+  <img class="nozoom" src="/images/rss-podcast-badge.svg" alt="Conectalo a tu reproductor (RSS)" width="165" height="40">
+</a>
+</div>
+
+
  
  <!--more -->
  
