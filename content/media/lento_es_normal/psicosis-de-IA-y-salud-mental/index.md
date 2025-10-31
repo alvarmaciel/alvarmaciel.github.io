@@ -22,7 +22,7 @@ Abordamos un poco el concepto de Brainrot (“cerebro podrido”) y neutralidad 
 
 ### Enlaces y referencias
 
-- **Cory Doctorow** — [*AI Psychosis and the Distorting Mirror*](https://pluralistic.net/2024/06/17/ai-psychosis/)  
+- **Cory Doctorow** — [*AI Psychosis and the Distorting Mirror*](https://pluralistic.net/2025/09/17/automating-gang-stalking-delusion/)  
   Análisis sobre cómo los modelos de lenguaje refuerzan delirios humanos y modifican los límites de la percepción compartida.
 
 - **Caso “Corona Aritmética”** — [Vice: *ChatGPT Arithmetic Crown Delusion*](https://www.vice.com/en/article/qjvzy7/chatgpt-arithmetic-crown-delusion)  
