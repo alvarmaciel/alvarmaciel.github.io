@@ -1,5 +1,5 @@
 ---
-title: "Psicosis de IA y saludo mental"
+title: "Psicosis de IA y salud mental"
 date: 2025-09-25
 draft: false
 description: "Salud mental, inteligencia artificial, Brainrot"
