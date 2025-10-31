@@ -32,11 +32,11 @@ Abordamos un poco el concepto de Brainrot (“cerebro podrido”) y neutralidad 
   Testimonios de ex-desarrolladores de Silicon Valley que advierten sobre el diseño adictivo de las redes sociales.
 
 - **Cathy O’Neil — *Weapons of Math Destruction***  
-  [Sitio oficial](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction)  
+  [Sitio en Wikipdia](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction)  
   Libro sobre cómo los algoritmos amplifican desigualdades y riesgos sociales.
 
 - **Jean M. Twenge — *10 Rules for Raising Kids in a High-Tech World***  
-  [Página del libro](https://www.jeantwenge.com/10-rules-for-raising-kids-in-a-high-tech-world/)  
+  [Libro](https://www.jeantwenge.com/10-rules-for-raising-kids-in-a-high-tech-world/)  
   Guía sobre crianza digital y salud mental infantil.
 
 Imagen: [Crona. Soul Eater](https://www.cbr.com/soul-eater-crona-best-worst-things-trivia/)
