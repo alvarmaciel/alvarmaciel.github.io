@@ -1,5 +1,5 @@
 ---
-title: "Pantallas, habitos nocturnos y las opinones de Eva"
+title: "Pantallas, hábitos nocturnos y las opinones de Eva"
 date: 2025-10-08
 draft: false
 description: "Pasó Eva, mi hija, a charlar sobre estos temas"
