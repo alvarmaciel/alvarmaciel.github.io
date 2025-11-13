@@ -2,7 +2,7 @@
 title: "Pantallas, habitos nocturnos y las opinones de Eva"
 date: 2025-10-08
 draft: false
-description: "Vino Eva, mi hija a charlar sobre estos temas"
+description: "Pasó Eva, mi hija, a charlar sobre estos temas"
 rss_description: "Pantallas, habitos nocturnos y las opiniones de Eva"
 tags: ["radio", "adolescencia", "Eva", "habitos", "redes", "AI"]
 categories: ["lento es normal"]
