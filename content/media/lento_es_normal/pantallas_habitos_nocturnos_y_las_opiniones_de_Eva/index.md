@@ -3,7 +3,7 @@ title: "Pantallas, hábitos nocturnos y las opinones de Eva"
 date: 2025-10-08
 draft: false
 description: "Pasó Eva, mi hija, a charlar sobre estos temas"
-rss_description: "Pantallas, habitos nocturnos y las opiniones de Eva"
+rss_description: "Pantallas, hábitos nocturnos y las opiniones de Eva"
 tags: ["radio", "adolescencia", "Eva", "habitos", "redes", "AI"]
 categories: ["lento es normal"]
 featureimage: featured.png
@@ -13,7 +13,7 @@ audio:
 
 {{< archiveaudio id="lento-es-normal-miercoles-8-10-25" >}}
 
-Retomamos el libro de Jean M. Twenge sobre crianza digital, pero el eje en esta entrega vino  Eva, mi hija.
+Retomamos el libro de Jean M. Twenge sobre crianza digital, pero el eje en esta entrega pasó Eva, mi hija.
 
 El tema inicial —la regla de no dormir con pantallas en la habitación— se nos mezcla con algo mucho mas valioso: escuchar directamente cómo vive un adolescente la relación con el celular, las redes y la inteligencia artificial.
 
