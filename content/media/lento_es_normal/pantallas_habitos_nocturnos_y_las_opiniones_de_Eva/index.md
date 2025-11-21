@@ -13,9 +13,11 @@ audio:
 
 {{< archiveaudio id="lento-es-normal-miercoles-8-10-25" >}}
 
-Retomamos el libro de Jean M. Twenge sobre crianza digital, pero el eje en esta entrega pasó Eva, mi hija.
+Retomamos el libro de Jean M. Twenge sobre crianza digital, pero el eje en esta entregaes que pasó Eva, mi hija, por la radio.
 
 El tema inicial —la regla de no dormir con pantallas en la habitación— se nos mezcla con algo mucho mas valioso: escuchar directamente cómo vive un adolescente la relación con el celular, las redes y la inteligencia artificial.
+
+<!--more-->
 
 
 Disponible en:
@@ -34,7 +36,6 @@ Disponible en:
 </a>
 </div>
 
-<!--more-->
 ### Enlaces y referencias
 
 - [Jean M. Twenge — 10 Rules for Raising Kids in a High-Tech World](https://www.jeantwenge.com/10-rules-for-raising-kids-in-a-high-tech-world/?)

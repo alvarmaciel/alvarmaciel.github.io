@@ -17,6 +17,7 @@ Esta semana charlamos sobre los trastornos mentales vinculados al uso intensivo 
 
 Abordamos un poco el concepto de Brainrot (“cerebro podrido”) y neutralidad de la tecnología:
 ¿sigue siendo neutral la tecnología cuando su diseño refuerza vulnerabilidades psicológicas?
+<!--more-->
 
 Disponible en:
 
@@ -34,7 +35,6 @@ Disponible en:
 </a>
 </div>
 
-<!--more-->
 
 ### Enlaces y referencias
 
