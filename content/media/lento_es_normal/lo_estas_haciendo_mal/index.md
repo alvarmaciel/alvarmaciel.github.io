@@ -2,9 +2,9 @@
 title: "Lo estás haciendo mal"
 date: 2026-04-08
 draft: false
-description: " Columna emitida 2026-03-17"
-rss_description: " Columna emitida 2026-03-17"
-tags: ["radio", ]
+description: "Algoritmos que funcionan demasiado bien y las emociones de las que se alimentan - Columna emitida 2026-03-17"
+rss_description: "Algoritmos que funcionan demasiado bien y las emociones de las que se alimentan - Columna emitida 2026-03-17"
+tags: ["radio", "algoritmos", "emociones"]
 categories: ["lento es normal"]
 featureimage: featured.png
 audio:
