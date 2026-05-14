@@ -33,7 +33,7 @@ Podcast disponible en:
 </a>
 </div>
 
-Con esta idea [me fui]({{< relref "/media/lento_es_normal/lo_estas_haciendo_mal" >}}) y con esta idea vuelvo, que emociones son las que se premian o cuáles son las que se trigerean para tenernos enganchados.
+Con esta idea [me fui]({{< relref "/media/lento_es_normal/lo_estas_haciendo_mal" >}}) y con esta idea vuelvo, qué emociones son las que se premian o cuáles son las que se trigerean para tenernos enganchados.
 
 Hoy voy a hablar del FOMO, y creo que durante algunas columnas más voy a profundizar en esto.
 Qué es el fomo:
