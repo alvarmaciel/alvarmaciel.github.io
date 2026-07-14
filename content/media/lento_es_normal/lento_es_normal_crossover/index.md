@@ -2,8 +2,8 @@
 title: "Lento es Normal Crossover"
 date: 2026-07-14
 draft: false
-description: "  - Columna emitida 2026-04-15"
-rss_description: "   - Columna emitida 2026-04-15"
+description: "Crossover con la Columna de Veronica Gelman A Desaprender  - Columna emitida 2026-04-15"
+rss_description: "Crossover con la Columna de Veronica Gelman A Desaprender  - Columna emitida 2026-04-15"
 tags: ["radio", "algoritmos", "emociones"]
 categories: ["lento es normal"]
 featureimage: featured.png
