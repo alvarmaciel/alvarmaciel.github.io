@@ -1,7 +1,7 @@
 ---
 title: "Pocho labs y la alegría de hacer cosas"
 date: 2026-07-15
-draft: true
+draft: false
 description: "Un recorrido por Pocho labs, Porque La alegría no es solo brasilera - Columna emitida 2026-05-06"
 rss_description: "Un recorrido por Pocho labs, Porque La alegría no es solo brasilera - Columna emitida 2026-05-06"
 tags: ["radio", "low tech", "high life", "pocho"]
