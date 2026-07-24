@@ -1,1 +1,41 @@
-<iframe src="https://archive.org/embed/{{ .Get "id" }}" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+{{- $id := .Get "id" -}}
+{{- $height := .Get "height" | default "60" -}}
+{{- if not $id -}}
+  {{- errorf "archiveaudio shortcode requires an id parameter. Example: {{< archiveaudio id=\"archive-item-id\" >}}" -}}
+{{- end -}}
+
+<div class="archive-audio-player">
+  <iframe
+    src="https://archive.org/embed/{{ $id | urlquery }}"
+    width="100%"
+    height="{{ $height }}"
+    frameborder="0"
+    webkitallowfullscreen="true"
+    mozallowfullscreen="true"
+    allowfullscreen
+    loading="lazy"
+    title="Reproductor de Archive.org"></iframe>
+  <p class="archive-audio-link">
+    <a href="https://archive.org/details/{{ $id | urlquery }}" target="_blank" rel="noopener noreferrer">
+      Ver en Archive.org
+    </a>
+  </p>
+</div>
+
+<style>
+.archive-audio-player {
+  margin: 1rem 0;
+  padding: 0.6rem;
+  border: 1px solid #3f3f46;
+  border-radius: 10px;
+  background: rgba(24,24,27,0.55);
+}
+.archive-audio-player iframe {
+  display: block;
+  border-radius: 6px;
+}
+.archive-audio-link {
+  margin: 0.35rem 0 0;
+  font-size: 0.8rem;
+}
+</style>

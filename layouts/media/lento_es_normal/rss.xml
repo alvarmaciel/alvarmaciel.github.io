@@ -1,109 +1,86 @@
+{{- $podcast := .Site.Params.podcast | default dict -}}
+{{- $author := $podcast.author | default "Alvar" -}}
+{{- $ownerName := index $podcast "owner_name" | default $author -}}
+{{- $ownerEmail := index $podcast "owner_email" | default "alvarmaciel@gmail.com" -}}
+{{- $description := $podcast.description | default .Site.Params.description | default .Description | default .Summary | default .Title -}}
+{{- $explicit := $podcast.explicit | default "no" -}}
+{{- $category := $podcast.category | default "Technology" -}}
+{{- $channelImage := $podcast.image | default "images/con_compu.png" -}}
+{{- $episodes := .RegularPages.ByDate.Reverse -}}
+{{- printf "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" | safeHTML }}
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
-  <title>{{ .Title }}</title>
+  <title>{{ .Title | plainify | htmlEscape }}</title>
   <link>{{ .Permalink }}</link>
-  <description>{{ or .Site.Params.podcast.description .Site.Params.description .Description | htmlEscape }}</description>
+  <description>{{ $description | plainify | htmlEscape }}</description>
   <language>{{ .Site.LanguageCode }}</language>
+  <generator>Hugo</generator>
+  <lastBuildDate>{{ now.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</lastBuildDate>
+  <atom:link href="{{ .Permalink }}index.xml" rel="self" type="application/rss+xml" />
 
-  <!-- <description>{{ .Description | htmlEscape }}</description> -->
-  <!-- <language>{{ .Site.LanguageCode }}</language> -->
-  <atom:link href="{{ .Permalink }}" rel="self" type="application/rss+xml"/>
-
-  <!-- iTunes podcast metadata -->
-  <!-- <itunes:author>Alvar</itunes:author> -->
-  <!-- <itunes:summary>{{ .Description | htmlEscape }}</itunes:summary> -->
-  <!-- <itunes:explicit>no</itunes:explicit> -->
-   <itunes:author>{{ or .Site.Params.podcast.author "Alvar" }}</itunes:author>
-  <itunes:summary>{{ or .Site.Params.podcast.description .Site.Params.description .Summary | htmlEscape }}</itunes:summary>
-  <itunes:explicit>{{ or .Site.Params.podcast.explicit "no" }}</itunes:explicit>
-
-  <!-- <itunes:image href="{{ .Site.BaseURL }}images/con_compu.png"/> -->
-  <!-- <itunes:category text="Technology"/> -->
-  <itunes:image href="{{ (or .Site.Params.podcast.image "images/con_compu.png") | absURL }}"/>
-  <itunes:category text="{{ or .Site.Params.podcast.category "Technology" }}"/>
-
+  <itunes:type>{{ $podcast.type | default "episodic" }}</itunes:type>
+  <itunes:author>{{ $author | plainify | htmlEscape }}</itunes:author>
+  <itunes:summary>{{ $description | plainify | htmlEscape }}</itunes:summary>
+  <itunes:explicit>{{ $explicit }}</itunes:explicit>
+  <itunes:category text="{{ $category | htmlEscape }}" />
   <itunes:owner>
-    <itunes:name>Alvar</itunes:name>
-    <itunes:email>alvarmaciel@gmail.com</itunes:email>
+    <itunes:name>{{ $ownerName | plainify | htmlEscape }}</itunes:name>
+    <itunes:email>{{ $ownerEmail | htmlEscape }}</itunes:email>
   </itunes:owner>
+  {{ with $channelImage }}<itunes:image href="{{ . | absURL }}" />{{ end }}
+  {{ with $channelImage }}
+  <image>
+    <url>{{ . | absURL }}</url>
+    <title>{{ $.Title | plainify | htmlEscape }}</title>
+    <link>{{ $.Permalink }}</link>
+  </image>
+  {{ end }}
 
-  {{ range .Pages }}
+  {{ range $episodes }}
+    {{- $episodeDescription := .Params.rss_description | default .Description | default .Summary | default .Plain -}}
+    {{- $episodeImage := .Params.image | default .Params.featureimage | default "" -}}
+    {{- if not $episodeImage -}}
+      {{- with .Resources.GetMatch "featured.*" -}}{{- $episodeImage = .Permalink -}}{{- end -}}
+    {{- end -}}
+    {{- if not $episodeImage -}}
+      {{- with .Params.archive.image -}}{{- $episodeImage = . -}}{{- end -}}
+    {{- end -}}
   <item>
-    <title>{{ .Title | htmlEscape }}</title>
+    <title>{{ .Title | plainify | htmlEscape }}</title>
     <link>{{ .Permalink }}</link>
-    <guid>{{ .Permalink }}</guid>
-    <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 MST" }}</pubDate>
+    <guid isPermaLink="true">{{ .Permalink }}</guid>
+    <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
+    <description>{{ $episodeDescription | plainify | htmlEscape }}</description>
+    <content:encoded>{{ printf "<![CDATA[%s]]>" .Content | safeHTML }}</content:encoded>
 
-    <description>
-      {{ with .Params.rss_description }}
-        {{ . | htmlEscape }}
-      {{ else }}
-        {{ .Summary | plainify | htmlEscape }}
-      {{ end }}
-    </description>
+    <itunes:title>{{ .Title | plainify | htmlEscape }}</itunes:title>
+    <itunes:author>{{ .Params.podcast_author | default $author | plainify | htmlEscape }}</itunes:author>
+    <itunes:explicit>{{ .Params.explicit | default $explicit }}</itunes:explicit>
+    <itunes:summary>{{ $episodeDescription | plainify | htmlEscape }}</itunes:summary>
+    {{ with .Description }}<itunes:subtitle>{{ . | plainify | htmlEscape }}</itunes:subtitle>{{ end }}
+    {{ with .Params.duration }}<itunes:duration>{{ . }}</itunes:duration>{{ end }}
+    {{ with $episodeImage }}<itunes:image href="{{ . | absURL }}" />{{ end }}
 
-    <itunes:author>Alvar</itunes:author>
-    <itunes:explicit>no</itunes:explicit>
-    <!--images-->
-    {{/* Imagen por episodio: respeta leaf bundles y URLs absolutas */}}
-{{- $img := "" -}}
-
-{{- with .Params.featureimage -}}
-  {{- $cand := . -}}
-  {{- if or (hasPrefix $cand "http://") (hasPrefix $cand "https://") -}}
-    {{- $img = $cand -}}
-  {{- else -}}
-    {{- with $.Resources.GetMatch $cand -}}
-      {{- $img = .Permalink -}}
-    {{- end -}}
-  {{- end -}}
-{{- end -}}
-
-{{- if not $img -}}
-  {{- with .Resources.GetMatch "featured.*" -}}
-    {{- $img = .Permalink -}}
-  {{- end -}}
-{{- end -}}
-
-{{- if not $img -}}
-  {{- with .Params.image -}}
-    {{- $cand := . -}}
-    {{- if or (hasPrefix $cand "http://") (hasPrefix $cand "https://") -}}
-      {{- $img = $cand -}}
-    {{- else -}}
-      {{- with $.Resources.GetMatch $cand -}}
-        {{- $img = .Permalink -}}
+    {{ $audioItems := .Params.enclosures | default .Params.audio }}
+    {{ range $audioItems }}
+      {{- $audioURL := "" -}}
+      {{- $audioType := "audio/mpeg" -}}
+      {{- $audioLength := "0" -}}
+      {{- if reflect.IsMap . -}}
+        {{- $audioURL = .url | default .src | default "" -}}
+        {{- $audioType = .type | default $audioType -}}
+        {{- $audioLength = printf "%v" (.length | default .size | default $audioLength) -}}
+      {{- else -}}
+        {{- $audioURL = printf "%v" . -}}
+        {{- $ext := lower (delimit (last 1 (split $audioURL ".")) "") -}}
+        {{- $audioType = cond (eq $ext "mp3") "audio/mpeg" (cond (eq $ext "m4a") "audio/x-m4a" (cond (eq $ext "mp4") "video/mp4" "audio/mpeg")) -}}
       {{- end -}}
-    {{- end -}}
-  {{- end -}}
-{{- end -}}
-
-{{- if $img -}}<itunes:image href="{{ $img }}"/>{{- end -}}
-
-    {{ with .Params.description }}
-      <itunes:subtitle>{{ . | htmlEscape }}</itunes:subtitle>
-    {{ end }}
-
-    {{ with .Params.rss_description }}
-      <itunes:summary>{{ . | htmlEscape }}</itunes:summary>
-    {{ else }}
-      <itunes:summary>{{ .Summary | plainify | htmlEscape }}</itunes:summary>
-    {{ end }}
-
-    {{ with .Params.duration }}
-      <itunes:duration>{{ . }}</itunes:duration>
-    {{ end }}
-
-    {{ with .Params.audio }}
-      {{ range . }}
-        {{ $ext := lower (delimit (last 1 (split . ".")) "") }}
-        {{ $type := cond (eq $ext "mp3") "audio/mpeg" (
-                  cond (eq $ext "m4a") "audio/x-m4a" (
-                  cond (eq $ext "mp4") "video/mp4" "audio/mpeg")) }}
-        <enclosure url="{{ . }}" type="{{ $type }}" />
-      {{ end }}
+      {{- if $audioURL }}
+    <enclosure url="{{ $audioURL | htmlEscape }}" length="{{ $audioLength }}" type="{{ $audioType }}" />
+      {{- end }}
     {{ end }}
   </item>
   {{ end }}

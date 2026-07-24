@@ -1,0 +1,138 @@
+{
+  "project": {
+    "name": "alvarmaciel.github.io",
+    "type": "static-site / personal website",
+    "framework": "Hugo",
+    "theme": "Blowfish",
+    "description": "Personal website for Alvar Maciel with bilingual content, blog posts, bio pages, media section, and a podcast-style section for Lento es normal.",
+    "primaryLanguages": ["Spanish", "English"],
+    "defaultContentLanguage": "es",
+    "repositoryPurpose": "Personal site and publishing hub hosted through GitHub Pages."
+  },
+  "deployment": {
+    "currentBaseURL": "https://alvarmaciel.github.io",
+    "target": "GitHub Pages",
+    "workflow": ".github/workflows/gh-pages.yml",
+    "publishBranch": "gh-pages",
+    "generatedOutputDirectory": "public/"
+  },
+  "importantFiles": {
+    "rootConfig": "hugo.toml",
+    "mainConfig": "config/_default/hugo.toml",
+    "themeParamsCommonBackup": "config/_default/params.toml.back",
+    "themeParamsSpanish": "config/_default/params.es.toml",
+    "themeParamsEnglish": "config/_default/params.en.toml",
+    "menusSpanish": "config/_default/menus.es.toml",
+    "menusEnglish": "config/_default/menus.en.toml",
+    "languageSpanish": "config/_default/languages.es.toml",
+    "languageEnglish": "config/_default/languages.en.toml",
+    "homeSpanish": "content/_index.es.md",
+    "homeEnglish": "content/_index.en.md",
+    "lentoEsNormalSectionSpanish": "content/media/lento_es_normal/_index.es.md",
+    "lentoEsNormalSectionEnglish": "content/media/lento_es_normal/_index.en.md",
+    "lentoEsNormalRSS": "layouts/media/lento_es_normal/rss.xml",
+    "archiveAudioShortcode": "layouts/shortcodes/archiveaudio.html",
+    "archiveMetadataScript": "scripts/archive_metadata.py",
+    "archiveAudioDocs": "docs/archive-audio.md",
+    "githubPagesWorkflow": ".github/workflows/gh-pages.yml"
+  },
+  "contentModel": {
+    "home": {
+      "paths": ["content/_index.es.md", "content/_index.en.md"],
+      "description": "Multilingual home pages."
+    },
+    "bio": {
+      "path": "content/bio/",
+      "description": "Bio/about pages with Spanish and English variants."
+    },
+    "posts": {
+      "path": "content/posts/",
+      "description": "General blog posts. Some are multilingual via .es.md/.en.md files; others are plain leaf bundles with index.md."
+    },
+    "media": {
+      "path": "content/media/",
+      "description": "Media-related sections. Currently includes Lento es normal."
+    },
+    "lentoEsNormal": {
+      "path": "content/media/lento_es_normal/",
+      "description": "Podcast/radio-column style section. Contains the Lento es normal episodes/posts and has a custom RSS template.",
+      "rssPath": "/media/lento_es_normal/index.xml"
+    }
+  },
+  "podcastAndAudio": {
+    "currentPodcastSection": "content/media/lento_es_normal/",
+    "currentPodcastTemplate": "layouts/media/lento_es_normal/rss.xml",
+    "podcastParams": "config/_default/hugo.toml [params.podcast]",
+    "existingArchiveShortcode": {
+      "path": "layouts/shortcodes/archiveaudio.html",
+      "usage": "{{< archiveaudio id=\"ARCHIVE_ID\" >}}",
+      "description": "Embeds a responsive Archive.org audio player iframe with a link to the Archive.org item. Supports optional height parameter."
+    },
+    "recommendedFrontMatterForAudio": {
+      "audio": "Keep as a list of URL strings for compatibility with Hugo themes/OpenGraph.",
+      "enclosures": "Use for rich RSS enclosure metadata: url, type, length.",
+      "duration": "Use for itunes:duration, e.g. 51:26 or 1:58:34.",
+      "archive": "Use for Archive.org id/url/image metadata.",
+      "tags": "Can be copied from Archive.org metadata.subject."
+    },
+    "archiveOrgMetadata": {
+      "metadataURLPattern": "https://archive.org/metadata/<identifier>",
+      "enclosureLengthSource": "files[].size, file size in bytes",
+      "durationSource": "files[].length, duration in seconds converted to MM:SS or H:MM:SS",
+      "tagSource": "metadata.subject"
+    }
+  },
+  "customLayoutsAndShortcodes": {
+    "lentoEsNormalRSS": "layouts/media/lento_es_normal/rss.xml",
+    "archiveAudioShortcode": "layouts/shortcodes/archiveaudio.html",
+    "archiveMetadataHelper": "scripts/archive_metadata.py",
+    "archiveAudioDocumentation": "docs/archive-audio.md"
+  },
+  "features": [
+    "Multilingual Hugo site with Spanish as default language",
+    "Blowfish theme via git submodule",
+    "Personal profile homepage",
+    "Blog posts under content/posts",
+    "Bio pages under content/bio",
+    "Media section with Lento es normal",
+    "Custom RSS for Lento es normal podcast-like section with iTunes tags, content:encoded, enclosures support, and audio fallback",
+    "Responsive Archive.org embed shortcode for audio",
+    "Archive.org metadata helper script for front matter snippets",
+    "GitHub Actions deploy to gh-pages"
+  ],
+  "knownIssuesOrCleanupItems": [
+    {
+      "issue": "Duplicate/root Hugo config",
+      "details": "Root hugo.toml contains generic placeholder values while config/_default/hugo.toml appears to contain the real configuration. Confirm which config GitHub Actions uses."
+    },
+    {
+      "issue": "Generated public directory is committed",
+      "details": "public/ contains generated output. Avoid editing manually unless explicitly requested. GitHub Actions builds and publishes public/ to gh-pages."
+    },
+    {
+      "issue": "Podcast RSS should be validated after changes",
+      "details": "layouts/media/lento_es_normal/rss.xml now supports Params.enclosures with length/type, fallback to Params.audio, and content:encoded. Validate with hugo and a podcast feed validator after RSS changes."
+    }
+  ],
+  "doNotTouchUnlessAsked": [
+    "themes/blowfish/",
+    "public/",
+    ".git/",
+    ".hugo_build.lock"
+  ],
+  "agentGuidelines": [
+    "Read this file first when starting work on this repository.",
+    "Do not assume the Radio San Javier program/CMS structure applies here; this is a personal site with a media/podcast section.",
+    "Prefer edits in content/, layouts/, scripts/, docs/, or config/_default/ before touching theme files.",
+    "Do not edit themes/blowfish/ directly unless explicitly requested; use project-level overrides.",
+    "Do not manually edit public/ unless explicitly requested; it is generated output.",
+    "Keep user-facing Spanish content in Argentinian/Rioplatense Spanish unless asked otherwise.",
+    "When adding Archive.org audio metadata, keep Params.audio as a list of URL strings; put rich RSS enclosure metadata in Params.enclosures.",
+    "For RSS enclosure length, use Archive.org files[].size, not files[].length.",
+    "For podcast duration, use Archive.org files[].length converted from seconds.",
+    "For Archive.org tags, use metadata.subject.",
+    "Use scripts/archive_metadata.py <identifier-or-episode-file> to print YAML snippets for Archive.org audio, enclosures, duration, image, archive fields, and tags.",
+    "Archive audio usage is documented in docs/archive-audio.md.",
+    "Before changing RSS behavior, inspect layouts/media/lento_es_normal/rss.xml and existing content under content/media/lento_es_normal/."
+  ]
+}
