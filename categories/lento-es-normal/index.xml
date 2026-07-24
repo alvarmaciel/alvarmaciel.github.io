@@ -1,41 +1,799 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lento Es Normal on Inicio</title><link>https://alvarmaciel.github.io/categories/lento-es-normal/</link><description>Recent content in Lento Es Normal on Inicio</description><generator>Hugo -- gohugo.io</generator><language>es</language><copyright>© 2026 Alvar</copyright><lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://alvarmaciel.github.io/categories/lento-es-normal/index.xml" rel="self" type="application/rss+xml"/><item><title>Pocho labs y la alegría de hacer cosas</title><link>https://alvarmaciel.github.io/media/lento_es_normal/pocho_labs_y_la_alegria_de_hacer_cosas/</link><pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/pocho_labs_y_la_alegria_de_hacer_cosas/</guid><description>&lt;iframe src="https://archive.org/embed/lento-es-normal-26-05-06" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;Es importante encontrar cosas buenas en esta coyuntura. Porque parecería ser que el único camino que nos deja la crítica es la de la angustia frente a un futuro oscuro. Y eso nos inmoviliza.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/pocho_labs_y_la_alegria_de_hacer_cosas/featured.jpg"/></item><item><title>Lento es Normal Crossover</title><link>https://alvarmaciel.github.io/media/lento_es_normal/lento_es_normal_crossover/</link><pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/lento_es_normal_crossover/</guid><description>&lt;iframe src="https://archive.org/embed/lento-es-normal-26-4-15" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lento Es Normal on Inicio</title><link>https://alvarmaciel.github.io/categories/lento-es-normal/</link><description>Recent content in Lento Es Normal on Inicio</description><generator>Hugo -- gohugo.io</generator><language>es</language><copyright>© 2026 Alvar</copyright><lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://alvarmaciel.github.io/categories/lento-es-normal/index.xml" rel="self" type="application/rss+xml"/><item><title>Pocho labs y la alegría de hacer cosas</title><link>https://alvarmaciel.github.io/media/lento_es_normal/pocho_labs_y_la_alegria_de_hacer_cosas/</link><pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/pocho_labs_y_la_alegria_de_hacer_cosas/</guid><description>&lt;div class="archive-audio-player"&gt;
+&lt;iframe
+src="https://archive.org/embed/lento-es-normal-26-05-06"
+width="100%"
+height="60"
+frameborder="0"
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowfullscreen
+loading="lazy"
+title="Reproductor de Archive.org"&gt;&lt;/iframe&gt;
+&lt;p class="archive-audio-link"&gt;
+&lt;a href="https://archive.org/details/lento-es-normal-26-05-06" target="_blank" rel="noopener noreferrer"&gt;
+Ver en Archive.org
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.archive-audio-player {
+margin: 1rem 0;
+padding: 0.6rem;
+border: 1px solid #3f3f46;
+border-radius: 10px;
+background: rgba(24,24,27,0.55);
+}
+.archive-audio-player iframe {
+display: block;
+border-radius: 6px;
+}
+.archive-audio-link {
+margin: 0.35rem 0 0;
+font-size: 0.8rem;
+}
+&lt;/style&gt;
+&lt;p&gt;Es importante encontrar cosas buenas en esta coyuntura. Porque parecería ser que el único camino que nos deja la crítica es la de la angustia frente a un futuro oscuro. Y eso nos inmoviliza.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/pocho_labs_y_la_alegria_de_hacer_cosas/featured.jpg"/></item><item><title>Lento es Normal Crossover</title><link>https://alvarmaciel.github.io/media/lento_es_normal/lento_es_normal_crossover/</link><pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/lento_es_normal_crossover/</guid><description>&lt;div class="archive-audio-player"&gt;
+&lt;iframe
+src="https://archive.org/embed/lento-es-normal-26-4-15"
+width="100%"
+height="60"
+frameborder="0"
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowfullscreen
+loading="lazy"
+title="Reproductor de Archive.org"&gt;&lt;/iframe&gt;
+&lt;p class="archive-audio-link"&gt;
+&lt;a href="https://archive.org/details/lento-es-normal-26-4-15" target="_blank" rel="noopener noreferrer"&gt;
+Ver en Archive.org
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.archive-audio-player {
+margin: 1rem 0;
+padding: 0.6rem;
+border: 1px solid #3f3f46;
+border-radius: 10px;
+background: rgba(24,24,27,0.55);
+}
+.archive-audio-player iframe {
+display: block;
+border-radius: 6px;
+}
+.archive-audio-link {
+margin: 0.35rem 0 0;
+font-size: 0.8rem;
+}
+&lt;/style&gt;
 &lt;p&gt;Esta ves conversamos con Veronica Gelman en un crossover con su columna A Desaprender.&lt;/p&gt;
-&lt;p&gt;Charlamos sobre identidades, referentes y plataformas, identidades y modelos optimizados para el consumo.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/lento_es_normal_crossover/featured.png"/></item><item><title>Una vida sin miedo</title><link>https://alvarmaciel.github.io/media/lento_es_normal/una_vida_sin_miedo/</link><pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/una_vida_sin_miedo/</guid><description>&lt;iframe src="https://archive.org/embed/lento-es-normal-26-04-07" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&amp;hellip; Los algoritmos, su aplicación en nuestra vida diaria hablan mucho sobre como las empresas conciben la cultura y a los usuarios. Pero también hablan sobre cómo somos nosotros, lo que permitimos, lo que toleramos y lo todo lo que amparado bajo la excusa de la comodidad, evitamos modificar.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/una_vida_sin_miedo/featured.jpg"/></item><item><title>Lo estás haciendo mal</title><link>https://alvarmaciel.github.io/media/lento_es_normal/lo_estas_haciendo_mal/</link><pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/lo_estas_haciendo_mal/</guid><description>&lt;iframe src="https://archive.org/embed/lento-es-normal-26-03-17" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;Aveces creo que rompí mi algoritmo para luego darme cuenta que funcionan demasiado bien. O peor: que la optimización se ancla en las emociones menos virtuosas.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/lo_estas_haciendo_mal/featured.png"/></item><item><title>Una alerta sobre asistentes IA</title><link>https://alvarmaciel.github.io/media/lento_es_normal/una_alerta_sobre_asistentes_ia/</link><pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/una_alerta_sobre_asistentes_ia/</guid><description>&lt;iframe src="https://archive.org/embed/lento-es-normal-26-03-10-1" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;Charlamos sobre identidades, referentes y plataformas, identidades y modelos optimizados para el consumo.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/lento_es_normal_crossover/featured.png"/></item><item><title>Una vida sin miedo</title><link>https://alvarmaciel.github.io/media/lento_es_normal/una_vida_sin_miedo/</link><pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/una_vida_sin_miedo/</guid><description>&lt;div class="archive-audio-player"&gt;
+&lt;iframe
+src="https://archive.org/embed/lento-es-normal-26-04-07"
+width="100%"
+height="60"
+frameborder="0"
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowfullscreen
+loading="lazy"
+title="Reproductor de Archive.org"&gt;&lt;/iframe&gt;
+&lt;p class="archive-audio-link"&gt;
+&lt;a href="https://archive.org/details/lento-es-normal-26-04-07" target="_blank" rel="noopener noreferrer"&gt;
+Ver en Archive.org
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.archive-audio-player {
+margin: 1rem 0;
+padding: 0.6rem;
+border: 1px solid #3f3f46;
+border-radius: 10px;
+background: rgba(24,24,27,0.55);
+}
+.archive-audio-player iframe {
+display: block;
+border-radius: 6px;
+}
+.archive-audio-link {
+margin: 0.35rem 0 0;
+font-size: 0.8rem;
+}
+&lt;/style&gt;
+&lt;p&gt;&amp;hellip; Los algoritmos, su aplicación en nuestra vida diaria hablan mucho sobre como las empresas conciben la cultura y a los usuarios. Pero también hablan sobre cómo somos nosotros, lo que permitimos, lo que toleramos y lo todo lo que amparado bajo la excusa de la comodidad, evitamos modificar.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/una_vida_sin_miedo/featured.jpg"/></item><item><title>Lo estás haciendo mal</title><link>https://alvarmaciel.github.io/media/lento_es_normal/lo_estas_haciendo_mal/</link><pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/lo_estas_haciendo_mal/</guid><description>&lt;div class="archive-audio-player"&gt;
+&lt;iframe
+src="https://archive.org/embed/lento-es-normal-26-03-17"
+width="100%"
+height="60"
+frameborder="0"
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowfullscreen
+loading="lazy"
+title="Reproductor de Archive.org"&gt;&lt;/iframe&gt;
+&lt;p class="archive-audio-link"&gt;
+&lt;a href="https://archive.org/details/lento-es-normal-26-03-17" target="_blank" rel="noopener noreferrer"&gt;
+Ver en Archive.org
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.archive-audio-player {
+margin: 1rem 0;
+padding: 0.6rem;
+border: 1px solid #3f3f46;
+border-radius: 10px;
+background: rgba(24,24,27,0.55);
+}
+.archive-audio-player iframe {
+display: block;
+border-radius: 6px;
+}
+.archive-audio-link {
+margin: 0.35rem 0 0;
+font-size: 0.8rem;
+}
+&lt;/style&gt;
+&lt;p&gt;Aveces creo que rompí mi algoritmo para luego darme cuenta que funcionan demasiado bien. O peor: que la optimización se ancla en las emociones menos virtuosas.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/lo_estas_haciendo_mal/featured.png"/></item><item><title>Una alerta sobre asistentes IA</title><link>https://alvarmaciel.github.io/media/lento_es_normal/una_alerta_sobre_asistentes_ia/</link><pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/una_alerta_sobre_asistentes_ia/</guid><description>&lt;div class="archive-audio-player"&gt;
+&lt;iframe
+src="https://archive.org/embed/lento-es-normal-26-03-10-1"
+width="100%"
+height="60"
+frameborder="0"
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowfullscreen
+loading="lazy"
+title="Reproductor de Archive.org"&gt;&lt;/iframe&gt;
+&lt;p class="archive-audio-link"&gt;
+&lt;a href="https://archive.org/details/lento-es-normal-26-03-10-1" target="_blank" rel="noopener noreferrer"&gt;
+Ver en Archive.org
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.archive-audio-player {
+margin: 1rem 0;
+padding: 0.6rem;
+border: 1px solid #3f3f46;
+border-radius: 10px;
+background: rgba(24,24,27,0.55);
+}
+.archive-audio-player iframe {
+display: block;
+border-radius: 6px;
+}
+.archive-audio-link {
+margin: 0.35rem 0 0;
+font-size: 0.8rem;
+}
+&lt;/style&gt;
 &lt;p&gt;Los primeros meses del año no dieron respiro, nada estuvo tranquilo, todo siguió
 la tendencia al parecer indetenible de la aceleración. Como una reacción en
 cadena que solo se puede observar, avanzamos ciegamente hacia algún tipo de
-adelante un tanto incierto.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/una_alerta_sobre_asistentes_ia/featured.png"/></item><item><title>Low Tech High Life: Emacs magia y liberación</title><link>https://alvarmaciel.github.io/media/lento_es_normal/low_tech_high_life_emacs_magia_y_liberacion/</link><pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/low_tech_high_life_emacs_magia_y_liberacion/</guid><description>&lt;iframe src="https://archive.org/embed/lento-es-normal-miercoles-29-10-25" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt;
+adelante un tanto incierto.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/una_alerta_sobre_asistentes_ia/featured.png"/></item><item><title>Low Tech High Life: Emacs magia y liberación</title><link>https://alvarmaciel.github.io/media/lento_es_normal/low_tech_high_life_emacs_magia_y_liberacion/</link><pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/low_tech_high_life_emacs_magia_y_liberacion/</guid><description>&lt;div class="archive-audio-player"&gt;
+&lt;iframe
+src="https://archive.org/embed/lento-es-normal-miercoles-29-10-25"
+width="100%"
+height="60"
+frameborder="0"
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowfullscreen
+loading="lazy"
+title="Reproductor de Archive.org"&gt;&lt;/iframe&gt;
+&lt;p class="archive-audio-link"&gt;
+&lt;a href="https://archive.org/details/lento-es-normal-miercoles-29-10-25" target="_blank" rel="noopener noreferrer"&gt;
+Ver en Archive.org
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.archive-audio-player {
+margin: 1rem 0;
+padding: 0.6rem;
+border: 1px solid #3f3f46;
+border-radius: 10px;
+background: rgba(24,24,27,0.55);
+}
+.archive-audio-player iframe {
+display: block;
+border-radius: 6px;
+}
+.archive-audio-link {
+margin: 0.35rem 0 0;
+font-size: 0.8rem;
+}
+&lt;/style&gt;
 &lt;p&gt;Emacs es un editor de textos, una reliquia de un mundo mágico.
-Vale la pena preguntarnos Qué herramientas elegimos usar en nuestro día a día. Estas son palabras de amor a una herramienta que amo.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/low_tech_high_life_emacs_magia_y_liberacion/featured.png"/></item><item><title>Fallas en la nube y una vuelta a tecnologías básicas</title><link>https://alvarmaciel.github.io/media/lento_es_normal/fallas_en_la_nube_y_una_vuelta_a_tecnologia_basica/</link><pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/fallas_en_la_nube_y_una_vuelta_a_tecnologia_basica/</guid><description>&lt;iframe src="https://archive.org/embed/lento-es-normal-miercoles-22-10-25" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt;
+Vale la pena preguntarnos Qué herramientas elegimos usar en nuestro día a día. Estas son palabras de amor a una herramienta que amo.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/low_tech_high_life_emacs_magia_y_liberacion/featured.png"/></item><item><title>Fallas en la nube y una vuelta a tecnologías básicas</title><link>https://alvarmaciel.github.io/media/lento_es_normal/fallas_en_la_nube_y_una_vuelta_a_tecnologia_basica/</link><pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/fallas_en_la_nube_y_una_vuelta_a_tecnologia_basica/</guid><description>&lt;div class="archive-audio-player"&gt;
+&lt;iframe
+src="https://archive.org/embed/lento-es-normal-miercoles-22-10-25"
+width="100%"
+height="60"
+frameborder="0"
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowfullscreen
+loading="lazy"
+title="Reproductor de Archive.org"&gt;&lt;/iframe&gt;
+&lt;p class="archive-audio-link"&gt;
+&lt;a href="https://archive.org/details/lento-es-normal-miercoles-22-10-25" target="_blank" rel="noopener noreferrer"&gt;
+Ver en Archive.org
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.archive-audio-player {
+margin: 1rem 0;
+padding: 0.6rem;
+border: 1px solid #3f3f46;
+border-radius: 10px;
+background: rgba(24,24,27,0.55);
+}
+.archive-audio-player iframe {
+display: block;
+border-radius: 6px;
+}
+.archive-audio-link {
+margin: 0.35rem 0 0;
+font-size: 0.8rem;
+}
+&lt;/style&gt;
 &lt;p&gt;Retomamos el libro de Jean M. Twenge sobre crianza digital, pero al calor de la caida de AWS.
-Hablamos sobre teléfonos básicos y celulares liberados a partir de la columna de Soldan en 421.news&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/fallas_en_la_nube_y_una_vuelta_a_tecnologia_basica/featured.jpg"/></item><item><title>Pantallas, hábitos nocturnos y las opinones de Eva</title><link>https://alvarmaciel.github.io/media/lento_es_normal/pantallas_habitos_nocturnos_y_las_opiniones_de_eva/</link><pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/pantallas_habitos_nocturnos_y_las_opiniones_de_eva/</guid><description>&lt;iframe src="https://archive.org/embed/lento-es-normal-miercoles-8-10-25" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt;
+Hablamos sobre teléfonos básicos y celulares liberados a partir de la columna de Soldan en 421.news&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/fallas_en_la_nube_y_una_vuelta_a_tecnologia_basica/featured.jpg"/></item><item><title>Pantallas, hábitos nocturnos y las opinones de Eva</title><link>https://alvarmaciel.github.io/media/lento_es_normal/pantallas_habitos_nocturnos_y_las_opiniones_de_eva/</link><pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/pantallas_habitos_nocturnos_y_las_opiniones_de_eva/</guid><description>&lt;div class="archive-audio-player"&gt;
+&lt;iframe
+src="https://archive.org/embed/lento-es-normal-miercoles-8-10-25"
+width="100%"
+height="60"
+frameborder="0"
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowfullscreen
+loading="lazy"
+title="Reproductor de Archive.org"&gt;&lt;/iframe&gt;
+&lt;p class="archive-audio-link"&gt;
+&lt;a href="https://archive.org/details/lento-es-normal-miercoles-8-10-25" target="_blank" rel="noopener noreferrer"&gt;
+Ver en Archive.org
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.archive-audio-player {
+margin: 1rem 0;
+padding: 0.6rem;
+border: 1px solid #3f3f46;
+border-radius: 10px;
+background: rgba(24,24,27,0.55);
+}
+.archive-audio-player iframe {
+display: block;
+border-radius: 6px;
+}
+.archive-audio-link {
+margin: 0.35rem 0 0;
+font-size: 0.8rem;
+}
+&lt;/style&gt;
 &lt;p&gt;Retomamos el libro de Jean M. Twenge sobre crianza digital, pero el eje en esta entregaes que pasó Eva, mi hija, por la radio.&lt;/p&gt;
-&lt;p&gt;El tema inicial —la regla de no dormir con pantallas en la habitación— se nos mezcla con algo mucho mas valioso: escuchar directamente cómo vive un adolescente la relación con el celular, las redes y la inteligencia artificial.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/pantallas_habitos_nocturnos_y_las_opiniones_de_eva/featured.jpg"/></item><item><title>Psicosis de IA y salud mental</title><link>https://alvarmaciel.github.io/media/lento_es_normal/psicosis-de-ia-y-salud-mental/</link><pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/psicosis-de-ia-y-salud-mental/</guid><description>&lt;iframe src="https://archive.org/embed/lento-es-normal-miercoles-24-9-25" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;El tema inicial —la regla de no dormir con pantallas en la habitación— se nos mezcla con algo mucho mas valioso: escuchar directamente cómo vive un adolescente la relación con el celular, las redes y la inteligencia artificial.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/pantallas_habitos_nocturnos_y_las_opiniones_de_eva/featured.jpg"/></item><item><title>Psicosis de IA y salud mental</title><link>https://alvarmaciel.github.io/media/lento_es_normal/psicosis-de-ia-y-salud-mental/</link><pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/psicosis-de-ia-y-salud-mental/</guid><description>&lt;div class="archive-audio-player"&gt;
+&lt;iframe
+src="https://archive.org/embed/lento-es-normal-miercoles-24-9-25"
+width="100%"
+height="60"
+frameborder="0"
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowfullscreen
+loading="lazy"
+title="Reproductor de Archive.org"&gt;&lt;/iframe&gt;
+&lt;p class="archive-audio-link"&gt;
+&lt;a href="https://archive.org/details/lento-es-normal-miercoles-24-9-25" target="_blank" rel="noopener noreferrer"&gt;
+Ver en Archive.org
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.archive-audio-player {
+margin: 1rem 0;
+padding: 0.6rem;
+border: 1px solid #3f3f46;
+border-radius: 10px;
+background: rgba(24,24,27,0.55);
+}
+.archive-audio-player iframe {
+display: block;
+border-radius: 6px;
+}
+.archive-audio-link {
+margin: 0.35rem 0 0;
+font-size: 0.8rem;
+}
+&lt;/style&gt;
 &lt;p&gt;Esta semana charlamos sobre los trastornos mentales vinculados al uso intensivo de modelos de lenguaje, especialmente los casos de usuarios que desarrollan delirios sostenidos en conversación con chatbots como ChatGPT.&lt;/p&gt;
 &lt;p&gt;Abordamos un poco el concepto de Brainrot (“cerebro podrido”) y neutralidad de la tecnología:
-¿sigue siendo neutral la tecnología cuando su diseño refuerza vulnerabilidades psicológicas?&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/psicosis-de-ia-y-salud-mental/featured.jpg"/></item><item><title>Pantallas y patrones de uso adictivo</title><link>https://alvarmaciel.github.io/media/lento_es_normal/pantallas-y-patrones-de-uso-adictivos/</link><pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/pantallas-y-patrones-de-uso-adictivos/</guid><description>&lt;iframe src="https://archive.org/embed/lento-es-normal-miercoles-17-9-25" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt;
+¿sigue siendo neutral la tecnología cuando su diseño refuerza vulnerabilidades psicológicas?&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/psicosis-de-ia-y-salud-mental/featured.jpg"/></item><item><title>Pantallas y patrones de uso adictivo</title><link>https://alvarmaciel.github.io/media/lento_es_normal/pantallas-y-patrones-de-uso-adictivos/</link><pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/pantallas-y-patrones-de-uso-adictivos/</guid><description>&lt;div class="archive-audio-player"&gt;
+&lt;iframe
+src="https://archive.org/embed/lento-es-normal-miercoles-17-9-25"
+width="100%"
+height="60"
+frameborder="0"
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowfullscreen
+loading="lazy"
+title="Reproductor de Archive.org"&gt;&lt;/iframe&gt;
+&lt;p class="archive-audio-link"&gt;
+&lt;a href="https://archive.org/details/lento-es-normal-miercoles-17-9-25" target="_blank" rel="noopener noreferrer"&gt;
+Ver en Archive.org
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.archive-audio-player {
+margin: 1rem 0;
+padding: 0.6rem;
+border: 1px solid #3f3f46;
+border-radius: 10px;
+background: rgba(24,24,27,0.55);
+}
+.archive-audio-player iframe {
+display: block;
+border-radius: 6px;
+}
+.archive-audio-link {
+margin: 0.35rem 0 0;
+font-size: 0.8rem;
+}
+&lt;/style&gt;
 &lt;p&gt;En esta columna hablamos sobre los &lt;strong&gt;efectos del uso adictivo de pantallas en la salud mental adolescente&lt;/strong&gt;, a partir de un estudio reciente publicado en &lt;em&gt;JAMA&lt;/em&gt; por equipos de las universidades de Nueva York, Columbia y Berkeley.
-El hallazgo central: &lt;strong&gt;no es el tiempo frente a la pantalla lo que predice daño psicológico, sino los patrones adictivos de uso&lt;/strong&gt; —la imposibilidad de desconectarse, la ansiedad al interrumpir, la interferencia con la vida cotidiana.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/pantallas-y-patrones-de-uso-adictivos/featured.jpg"/></item><item><title>Privacidad y resistencia tecnológica</title><link>https://alvarmaciel.github.io/media/lento_es_normal/privacidad-y-resistencia-tecnologia/</link><pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/privacidad-y-resistencia-tecnologia/</guid><description>&lt;iframe src="https://archive.org/embed/lento-es-normal-miercoles-3-9-25" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;Continuamos con la reflexión de la semana anterior sobre la vigilancia digital y sus efectos sociales. Charlamos sobre cómo los dispositivos móviles, en especial los teclados de los celulares, recolectan datos personales sin consentimiento explícito.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/privacidad-y-resistencia-tecnologia/featured.jpg"/></item><item><title>Cory Doctorow, vigilancia e injusticias cotidianas</title><link>https://alvarmaciel.github.io/media/lento_es_normal/cory_doctorw_vigilancia_e_injusticias_cotidianas/</link><pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/cory_doctorw_vigilancia_e_injusticias_cotidianas/</guid><description>&lt;iframe src="https://archive.org/embed/lento-es-normal-miercoles-27-8-25" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt;
+El hallazgo central: &lt;strong&gt;no es el tiempo frente a la pantalla lo que predice daño psicológico, sino los patrones adictivos de uso&lt;/strong&gt; —la imposibilidad de desconectarse, la ansiedad al interrumpir, la interferencia con la vida cotidiana.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/pantallas-y-patrones-de-uso-adictivos/featured.jpg"/></item><item><title>Privacidad y resistencia tecnológica</title><link>https://alvarmaciel.github.io/media/lento_es_normal/privacidad-y-resistencia-tecnologia/</link><pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/privacidad-y-resistencia-tecnologia/</guid><description>&lt;div class="archive-audio-player"&gt;
+&lt;iframe
+src="https://archive.org/embed/lento-es-normal-miercoles-3-9-25"
+width="100%"
+height="60"
+frameborder="0"
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowfullscreen
+loading="lazy"
+title="Reproductor de Archive.org"&gt;&lt;/iframe&gt;
+&lt;p class="archive-audio-link"&gt;
+&lt;a href="https://archive.org/details/lento-es-normal-miercoles-3-9-25" target="_blank" rel="noopener noreferrer"&gt;
+Ver en Archive.org
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.archive-audio-player {
+margin: 1rem 0;
+padding: 0.6rem;
+border: 1px solid #3f3f46;
+border-radius: 10px;
+background: rgba(24,24,27,0.55);
+}
+.archive-audio-player iframe {
+display: block;
+border-radius: 6px;
+}
+.archive-audio-link {
+margin: 0.35rem 0 0;
+font-size: 0.8rem;
+}
+&lt;/style&gt;
+&lt;p&gt;Continuamos con la reflexión de la semana anterior sobre la vigilancia digital y sus efectos sociales. Charlamos sobre cómo los dispositivos móviles, en especial los teclados de los celulares, recolectan datos personales sin consentimiento explícito.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/privacidad-y-resistencia-tecnologia/featured.jpg"/></item><item><title>Cory Doctorow, vigilancia e injusticias cotidianas</title><link>https://alvarmaciel.github.io/media/lento_es_normal/cory_doctorw_vigilancia_e_injusticias_cotidianas/</link><pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/cory_doctorw_vigilancia_e_injusticias_cotidianas/</guid><description>&lt;div class="archive-audio-player"&gt;
+&lt;iframe
+src="https://archive.org/embed/lento-es-normal-miercoles-27-8-25"
+width="100%"
+height="60"
+frameborder="0"
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowfullscreen
+loading="lazy"
+title="Reproductor de Archive.org"&gt;&lt;/iframe&gt;
+&lt;p class="archive-audio-link"&gt;
+&lt;a href="https://archive.org/details/lento-es-normal-miercoles-27-8-25" target="_blank" rel="noopener noreferrer"&gt;
+Ver en Archive.org
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.archive-audio-player {
+margin: 1rem 0;
+padding: 0.6rem;
+border: 1px solid #3f3f46;
+border-radius: 10px;
+background: rgba(24,24,27,0.55);
+}
+.archive-audio-player iframe {
+display: block;
+border-radius: 6px;
+}
+.archive-audio-link {
+margin: 0.35rem 0 0;
+font-size: 0.8rem;
+}
+&lt;/style&gt;
 &lt;p&gt;Hoy es hora de presentar a Cory Doctorow. Una gran influiencia en esta columna.&lt;/p&gt;
 &lt;p&gt;Trajo uno de las ideas fuerzas más interesantes de los
 últimos tiempos, Enshitification o como a &lt;a href="https://www.421.news/author/juan-brodersen/" target="_blank"&gt;Juan Brodersen&lt;/a&gt; supo describir muy bien
-en un artículo de &lt;a href="https://www.421.news/" target="_blank"&gt;421&lt;/a&gt;. &lt;a href="https://www.421.news/ingenieria-inversa-a-la-mierdificacion-de-internet/" target="_blank"&gt;La mierdificación de Internet&lt;/a&gt;. Busquenló, está bueno.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/cory_doctorw_vigilancia_e_injusticias_cotidianas/featured.png"/></item><item><title>Filtraciones de datos y apps de citas</title><link>https://alvarmaciel.github.io/media/lento_es_normal/data_breach_y_apps_de_citas/</link><pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/data_breach_y_apps_de_citas/</guid><description>&lt;iframe src="https://archive.org/embed/lento-es-normal-miercoles-30-7-25" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt;
+en un artículo de &lt;a href="https://www.421.news/" target="_blank"&gt;421&lt;/a&gt;. &lt;a href="https://www.421.news/ingenieria-inversa-a-la-mierdificacion-de-internet/" target="_blank"&gt;La mierdificación de Internet&lt;/a&gt;. Busquenló, está bueno.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/cory_doctorw_vigilancia_e_injusticias_cotidianas/featured.png"/></item><item><title>Filtraciones de datos y apps de citas</title><link>https://alvarmaciel.github.io/media/lento_es_normal/data_breach_y_apps_de_citas/</link><pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/data_breach_y_apps_de_citas/</guid><description>&lt;div class="archive-audio-player"&gt;
+&lt;iframe
+src="https://archive.org/embed/lento-es-normal-miercoles-30-7-25"
+width="100%"
+height="60"
+frameborder="0"
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowfullscreen
+loading="lazy"
+title="Reproductor de Archive.org"&gt;&lt;/iframe&gt;
+&lt;p class="archive-audio-link"&gt;
+&lt;a href="https://archive.org/details/lento-es-normal-miercoles-30-7-25" target="_blank" rel="noopener noreferrer"&gt;
+Ver en Archive.org
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.archive-audio-player {
+margin: 1rem 0;
+padding: 0.6rem;
+border: 1px solid #3f3f46;
+border-radius: 10px;
+background: rgba(24,24,27,0.55);
+}
+.archive-audio-player iframe {
+display: block;
+border-radius: 6px;
+}
+.archive-audio-link {
+margin: 0.35rem 0 0;
+font-size: 0.8rem;
+}
+&lt;/style&gt;
 &lt;p&gt;Consecuencias inesperadas a partir de la filtracion de datos. Y una charla sobre aplicaciones de citas
-Links Sobre lo que hablamos:&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/data_breach_y_apps_de_citas/featured.jpg"/></item><item><title>Comodidad, servicios y algo de rant</title><link>https://alvarmaciel.github.io/media/lento_es_normal/una_charla_con_enojo/</link><pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/una_charla_con_enojo/</guid><description>&lt;iframe src="https://archive.org/embed/lento-es-normal-miercoles-23-7-25" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt;
+Links Sobre lo que hablamos:&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/data_breach_y_apps_de_citas/featured.jpg"/></item><item><title>Comodidad, servicios y algo de rant</title><link>https://alvarmaciel.github.io/media/lento_es_normal/una_charla_con_enojo/</link><pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/una_charla_con_enojo/</guid><description>&lt;div class="archive-audio-player"&gt;
+&lt;iframe
+src="https://archive.org/embed/lento-es-normal-miercoles-23-7-25"
+width="100%"
+height="60"
+frameborder="0"
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowfullscreen
+loading="lazy"
+title="Reproductor de Archive.org"&gt;&lt;/iframe&gt;
+&lt;p class="archive-audio-link"&gt;
+&lt;a href="https://archive.org/details/lento-es-normal-miercoles-23-7-25" target="_blank" rel="noopener noreferrer"&gt;
+Ver en Archive.org
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.archive-audio-player {
+margin: 1rem 0;
+padding: 0.6rem;
+border: 1px solid #3f3f46;
+border-radius: 10px;
+background: rgba(24,24,27,0.55);
+}
+.archive-audio-player iframe {
+display: block;
+border-radius: 6px;
+}
+.archive-audio-link {
+margin: 0.35rem 0 0;
+font-size: 0.8rem;
+}
+&lt;/style&gt;
 &lt;p&gt;Una charla con enojo, un poco de rant y algunas reflexiones con Nestor y el Chato.&lt;/p&gt;
 &lt;p&gt;Links Sobre lo que hablamos:&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/una_charla_con_enojo/featured.jpg"/></item><item><title>Baja intensidad tecnológica, alta intensidad de vida</title><link>https://alvarmaciel.github.io/media/lento_es_normal/baja_alta_intensidad/</link><pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/baja_alta_intensidad/</guid><description>&lt;p&gt;Aclaración: No hay audio hoy. Este es el texto usado para la columna. Por las cosas de la vida, aquello que pronostiqué al final del texto se hizo realidad y el audio se perdió.&lt;/p&gt;
-&lt;p&gt;Vamos a profundizar en al idea de soberanía cognitiva. Esta columna está fuertemente influenciada por la revista digital &lt;a href="https://cuatroveintiuno.com" target="_blank"&gt;cuatroveintiuno&lt;/a&gt; y &lt;a href="https://linktr.ee/cybercirujas" target="_blank"&gt;Cibercirujas&lt;/a&gt;, amigos que ya son frecuentes de la casa.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/baja_alta_intensidad/featured.jpg"/></item><item><title>Ciberseguridad para todos #2</title><link>https://alvarmaciel.github.io/media/lento_es_normal/ciberseguridad_para_todos_2/</link><pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/ciberseguridad_para_todos_2/</guid><description>&lt;iframe src="https://archive.org/embed/lento-es-normal-miercoles-11-6-25" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;Dejo en este post una lista de vpn gratuitas, pagas y tailscale.&lt;/p&gt;</description></item><item><title>Ciberseguridad para todos #1</title><link>https://alvarmaciel.github.io/media/lento_es_normal/ciberseguridad_para_todos_1/</link><pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/ciberseguridad_para_todos_1/</guid><description>&lt;iframe src="https://archive.org/embed/lento-es-normal-miercoles-4-6-25" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;Dejo en este post una lista de gestores de contraseñas, Autenticadores y Llaves biométricas&lt;/p&gt;</description></item><item><title>Soberanía Cognitiva Toma #1</title><link>https://alvarmaciel.github.io/media/lento_es_normal/soberania_cognitiva_toma_1/</link><pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/soberania_cognitiva_toma_1/</guid><description>&lt;iframe src="https://archive.org/embed/lento-es-normal-miercoles-28-5-25" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://www.cuatroveintiuno.com/soberania-cognitiva-introduccion-autonomia-psiquica/" target="_blank"&gt;Para leer mas, este es el artículo de 421 sbre soberanía cognitiva&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Podés escucharlo también desde &lt;a href="https://archive.org/details/lento-es-normal-miercoles-28-5-25" target="_blank"&gt;archive.org&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>confundidos y aturdidos</title><link>https://alvarmaciel.github.io/media/lento_es_normal/confundidos_y_aturdidos/</link><pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/confundidos_y_aturdidos/</guid><description>&lt;iframe src="https://archive.org/embed/lento-es-normal-miercoles-21-5-25" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;Podés escucharlo también desde &lt;a href="https://archive.org/details/lento-es-normal-miercoles-21-5-25" target="_blank"&gt;archive.org&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Sobre Cibercirujas y la obsolescencia programada</title><link>https://alvarmaciel.github.io/media/lento_es_normal/sobre_cibercirujas_y_la_obsolescencia_programada/</link><pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/sobre_cibercirujas_y_la_obsolescencia_programada/</guid><description>&lt;iframe src="https://archive.org/embed/lento_es_normal_2025_04_30_202508%22" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;Podés escucharlo también desde &lt;a href="https://archive.org/details/lento_es_normal_2025_04_30_202508" target="_blank"&gt;archive.org&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Sobre Libre Pollo. Soberanía tecnológica y alimentaria</title><link>https://alvarmaciel.github.io/media/lento_es_normal/sobre_libre_pollo/</link><pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/sobre_libre_pollo/</guid><description>&lt;iframe src="https://archive.org/embed/lento-es-normal-miercoles-23-4-25" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;Podés escucharlo también desde &lt;a href="https://archive.org/details/lento-es-normal-miercoles-23-4-25" target="_blank"&gt;archive.org&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Sobre la IA 2 y cierre del 2024</title><link>https://alvarmaciel.github.io/media/lento_es_normal/sobre_ai_y_cierre_del_anio/</link><pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/sobre_ai_y_cierre_del_anio/</guid><description>&lt;iframe src="https://archive.org/embed/lento-es-normal-viernes-20-12-24" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;Podés escucharlo también desde &lt;a href="https://archive.org/details/lento-es-normal-viernes-20-12-24" target="_blank"&gt;archive.org&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Sobre las cookies</title><link>https://alvarmaciel.github.io/media/lento_es_normal/sobre_las_cookies/</link><pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/sobre_las_cookies/</guid><description>&lt;iframe src="https://archive.org/embed/columna-30-de-agosto-lento-es-normal" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;Podés escucharlo también desde &lt;a href="https://archive.org/details/columna-30-de-agosto-lento-es-normal" target="_blank"&gt;archive.org&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Sobre el grooming</title><link>https://alvarmaciel.github.io/media/lento_es_normal/sobre_el_grooming/</link><pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/sobre_el_grooming/</guid><description>&lt;iframe src="https://archive.org/embed/piso-alvar-maciel-por-grooming-con-separador" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;Vamos a profundizar en al idea de soberanía cognitiva. Esta columna está fuertemente influenciada por la revista digital &lt;a href="https://cuatroveintiuno.com" target="_blank"&gt;cuatroveintiuno&lt;/a&gt; y &lt;a href="https://linktr.ee/cybercirujas" target="_blank"&gt;Cibercirujas&lt;/a&gt;, amigos que ya son frecuentes de la casa.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alvarmaciel.github.io/media/lento_es_normal/baja_alta_intensidad/featured.jpg"/></item><item><title>Ciberseguridad para todos #2</title><link>https://alvarmaciel.github.io/media/lento_es_normal/ciberseguridad_para_todos_2/</link><pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/ciberseguridad_para_todos_2/</guid><description>&lt;div class="archive-audio-player"&gt;
+&lt;iframe
+src="https://archive.org/embed/lento-es-normal-miercoles-11-6-25"
+width="100%"
+height="60"
+frameborder="0"
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowfullscreen
+loading="lazy"
+title="Reproductor de Archive.org"&gt;&lt;/iframe&gt;
+&lt;p class="archive-audio-link"&gt;
+&lt;a href="https://archive.org/details/lento-es-normal-miercoles-11-6-25" target="_blank" rel="noopener noreferrer"&gt;
+Ver en Archive.org
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.archive-audio-player {
+margin: 1rem 0;
+padding: 0.6rem;
+border: 1px solid #3f3f46;
+border-radius: 10px;
+background: rgba(24,24,27,0.55);
+}
+.archive-audio-player iframe {
+display: block;
+border-radius: 6px;
+}
+.archive-audio-link {
+margin: 0.35rem 0 0;
+font-size: 0.8rem;
+}
+&lt;/style&gt;
+&lt;p&gt;Dejo en este post una lista de vpn gratuitas, pagas y tailscale.&lt;/p&gt;</description></item><item><title>Ciberseguridad para todos #1</title><link>https://alvarmaciel.github.io/media/lento_es_normal/ciberseguridad_para_todos_1/</link><pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/ciberseguridad_para_todos_1/</guid><description>&lt;div class="archive-audio-player"&gt;
+&lt;iframe
+src="https://archive.org/embed/lento-es-normal-miercoles-4-6-25"
+width="100%"
+height="60"
+frameborder="0"
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowfullscreen
+loading="lazy"
+title="Reproductor de Archive.org"&gt;&lt;/iframe&gt;
+&lt;p class="archive-audio-link"&gt;
+&lt;a href="https://archive.org/details/lento-es-normal-miercoles-4-6-25" target="_blank" rel="noopener noreferrer"&gt;
+Ver en Archive.org
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.archive-audio-player {
+margin: 1rem 0;
+padding: 0.6rem;
+border: 1px solid #3f3f46;
+border-radius: 10px;
+background: rgba(24,24,27,0.55);
+}
+.archive-audio-player iframe {
+display: block;
+border-radius: 6px;
+}
+.archive-audio-link {
+margin: 0.35rem 0 0;
+font-size: 0.8rem;
+}
+&lt;/style&gt;
+&lt;p&gt;Dejo en este post una lista de gestores de contraseñas, Autenticadores y Llaves biométricas&lt;/p&gt;</description></item><item><title>Soberanía Cognitiva Toma #1</title><link>https://alvarmaciel.github.io/media/lento_es_normal/soberania_cognitiva_toma_1/</link><pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/soberania_cognitiva_toma_1/</guid><description>&lt;div class="archive-audio-player"&gt;
+&lt;iframe
+src="https://archive.org/embed/lento-es-normal-miercoles-28-5-25"
+width="100%"
+height="60"
+frameborder="0"
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowfullscreen
+loading="lazy"
+title="Reproductor de Archive.org"&gt;&lt;/iframe&gt;
+&lt;p class="archive-audio-link"&gt;
+&lt;a href="https://archive.org/details/lento-es-normal-miercoles-28-5-25" target="_blank" rel="noopener noreferrer"&gt;
+Ver en Archive.org
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.archive-audio-player {
+margin: 1rem 0;
+padding: 0.6rem;
+border: 1px solid #3f3f46;
+border-radius: 10px;
+background: rgba(24,24,27,0.55);
+}
+.archive-audio-player iframe {
+display: block;
+border-radius: 6px;
+}
+.archive-audio-link {
+margin: 0.35rem 0 0;
+font-size: 0.8rem;
+}
+&lt;/style&gt;
+&lt;p&gt;&lt;a href="https://www.cuatroveintiuno.com/soberania-cognitiva-introduccion-autonomia-psiquica/" target="_blank"&gt;Para leer mas, este es el artículo de 421 sbre soberanía cognitiva&lt;/a&gt;&lt;/p&gt;</description></item><item><title>confundidos y aturdidos</title><link>https://alvarmaciel.github.io/media/lento_es_normal/confundidos_y_aturdidos/</link><pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/confundidos_y_aturdidos/</guid><description>&lt;div class="archive-audio-player"&gt;
+&lt;iframe
+src="https://archive.org/embed/lento-es-normal-miercoles-21-5-25"
+width="100%"
+height="60"
+frameborder="0"
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowfullscreen
+loading="lazy"
+title="Reproductor de Archive.org"&gt;&lt;/iframe&gt;
+&lt;p class="archive-audio-link"&gt;
+&lt;a href="https://archive.org/details/lento-es-normal-miercoles-21-5-25" target="_blank" rel="noopener noreferrer"&gt;
+Ver en Archive.org
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.archive-audio-player {
+margin: 1rem 0;
+padding: 0.6rem;
+border: 1px solid #3f3f46;
+border-radius: 10px;
+background: rgba(24,24,27,0.55);
+}
+.archive-audio-player iframe {
+display: block;
+border-radius: 6px;
+}
+.archive-audio-link {
+margin: 0.35rem 0 0;
+font-size: 0.8rem;
+}
+&lt;/style&gt;
+&lt;p&gt;Podés escucharlo también desde &lt;a href="https://archive.org/details/lento-es-normal-miercoles-21-5-25" target="_blank"&gt;archive.org&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Sobre Cibercirujas y la obsolescencia programada</title><link>https://alvarmaciel.github.io/media/lento_es_normal/sobre_cibercirujas_y_la_obsolescencia_programada/</link><pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/sobre_cibercirujas_y_la_obsolescencia_programada/</guid><description>&lt;div class="archive-audio-player"&gt;
+&lt;iframe
+src="https://archive.org/embed/lento_es_normal_2025_04_30_202508%22"
+width="100%"
+height="60"
+frameborder="0"
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowfullscreen
+loading="lazy"
+title="Reproductor de Archive.org"&gt;&lt;/iframe&gt;
+&lt;p class="archive-audio-link"&gt;
+&lt;a href="https://archive.org/details/lento_es_normal_2025_04_30_202508%22" target="_blank" rel="noopener noreferrer"&gt;
+Ver en Archive.org
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.archive-audio-player {
+margin: 1rem 0;
+padding: 0.6rem;
+border: 1px solid #3f3f46;
+border-radius: 10px;
+background: rgba(24,24,27,0.55);
+}
+.archive-audio-player iframe {
+display: block;
+border-radius: 6px;
+}
+.archive-audio-link {
+margin: 0.35rem 0 0;
+font-size: 0.8rem;
+}
+&lt;/style&gt;
+&lt;p&gt;Podés escucharlo también desde &lt;a href="https://archive.org/details/lento_es_normal_2025_04_30_202508" target="_blank"&gt;archive.org&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Sobre Libre Pollo. Soberanía tecnológica y alimentaria</title><link>https://alvarmaciel.github.io/media/lento_es_normal/sobre_libre_pollo/</link><pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/sobre_libre_pollo/</guid><description>&lt;div class="archive-audio-player"&gt;
+&lt;iframe
+src="https://archive.org/embed/lento-es-normal-miercoles-23-4-25"
+width="100%"
+height="60"
+frameborder="0"
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowfullscreen
+loading="lazy"
+title="Reproductor de Archive.org"&gt;&lt;/iframe&gt;
+&lt;p class="archive-audio-link"&gt;
+&lt;a href="https://archive.org/details/lento-es-normal-miercoles-23-4-25" target="_blank" rel="noopener noreferrer"&gt;
+Ver en Archive.org
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.archive-audio-player {
+margin: 1rem 0;
+padding: 0.6rem;
+border: 1px solid #3f3f46;
+border-radius: 10px;
+background: rgba(24,24,27,0.55);
+}
+.archive-audio-player iframe {
+display: block;
+border-radius: 6px;
+}
+.archive-audio-link {
+margin: 0.35rem 0 0;
+font-size: 0.8rem;
+}
+&lt;/style&gt;
+&lt;p&gt;Podés escucharlo también desde &lt;a href="https://archive.org/details/lento-es-normal-miercoles-23-4-25" target="_blank"&gt;archive.org&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Sobre la IA 2 y cierre del 2024</title><link>https://alvarmaciel.github.io/media/lento_es_normal/sobre_ai_y_cierre_del_anio/</link><pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/sobre_ai_y_cierre_del_anio/</guid><description>&lt;div class="archive-audio-player"&gt;
+&lt;iframe
+src="https://archive.org/embed/lento-es-normal-viernes-20-12-24"
+width="100%"
+height="60"
+frameborder="0"
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowfullscreen
+loading="lazy"
+title="Reproductor de Archive.org"&gt;&lt;/iframe&gt;
+&lt;p class="archive-audio-link"&gt;
+&lt;a href="https://archive.org/details/lento-es-normal-viernes-20-12-24" target="_blank" rel="noopener noreferrer"&gt;
+Ver en Archive.org
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.archive-audio-player {
+margin: 1rem 0;
+padding: 0.6rem;
+border: 1px solid #3f3f46;
+border-radius: 10px;
+background: rgba(24,24,27,0.55);
+}
+.archive-audio-player iframe {
+display: block;
+border-radius: 6px;
+}
+.archive-audio-link {
+margin: 0.35rem 0 0;
+font-size: 0.8rem;
+}
+&lt;/style&gt;
+&lt;p&gt;Podés escucharlo también desde &lt;a href="https://archive.org/details/lento-es-normal-viernes-20-12-24" target="_blank"&gt;archive.org&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Sobre las cookies</title><link>https://alvarmaciel.github.io/media/lento_es_normal/sobre_las_cookies/</link><pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/sobre_las_cookies/</guid><description>&lt;div class="archive-audio-player"&gt;
+&lt;iframe
+src="https://archive.org/embed/columna-30-de-agosto-lento-es-normal"
+width="100%"
+height="60"
+frameborder="0"
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowfullscreen
+loading="lazy"
+title="Reproductor de Archive.org"&gt;&lt;/iframe&gt;
+&lt;p class="archive-audio-link"&gt;
+&lt;a href="https://archive.org/details/columna-30-de-agosto-lento-es-normal" target="_blank" rel="noopener noreferrer"&gt;
+Ver en Archive.org
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.archive-audio-player {
+margin: 1rem 0;
+padding: 0.6rem;
+border: 1px solid #3f3f46;
+border-radius: 10px;
+background: rgba(24,24,27,0.55);
+}
+.archive-audio-player iframe {
+display: block;
+border-radius: 6px;
+}
+.archive-audio-link {
+margin: 0.35rem 0 0;
+font-size: 0.8rem;
+}
+&lt;/style&gt;
+&lt;p&gt;Podés escucharlo también desde &lt;a href="https://archive.org/details/columna-30-de-agosto-lento-es-normal" target="_blank"&gt;archive.org&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Sobre el grooming</title><link>https://alvarmaciel.github.io/media/lento_es_normal/sobre_el_grooming/</link><pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate><guid>https://alvarmaciel.github.io/media/lento_es_normal/sobre_el_grooming/</guid><description>&lt;div class="archive-audio-player"&gt;
+&lt;iframe
+src="https://archive.org/embed/piso-alvar-maciel-por-grooming-con-separador"
+width="100%"
+height="60"
+frameborder="0"
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowfullscreen
+loading="lazy"
+title="Reproductor de Archive.org"&gt;&lt;/iframe&gt;
+&lt;p class="archive-audio-link"&gt;
+&lt;a href="https://archive.org/details/piso-alvar-maciel-por-grooming-con-separador" target="_blank" rel="noopener noreferrer"&gt;
+Ver en Archive.org
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.archive-audio-player {
+margin: 1rem 0;
+padding: 0.6rem;
+border: 1px solid #3f3f46;
+border-radius: 10px;
+background: rgba(24,24,27,0.55);
+}
+.archive-audio-player iframe {
+display: block;
+border-radius: 6px;
+}
+.archive-audio-link {
+margin: 0.35rem 0 0;
+font-size: 0.8rem;
+}
+&lt;/style&gt;
 &lt;p&gt;Podés escucharlo también desde &lt;a href="https://archive.org/details/piso-alvar-maciel-por-grooming-con-separador" target="_blank"&gt;archive.org&lt;/a&gt;.&lt;/p&gt;</description></item></channel></rss>
