@@ -1,6 +1,6 @@
 ---
 title: "Low Tech High Life: Emacs magia y liberación"
-date: 2026-03-12
+date: 2026-03-13
 draft: false
 description: "Emacs es un editor de textos, una reliquia de un mundo mágico estas son palabras de amor a una herramienta que amo. Columna emitida 2025-11-29"
 rss_description: "Emacs es un editor de textos, una reliquia de un mundo mágico estas son palabras de amor a una herramienta que amo. Columna emitida 2025-11-29"
@@ -8,10 +8,10 @@ tags: ["radio", "emacs", "magia","herramientas"]
 categories: ["lento es normal"]
 featureimage: featured.png
 audio:
-  - "https://archive.org/download/lento-es-normal-miercoles-29-10-25/LENTO_ES_NORMAL-MIERCOLES-29-10-25.mp3"
+  - "https://archive.org/download/lento-es-normal-miercoles-29-10-25_202608/LENTO_ES_NORMAL-MIERCOLES-29-10-25.mp3"
 ---
 
-{{< archiveaudio id="lento-es-normal-miercoles-29-10-25" >}}
+{{< archiveaudio id="lento-es-normal-miercoles-29-10-25_202608" >}}
 
 Emacs es un editor de textos, una reliquia de un mundo mágico.
 Vale la pena preguntarnos Qué herramientas elegimos usar en nuestro día a día. Estas son palabras de amor a una herramienta que amo.
