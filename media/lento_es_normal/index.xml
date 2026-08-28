@@ -1,4 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>Lento es normal</title><link>https://alvarmaciel.github.io/media/lento_es_normal/</link><description>Lento es normal: una columna sobre tecnología, cultura y vida cotidiana. Miércoles 10 AM por Radio San Javier 89.3Mhz</description><language>es</language><generator>Hugo</generator><lastBuildDate>Sat, 15 Aug 2026 16:45:00 +0000</lastBuildDate><atom:link href="https://alvarmaciel.github.io/media/lento_es_normal/index.xml" rel="self" type="application/rss+xml"/><itunes:type>episodic</itunes:type><itunes:author>Alvar</itunes:author><itunes:summary>Lento es normal: una columna sobre tecnología, cultura y vida cotidiana. Miércoles 10 AM por Radio San Javier 89.3Mhz</itunes:summary><itunes:explicit>no</itunes:explicit><itunes:category text="Technology"/><itunes:owner><itunes:name>Alvar</itunes:name><itunes:email>alvarmaciel@gmail.com</itunes:email></itunes:owner><itunes:image href="https://alvarmaciel.github.io/images/con_compu.png"/><image><url>https://alvarmaciel.github.io/images/con_compu.png</url><title>Lento es normal</title><link>https://alvarmaciel.github.io/media/lento_es_normal/</link></image><item><title>Pocho labs y la alegría de hacer cosas</title><link>https://alvarmaciel.github.io/media/lento_es_normal/pocho_labs_y_la_alegria_de_hacer_cosas/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/pocho_labs_y_la_alegria_de_hacer_cosas/</guid><pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate><description>Un recorrido por Pocho labs, Porque La alegría no es solo brasilera - Columna emitida 2026-05-06</description><content:encoded><![CDATA[<div class="archive-audio-player">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>Lento es normal</title><link>https://alvarmaciel.github.io/media/lento_es_normal/</link><description>Lento es normal: una columna sobre tecnología, cultura y vida cotidiana. Miércoles 10 AM por Radio San Javier 89.3Mhz</description><language>es</language><generator>Hugo</generator><lastBuildDate>Fri, 28 Aug 2026 23:03:47 +0000</lastBuildDate><atom:link href="https://alvarmaciel.github.io/media/lento_es_normal/index.xml" rel="self" type="application/rss+xml"/><itunes:type>episodic</itunes:type><itunes:author>Alvar</itunes:author><itunes:summary>Lento es normal: una columna sobre tecnología, cultura y vida cotidiana. Miércoles 10 AM por Radio San Javier 89.3Mhz</itunes:summary><itunes:explicit>no</itunes:explicit><itunes:category text="Technology"/><itunes:owner><itunes:name>Alvar</itunes:name><itunes:email>alvarmaciel@gmail.com</itunes:email></itunes:owner><itunes:image href="https://alvarmaciel.github.io/images/con_compu.png"/><image><url>https://alvarmaciel.github.io/images/con_compu.png</url><title>Lento es normal</title><link>https://alvarmaciel.github.io/media/lento_es_normal/</link></image><item><title>Ama la Libertad</title><link>https://alvarmaciel.github.io/media/lento_es_normal/ama_la_libertad/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/ama_la_libertad/</guid><pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate><description>Vamos a hablar de la libertad. Pensar juntos algunas derivas de la libertad y que implica ser libres - Columna emitida 2026-05-26</description><content:encoded><![CDATA[<p>Vamos a hablar de la libertad. Pensar juntos algunas derivas de la libertad y que implica ser libres</p>
+<div class="archive-audio-player">
+  <iframe
+    src="https://archive.org/embed/lento-es-normal-26-05-26"
+    width="100%"
+    height="60"
+    frameborder="0"
+    webkitallowfullscreen="true"
+    mozallowfullscreen="true"
+    allowfullscreen
+    loading="lazy"
+    title="Reproductor de Archive.org"></iframe>
+  <p class="archive-audio-link">
+    <a href="https://archive.org/details/lento-es-normal-26-05-26" target="_blank" rel="noopener noreferrer">
+      Ver en Archive.org
+    </a>
+  </p>
+</div>
+
+<style>
+.archive-audio-player {
+  margin: 1rem 0;
+  padding: 0.6rem;
+  border: 1px solid #3f3f46;
+  border-radius: 10px;
+  background: rgba(24,24,27,0.55);
+}
+.archive-audio-player iframe {
+  display: block;
+  border-radius: 6px;
+}
+.archive-audio-link {
+  margin: 0.35rem 0 0;
+  font-size: 0.8rem;
+}
+</style>
+
+<p>Podcast disponible en:</p>
+<div style="display:flex;gap:1rem;flex-wrap:wrap;justify-content:center;align-items:center;">
+<a href="https://archive.org/details/@amaciel" rel="noopener" target="_blank">
+  <img class="nozoom" src="/images/internet-archive-podcast-badge.svg" alt="Escuchalo en Internet Archive" width="165" height="40">
+</a> | 
+<a href="https://open.spotify.com/show/5hJVg8ZiQIfBk8hHxNlpOS" rel="noopener" target="_blank">
+  <img class="nozoom" src="/images/spotify-podcast-badge.svg" alt="Escuchalo en Spotify" width="165" height="40">
+</a> | 
+<a href="/media/lento_es_normal/index.rss" rel="noopener" target="_blank">
+  <img class="nozoom" src="/images/rss-podcast-badge.svg" alt="Conectalo a tu reproductor (RSS)" width="165" height="40">
+</a>
+</div>]]></content:encoded><itunes:title>Ama la Libertad</itunes:title><itunes:author>Alvar</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>Vamos a hablar de la libertad. Pensar juntos algunas derivas de la libertad y que implica ser libres - Columna emitida 2026-05-26</itunes:summary><itunes:subtitle>Vamos a hablar de la libertad. Pensar juntos algunas derivas de la libertad y que implica ser libres - Columna emitida 2026-05-26</itunes:subtitle><itunes:image href="https://alvarmaciel.github.io/featured.png"/><enclosure url="https://archive.org/download/lento-es-normal-26-05-26/LENTO_ES_NORMAL-26-05-26.mp3" length="0" type="audio/mpeg"/></item><item><title>Pocho labs y la alegría de hacer cosas</title><link>https://alvarmaciel.github.io/media/lento_es_normal/pocho_labs_y_la_alegria_de_hacer_cosas/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/pocho_labs_y_la_alegria_de_hacer_cosas/</guid><pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate><description>Un recorrido por Pocho labs, Porque La alegría no es solo brasilera - Columna emitida 2026-05-06</description><content:encoded><![CDATA[<div class="archive-audio-player">
   <iframe
     src="https://archive.org/embed/lento-es-normal-26-05-06"
     width="100%"
