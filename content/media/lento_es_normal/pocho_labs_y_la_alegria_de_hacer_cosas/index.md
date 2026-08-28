@@ -11,10 +11,10 @@ audio:
   - "https://archive.org/download/lento-es-normal-26-05-06/LENTO_ES_NORMAL-26-05-06.mp3"
 ---
 
-{{< archiveaudio id="lento-es-normal-26-05-06" >}}
 
 Es importante encontrar cosas buenas en esta coyuntura. Porque parecería ser que el único camino que nos deja la crítica es la de la angustia frente a un futuro oscuro. Y eso nos inmoviliza. 
 
+{{< archiveaudio id="lento-es-normal-26-05-06" >}}
 
 <!--more-->
 
