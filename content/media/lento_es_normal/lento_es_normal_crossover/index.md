@@ -30,7 +30,7 @@ Podcast disponible en:
   <img class="nozoom" src="/images/spotify-podcast-badge.svg" alt="Escuchalo en Spotify" width="165" height="40">
 </a> | 
 
-<a href="/media/lento_es_normal/index.rss" rel="noopener" target="_blank">
+<a href="/media/lento_es_normal/index.xml" rel="noopener" target="_blank">
   <img class="nozoom" src="/images/rss-podcast-badge.svg" alt="Conectalo a tu reproductor (RSS)" width="165" height="40">
 </a>
 </div>

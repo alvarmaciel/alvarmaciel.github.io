@@ -29,7 +29,7 @@ Podcast disponible en:
   <img class="nozoom" src="/images/spotify-podcast-badge.svg" alt="Escuchalo en Spotify" width="165" height="40">
 </a> | 
 
-<a href="/media/lento_es_normal/index.rss" rel="noopener" target="_blank">
+<a href="/media/lento_es_normal/index.xml" rel="noopener" target="_blank">
   <img class="nozoom" src="/images/rss-podcast-badge.svg" alt="Conectalo a tu reproductor (RSS)" width="165" height="40">
 </a>
 </div>
@@ -58,4 +58,3 @@ A partir de ahí tiene una lista de videos sobre otras nerdeadas hermosas que po
 Tiene uno muy bueno sobre meshtastic un dispositivo que usa señales de radio de largo alcance (LORA) para crear redes de comunicación descentralizada y sin internet.
 
 En fin. Hay un mundo libre, bello y positivo allá afuera en las redes, no tenemos que olvidar eso. Solo que como cazadores en la niebla, tenemos que ir hacia ellos evitando las distracciones permanentes de un mundo que quiere que solo seamos consumidores embobados.
-
