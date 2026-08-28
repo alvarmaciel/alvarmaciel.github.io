@@ -41,12 +41,20 @@
 
   {{ range $episodes }}
     {{- $episodeDescription := .Params.rss_description | default .Description | default .Summary | default .Plain -}}
-    {{- $episodeImage := .Params.image | default .Params.featureimage | default "" -}}
-    {{- if not $episodeImage -}}
-      {{- with .Resources.GetMatch "featured.*" -}}{{- $episodeImage = .Permalink -}}{{- end -}}
-    {{- end -}}
-    {{- if not $episodeImage -}}
-      {{- with .Params.archive.image -}}{{- $episodeImage = . -}}{{- end -}}
+    {{- $episodeTitle := .Title -}}
+    {{- $episodeImage := false -}}
+    {{- with .Resources.GetMatch "featured.*" -}}
+      {{- if in (slice "jpeg" "png") .MediaType.SubType -}}
+        {{- $episodeImage = . -}}
+        {{- if or (ne .Width .Height) (lt .Width 1400) (gt .Width 3000) -}}
+          {{- if or (lt .Width 1400) (lt .Height 1400) -}}
+            {{- warnf "Podcast: escalando arte de episodio menor a 1400 px: %q (%dx%d)" $episodeTitle .Width .Height -}}
+          {{- end -}}
+          {{- $episodeImage = .Fill "1400x1400 Center" -}}
+        {{- end -}}
+      {{- else -}}
+        {{- warnf "Podcast: omitiendo arte de episodio con formato no compatible: %q (%s)" $episodeTitle .MediaType.Type -}}
+      {{- end -}}
     {{- end -}}
   <item>
     <title>{{ .Title | plainify | htmlEscape }}</title>
@@ -62,7 +70,7 @@
     <itunes:summary>{{ $episodeDescription | plainify | htmlEscape }}</itunes:summary>
     {{ with .Description }}<itunes:subtitle>{{ . | plainify | htmlEscape }}</itunes:subtitle>{{ end }}
     {{ with .Params.duration }}<itunes:duration>{{ . }}</itunes:duration>{{ end }}
-    {{ with $episodeImage }}<itunes:image href="{{ . | absURL }}" />{{ end }}
+    {{ with $episodeImage }}<itunes:image href="{{ .Permalink }}" />{{ end }}
 
     {{ $audioItems := .Params.enclosures | default .Params.audio }}
     {{ range $audioItems }}
