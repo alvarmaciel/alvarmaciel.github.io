@@ -2,8 +2,8 @@
 title: "Ama la Libertad"
 date: 2026-08-28
 draft: false
-description: "Vamos a hablar de la libertad. Pensar juntos algunas derivas de la libertad y que implica ser libres - Columna emitida 2026-05-26"
-rss_description: "Vamos a hablar de la libertad. Pensar juntos algunas derivas de la libertad y que implica ser libres - Columna emitida 2026-05-26"
+description: "Vamos hablar a de la libertad. Pensar algunas derivas de la libertad y que implica ser libres - Columna emitida 2026-05-26"
+rss_description: "Vamos a hablar de la libertad. Pensar algunas derivas de la libertad y que implica ser libres - Columna emitida 2026-05-26"
 tags: ["radio", "home server", "libertad", "raspberry"]
 categories: ["lento es normal"]
 featureimage: featured.png
@@ -12,7 +12,7 @@ audio:
 ---
 
 
-Vamos a hablar de la libertad. Pensar juntos algunas derivas de la libertad y que implica ser libres
+Vamos a hablar de la libertad. Pensar algunas derivas de la libertad y que implica ser libres
 
 {{< archiveaudio id="lento-es-normal-26-05-26" >}}
 
