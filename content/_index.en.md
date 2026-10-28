@@ -1,6 +1,14 @@
 ---
 title: "Welcome to my fair :tada:"
 description: "This is my personal site"
+heroCaption: "Alvar Maciel"
+heroLead: "Notes, thoughts, and some radio columns."
+heroButtons:
+  - label: "Read the blog"
+    url: "/en/posts/"
+  - label: "Listen to Lento es normal"
+    url: "/en/media/lento_es_normal/"
+    style: "outline"
 ---
 
 Father of two. Teacher. Backend Developer actually working in cibersecurity. These are notes, thoughts, and some radio columns. I have A tech-focused blog: [Cyeriadas](https://alvarmaciel.gitlab.io/cyberiada/). An older blog about education: [About Education](https://acercadelaeducacion.com.ar/)  

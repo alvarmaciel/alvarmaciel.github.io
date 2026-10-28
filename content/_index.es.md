@@ -1,6 +1,14 @@
 ---
 title: "Bienvenidos a mi feria :tada:"
 description: "Este es mi sitio personal"
+heroCaption: "Alvar Maciel"
+heroLead: "Notas, pensamientos y algunas columnas radiales."
+heroButtons:
+  - label: "Leer el blog"
+    url: "/posts/"
+  - label: "Escuchar Lento es normal"
+    url: "/media/lento_es_normal/"
+    style: "outline"
 ---
 
 Padre de dos. Docente. Backend Developer trabajando en ciberseguridad.

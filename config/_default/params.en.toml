@@ -26,7 +26,8 @@ smartTOC = true
 smartTOCHideUnfocusedChildren = false
 
 [header]
-layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+layout = "floating"
+mobileMenuStyle = "dropdown"
 
 [footer]
 showMenu = true
@@ -36,7 +37,7 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "profile"                 # valid options: page, profile, hero, card, background, custom
+layout = "landing"
 homepageImage = "/img/iceland.jpg" # used in: hero, and card
 showRecent = true
 showRecentItems = 10
@@ -88,6 +89,7 @@ showZenMode = false
 showThumbnail = true
 
 [list]
+featureImageHover = true
 showHero = true
 heroStyle = "background"           # valid options: basic, big, background, thumbAndBackground
 layoutBackgroundBlur = true        # only used when heroStyle equals background or thumbAndBackground

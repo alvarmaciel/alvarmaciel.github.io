@@ -71,7 +71,17 @@ Bueno, esto hoy es más accesible de lo que creemos. Solo demanda: la computador
 
 ¿Por dónde empezar entonces? Les propongo dos opciones de hardware y una de software para ir explorando juntos.
 
-
+{{< steps >}}
+  {{< step number="1" title="Elegí el equipo" >}}
+    Una Raspberry Pi, una ZimaBoard o una computadora que ya tengas.
+  {{< /step >}}
+  {{< step number="2" title="Instalá las herramientas" >}}
+    Prepará el sistema y los servicios que quieras usar.
+  {{< /step >}}
+  {{< step number="3" title="Sincronizá tus archivos" >}}
+    Conectá tus dispositivos con Syncthing.
+  {{< /step >}}
+{{< /steps >}}
 
 ### La Raspberry Pi
 
@@ -104,4 +114,7 @@ Tiene cliente para Windows, Mac, Linux y Android, y se configura desde una inter
 - Pocho Lab tiene mucha info sobre servidores caseros: <https://youtu.be/cmfDj_T-hjE?si=8b95VamRQ3V5-tFq> 
 
 En las próximas emisiones vamos a seguir sumando herramientas: Tailscale para acceder al servidor desde cualquier lugar, e Immich para gestionar las fotos de toda la familia sin cederle esas fotos a nadie. Pero por hoy, con esto ya tenemos para explorar.
+
+{{< cta url="https://archive.org/details/lento-es-normal-26-05-26" label="Escuchar en Archive.org" >}}
+{{< cta url="/media/lento_es_normal/index.xml" label="Suscribite por RSS" style="outline" >}}
 
