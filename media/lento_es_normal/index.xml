@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>Lento es normal</title><link>https://alvarmaciel.github.io/media/lento_es_normal/</link><description>Lento es normal: una columna sobre tecnología, cultura y vida cotidiana. Miércoles 10 AM por Radio San Javier 89.3Mhz</description><language>es</language><generator>Hugo</generator><lastBuildDate>Wed, 28 Oct 2026 19:06:57 +0000</lastBuildDate><atom:link href="https://alvarmaciel.github.io/media/lento_es_normal/index.xml" rel="self" type="application/rss+xml"/><itunes:type>episodic</itunes:type><itunes:author>Alvar</itunes:author><itunes:summary>Lento es normal: una columna sobre tecnología, cultura y vida cotidiana. Miércoles 10 AM por Radio San Javier 89.3Mhz</itunes:summary><itunes:explicit>no</itunes:explicit><itunes:category text="Technology"/><itunes:owner><itunes:name>Alvar</itunes:name><itunes:email>alvarmaciel@gmail.com</itunes:email></itunes:owner><itunes:image href="https://alvarmaciel.github.io/images/con_compu.png"/><image><url>https://alvarmaciel.github.io/images/con_compu.png</url><title>Lento es normal</title><link>https://alvarmaciel.github.io/media/lento_es_normal/</link></image><item><title>Ama la Libertad</title><link>https://alvarmaciel.github.io/media/lento_es_normal/ama_la_libertad/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/ama_la_libertad/</guid><pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate><description>Vamos a hablar de la libertad. Pensar algunas derivas sobre la libertad y que implica ser libres - Columna emitida 2026-05-26</description><content:encoded><![CDATA[<p>Vamos a hablar de la libertad. Pensar algunas derivas sobre la libertad y que implica ser libres</p>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>Lento es normal</title><link>https://alvarmaciel.github.io/media/lento_es_normal/</link><description>Lento es normal: una columna sobre tecnología, cultura y vida cotidiana. Miércoles 10 AM por Radio San Javier 89.3Mhz</description><language>es</language><generator>Hugo</generator><lastBuildDate>Wed, 28 Oct 2026 19:27:01 +0000</lastBuildDate><atom:link href="https://alvarmaciel.github.io/media/lento_es_normal/index.xml" rel="self" type="application/rss+xml"/><itunes:type>episodic</itunes:type><itunes:author>Alvar</itunes:author><itunes:summary>Lento es normal: una columna sobre tecnología, cultura y vida cotidiana. Miércoles 10 AM por Radio San Javier 89.3Mhz</itunes:summary><itunes:explicit>no</itunes:explicit><itunes:category text="Technology"/><itunes:owner><itunes:name>Alvar</itunes:name><itunes:email>alvarmaciel@gmail.com</itunes:email></itunes:owner><itunes:image href="https://alvarmaciel.github.io/images/con_compu.png"/><image><url>https://alvarmaciel.github.io/images/con_compu.png</url><title>Lento es normal</title><link>https://alvarmaciel.github.io/media/lento_es_normal/</link></image><item><title>Ama la Libertad</title><link>https://alvarmaciel.github.io/media/lento_es_normal/ama_la_libertad/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/ama_la_libertad/</guid><pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate><description>Vamos a hablar de la libertad. Pensar algunas derivas sobre la libertad y que implica ser libres - Columna emitida 2026-05-26</description><content:encoded><![CDATA[<p>Vamos a hablar de la libertad. Pensar algunas derivas sobre la libertad y que implica ser libres</p>
 <div class="archive-audio-player">
   <iframe
     src="https://archive.org/embed/lento-es-normal-26-05-26"
@@ -67,6 +67,41 @@ Y sí, nos da muchos beneficios, sacamos fotos con el celular y para que no se p
 <p>Y que tal si tuviéramos un servidor propio. Una computadora en casa que nos de servicios similares, nos permita compartir archivos. Guardar nuestras fotos, música y videos.</p>
 <p>Bueno, esto hoy es más accesible de lo que creemos. Solo demanda: la computadora (obvio) y aprender como configurar y mantenerla.</p>
 <p>¿Por dónde empezar entonces? Les propongo dos opciones de hardware y una de software para ir explorando juntos.</p>
+<ol class="not-prose my-10 space-y-5 border-s border-primary-200 ps-6 dark:border-primary-900">
+  
+  
+
+<li class="relative">
+  <span class="absolute -start-10 top-0 flex h-8 w-8 items-center justify-center rounded-full bg-primary-600 text-sm font-black text-white ring-4 ring-neutral dark:ring-neutral-800">1</span>
+  <h3 class="text-lg font-bold text-neutral-900 dark:text-white">Elegí el equipo</h3>
+  <div class="mt-1 text-neutral-600 dark:text-neutral-400"><pre><code>Una Raspberry Pi, una ZimaBoard o una computadora que ya tengas.
+</code></pre>
+</div>
+</li>
+
+  
+
+<li class="relative">
+  <span class="absolute -start-10 top-0 flex h-8 w-8 items-center justify-center rounded-full bg-primary-600 text-sm font-black text-white ring-4 ring-neutral dark:ring-neutral-800">2</span>
+  <h3 class="text-lg font-bold text-neutral-900 dark:text-white">Instalá las herramientas</h3>
+  <div class="mt-1 text-neutral-600 dark:text-neutral-400"><pre><code>Prepará el sistema y los servicios que quieras usar.
+</code></pre>
+</div>
+</li>
+
+  
+
+<li class="relative">
+  <span class="absolute -start-10 top-0 flex h-8 w-8 items-center justify-center rounded-full bg-primary-600 text-sm font-black text-white ring-4 ring-neutral dark:ring-neutral-800">3</span>
+  <h3 class="text-lg font-bold text-neutral-900 dark:text-white">Sincronizá tus archivos</h3>
+  <div class="mt-1 text-neutral-600 dark:text-neutral-400"><pre><code>Conectá tus dispositivos con Syncthing.
+</code></pre>
+</div>
+</li>
+
+
+</ol>
+
 
 <h3 class="relative group">La Raspberry Pi
     <div id="la-raspberry-pi" class="anchor"></div>
@@ -121,7 +156,23 @@ No es barata, pero viene con ZimaOS preinstalado, un sistema operativo con inter
 <li>YouTube: buscar “Syncthing tutorial español” da varios resultados útiles.</li>
 <li>Pocho Lab tiene mucha info sobre servidores caseros: <a href="https://youtu.be/cmfDj_T-hjE?si=8b95VamRQ3V5-tFq"  target="_blank" rel="noreferrer">https://youtu.be/cmfDj_T-hjE?si=8b95VamRQ3V5-tFq</a></li>
 </ul>
-<p>En las próximas emisiones vamos a seguir sumando herramientas: Tailscale para acceder al servidor desde cualquier lugar, e Immich para gestionar las fotos de toda la familia sin cederle esas fotos a nadie. Pero por hoy, con esto ya tenemos para explorar.</p>]]></content:encoded><itunes:title>Ama la Libertad</itunes:title><itunes:author>Alvar</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>Vamos a hablar de la libertad. Pensar algunas derivas sobre la libertad y que implica ser libres - Columna emitida 2026-05-26</itunes:summary><itunes:subtitle>Vamos hablar a de la libertad. Pensar algunas derivas sobre la libertad y que implica ser libres - Columna emitida 2026-05-26</itunes:subtitle><itunes:image href="https://alvarmaciel.github.io/media/lento_es_normal/ama_la_libertad/featured_hu_e2bdbe698dca6a22.jpg"/><enclosure url="https://archive.org/download/lento-es-normal-26-05-26/LENTO_ES_NORMAL-26-05-26.mp3" length="0" type="audio/mpeg"/></item><item><title>Pocho labs y la alegría de hacer cosas</title><link>https://alvarmaciel.github.io/media/lento_es_normal/pocho_labs_y_la_alegria_de_hacer_cosas/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/pocho_labs_y_la_alegria_de_hacer_cosas/</guid><pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate><description>Un recorrido por Pocho labs, Porque La alegría no es solo brasilera - Columna emitida 2026-05-06</description><content:encoded><![CDATA[<p>Es importante encontrar cosas buenas en esta coyuntura. Porque parecería ser que el único camino que nos deja la crítica es la de la angustia frente a un futuro oscuro. Y eso nos inmoviliza.</p>
+<p>En las próximas emisiones vamos a seguir sumando herramientas: Tailscale para acceder al servidor desde cualquier lugar, e Immich para gestionar las fotos de toda la familia sin cederle esas fotos a nadie. Pero por hoy, con esto ya tenemos para explorar.</p>
+<p><a
+  class="not-prose inline-flex items-center gap-2 rounded-xl px-5 py-3 font-semibold transition focus-visible:outline-2 focus-visible:outline-offset-2 bg-primary-600 text-white shadow-lg shadow-primary-500/20 hover:-translate-y-0.5 hover:bg-primary-500 focus-visible:outline-primary-600"
+  href="https://archive.org/details/lento-es-normal-26-05-26">Escuchar en Archive.org
+    <span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/></svg>
+</span>
+</a>
+
+
+<a
+  class="not-prose inline-flex items-center gap-2 rounded-xl px-5 py-3 font-semibold transition focus-visible:outline-2 focus-visible:outline-offset-2 border border-neutral-300 bg-white text-neutral-800 hover:border-primary-400 hover:text-primary-600 dark:border-neutral-700 dark:bg-neutral-900 dark:text-neutral-100 dark:hover:text-primary-400"
+  href="/media/lento_es_normal/index.xml">Suscribite por RSS
+    <span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/></svg>
+</span>
+</a>
+
+</p>]]></content:encoded><itunes:title>Ama la Libertad</itunes:title><itunes:author>Alvar</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>Vamos a hablar de la libertad. Pensar algunas derivas sobre la libertad y que implica ser libres - Columna emitida 2026-05-26</itunes:summary><itunes:subtitle>Vamos hablar a de la libertad. Pensar algunas derivas sobre la libertad y que implica ser libres - Columna emitida 2026-05-26</itunes:subtitle><itunes:image href="https://alvarmaciel.github.io/media/lento_es_normal/ama_la_libertad/featured_hu_e2bdbe698dca6a22.jpg"/><enclosure url="https://archive.org/download/lento-es-normal-26-05-26/LENTO_ES_NORMAL-26-05-26.mp3" length="0" type="audio/mpeg"/></item><item><title>Pocho labs y la alegría de hacer cosas</title><link>https://alvarmaciel.github.io/media/lento_es_normal/pocho_labs_y_la_alegria_de_hacer_cosas/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/pocho_labs_y_la_alegria_de_hacer_cosas/</guid><pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate><description>Un recorrido por Pocho labs, Porque La alegría no es solo brasilera - Columna emitida 2026-05-06</description><content:encoded><![CDATA[<p>Es importante encontrar cosas buenas en esta coyuntura. Porque parecería ser que el único camino que nos deja la crítica es la de la angustia frente a un futuro oscuro. Y eso nos inmoviliza.</p>
 <div class="archive-audio-player">
   <iframe
     src="https://archive.org/embed/lento-es-normal-26-05-06"
