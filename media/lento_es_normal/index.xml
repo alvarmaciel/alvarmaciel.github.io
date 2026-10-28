@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>Lento es normal</title><link>https://alvarmaciel.github.io/media/lento_es_normal/</link><description>Lento es normal: una columna sobre tecnología, cultura y vida cotidiana. Miércoles 10 AM por Radio San Javier 89.3Mhz</description><language>es</language><generator>Hugo</generator><lastBuildDate>Wed, 28 Oct 2026 18:46:26 +0000</lastBuildDate><atom:link href="https://alvarmaciel.github.io/media/lento_es_normal/index.xml" rel="self" type="application/rss+xml"/><itunes:type>episodic</itunes:type><itunes:author>Alvar</itunes:author><itunes:summary>Lento es normal: una columna sobre tecnología, cultura y vida cotidiana. Miércoles 10 AM por Radio San Javier 89.3Mhz</itunes:summary><itunes:explicit>no</itunes:explicit><itunes:category text="Technology"/><itunes:owner><itunes:name>Alvar</itunes:name><itunes:email>alvarmaciel@gmail.com</itunes:email></itunes:owner><itunes:image href="https://alvarmaciel.github.io/images/con_compu.png"/><image><url>https://alvarmaciel.github.io/images/con_compu.png</url><title>Lento es normal</title><link>https://alvarmaciel.github.io/media/lento_es_normal/</link></image><item><title>Ama la Libertad</title><link>https://alvarmaciel.github.io/media/lento_es_normal/ama_la_libertad/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/ama_la_libertad/</guid><pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate><description>Vamos a hablar de la libertad. Pensar algunas derivas sobre la libertad y que implica ser libres - Columna emitida 2026-05-26</description><content:encoded><![CDATA[<p>Vamos a hablar de la libertad. Pensar algunas derivas sobre la libertad y que implica ser libres</p>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>Lento es normal</title><link>https://alvarmaciel.github.io/media/lento_es_normal/</link><description>Lento es normal: una columna sobre tecnología, cultura y vida cotidiana. Miércoles 10 AM por Radio San Javier 89.3Mhz</description><language>es</language><generator>Hugo</generator><lastBuildDate>Wed, 28 Oct 2026 19:06:57 +0000</lastBuildDate><atom:link href="https://alvarmaciel.github.io/media/lento_es_normal/index.xml" rel="self" type="application/rss+xml"/><itunes:type>episodic</itunes:type><itunes:author>Alvar</itunes:author><itunes:summary>Lento es normal: una columna sobre tecnología, cultura y vida cotidiana. Miércoles 10 AM por Radio San Javier 89.3Mhz</itunes:summary><itunes:explicit>no</itunes:explicit><itunes:category text="Technology"/><itunes:owner><itunes:name>Alvar</itunes:name><itunes:email>alvarmaciel@gmail.com</itunes:email></itunes:owner><itunes:image href="https://alvarmaciel.github.io/images/con_compu.png"/><image><url>https://alvarmaciel.github.io/images/con_compu.png</url><title>Lento es normal</title><link>https://alvarmaciel.github.io/media/lento_es_normal/</link></image><item><title>Ama la Libertad</title><link>https://alvarmaciel.github.io/media/lento_es_normal/ama_la_libertad/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/ama_la_libertad/</guid><pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate><description>Vamos a hablar de la libertad. Pensar algunas derivas sobre la libertad y que implica ser libres - Columna emitida 2026-05-26</description><content:encoded><![CDATA[<p>Vamos a hablar de la libertad. Pensar algunas derivas sobre la libertad y que implica ser libres</p>
 <div class="archive-audio-player">
   <iframe
     src="https://archive.org/embed/lento-es-normal-26-05-26"
@@ -68,66 +68,58 @@ Y sí, nos da muchos beneficios, sacamos fotos con el celular y para que no se p
 <p>Bueno, esto hoy es más accesible de lo que creemos. Solo demanda: la computadora (obvio) y aprender como configurar y mantenerla.</p>
 <p>¿Por dónde empezar entonces? Les propongo dos opciones de hardware y una de software para ir explorando juntos.</p>
 
-
-<h3 class="relative group">La Raspberry Pi 
+<h3 class="relative group">La Raspberry Pi
     <div id="la-raspberry-pi" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#la-raspberry-pi" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#la-raspberry-pi" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <p>Una computadora del tamaño de una tarjeta de crédito, de bajo consumo, silenciosa, que puede quedarse prendida en un rincón de la casa sin molestar a nadie. La versión actual, la Raspberry Pi 5, arranca en alrededor de 60 dólares en su configuración básica, en Argentina tenemos que sumar la importación: en Mercado Libre la versión de 8GB ronda los 134.000 pesos. Vale la pena buscar en grupos de electrónica o ferias de hardware, donde suelen aparecer a mejores precios.</p>
-<p>En cuanto a la curva de aprendizaje: es la opción  más popular, tiene una comunidad enorme y muchísima documentación. El primer arranque requiere instalar el sistema operativo en una tarjeta SD, conectarla a la red y configurar algunas cosas básicas desde la terminal. No es inmediato, pero tampoco es imposible. Hay tutoriales en castellano muy buenos. Uno que recomiendo en particular es el de<a href="https://raspberryparatorpes.net/" target="_blank">Raspberry Pi para torpes</a>, que tiene guías paso a paso para exactamente este tipo de proyectos.</p>
+<p>En cuanto a la curva de aprendizaje: es la opción  más popular, tiene una comunidad enorme y muchísima documentación. El primer arranque requiere instalar el sistema operativo en una tarjeta SD, conectarla a la red y configurar algunas cosas básicas desde la terminal. No es inmediato, pero tampoco es imposible. Hay tutoriales en castellano muy buenos. Uno que recomiendo en particular es el de<a href="https://raspberryparatorpes.net/"  target="_blank" rel="noreferrer">Raspberry Pi para torpes</a>, que tiene guías paso a paso para exactamente este tipo de proyectos.</p>
 
-
-<h3 class="relative group">La ZimaBoard 2 
+<h3 class="relative group">La ZimaBoard 2
     <div id="la-zimaboard-2" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#la-zimaboard-2" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#la-zimaboard-2" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <p>Más potencia. Tiene un procesador Intel N150 de cuatro núcleos, diseño sin ventilador, completamente silenciosa, con dos puertos SATA para discos rígidos y dos puertos de red. Está pensada desde el principio como servidor doméstico. El precio directo del fabricante es de 279 dólares para el modelo base y 349 para el de más memoria.
 No es barata, pero viene con ZimaOS preinstalado, un sistema operativo con interfaz web sencilla que ten permite levantar servicios con pocos clics. Configurar un servidor o una nube personal en minutos, no horas, y no requiere saber mucho de Linux.</p>
-<p>La curva de aprendizaje es notablemente más suave que la Raspberry Pi para alguien que recién empieza. La contra es el precio y que es más difícil de conseguir en Argentina: hay que importarla o buscar en grupos de importación colaborativa. <a href="https://youtu.be/cmfDj_T-hjE?si=8b95VamRQ3V5-tFq" target="_blank">Pocho tiene una serie de videos muy buenos para empezar.</a></p>
+<p>La curva de aprendizaje es notablemente más suave que la Raspberry Pi para alguien que recién empieza. La contra es el precio y que es más difícil de conseguir en Argentina: hay que importarla o buscar en grupos de importación colaborativa. <a href="https://youtu.be/cmfDj_T-hjE?si=8b95VamRQ3V5-tFq"  target="_blank" rel="noreferrer">Pocho tiene una serie de videos muy buenos para empezar.</a></p>
 
-
-<h3 class="relative group">Syncthing 
+<h3 class="relative group">Syncthing
     <div id="syncthing" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#syncthing" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#syncthing" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <p>Ahora bien, tener la computadora es solo la mitad. El software es lo que la hace útil. Y acá quiero presentarles Syncthing. Es una herramienta de código abierto que permite sincronizar archivos entre diferentes dispositivos: computadoras de escritorio, portátiles, celulares, dentro de una red local. Es multiplataforma, y eso le da un potencial enorme.</p>
 <p>Las fotos del celular, los documentos del trabajo, la música, todo puede sincronizarse directamente entre el teléfono, la computadora y el servidor en casa. Sin Google. Sin Dropbox. Sin la computadora de otro.</p>
 <p>Tiene cliente para Windows, Mac, Linux y Android, y se configura desde una interfaz web que puede estar en español. No es instantáneo de configurar, hay que entender la lógica de cómo conecta los dispositivos, pero es mucho más sencillo de lo que parece.</p>
 
-
-<h3 class="relative group">Algunos recursos en castellano: 
+<h3 class="relative group">Algunos recursos en castellano:
     <div id="algunos-recursos-en-castellano" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#algunos-recursos-en-castellano" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#algunos-recursos-en-castellano" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <ul>
-<li>Junco TIC (<a href="https://juncotic.com" target="_blank">https://juncotic.com</a>): guía completa y actualizada de Syncthing en español, muy clara.</li>
-<li>Raspberry Pi para torpes (<a href="https://raspberryparatorpes.net" target="_blank">https://raspberryparatorpes.net</a>): tiene una guía específica de Syncthing sobre Raspberry Pi.</li>
+<li>Junco TIC (<a href="https://juncotic.com"  target="_blank" rel="noreferrer">https://juncotic.com</a>): guía completa y actualizada de Syncthing en español, muy clara.</li>
+<li>Raspberry Pi para torpes (<a href="https://raspberryparatorpes.net"  target="_blank" rel="noreferrer">https://raspberryparatorpes.net</a>): tiene una guía específica de Syncthing sobre Raspberry Pi.</li>
 <li>YouTube: buscar “Syncthing tutorial español” da varios resultados útiles.</li>
-<li>Pocho Lab tiene mucha info sobre servidores caseros: <a href="https://youtu.be/cmfDj_T-hjE?si=8b95VamRQ3V5-tFq" target="_blank">https://youtu.be/cmfDj_T-hjE?si=8b95VamRQ3V5-tFq</a></li>
+<li>Pocho Lab tiene mucha info sobre servidores caseros: <a href="https://youtu.be/cmfDj_T-hjE?si=8b95VamRQ3V5-tFq"  target="_blank" rel="noreferrer">https://youtu.be/cmfDj_T-hjE?si=8b95VamRQ3V5-tFq</a></li>
 </ul>
 <p>En las próximas emisiones vamos a seguir sumando herramientas: Tailscale para acceder al servidor desde cualquier lugar, e Immich para gestionar las fotos de toda la familia sin cederle esas fotos a nadie. Pero por hoy, con esto ya tenemos para explorar.</p>]]></content:encoded><itunes:title>Ama la Libertad</itunes:title><itunes:author>Alvar</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>Vamos a hablar de la libertad. Pensar algunas derivas sobre la libertad y que implica ser libres - Columna emitida 2026-05-26</itunes:summary><itunes:subtitle>Vamos hablar a de la libertad. Pensar algunas derivas sobre la libertad y que implica ser libres - Columna emitida 2026-05-26</itunes:subtitle><itunes:image href="https://alvarmaciel.github.io/media/lento_es_normal/ama_la_libertad/featured_hu_e2bdbe698dca6a22.jpg"/><enclosure url="https://archive.org/download/lento-es-normal-26-05-26/LENTO_ES_NORMAL-26-05-26.mp3" length="0" type="audio/mpeg"/></item><item><title>Pocho labs y la alegría de hacer cosas</title><link>https://alvarmaciel.github.io/media/lento_es_normal/pocho_labs_y_la_alegria_de_hacer_cosas/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/pocho_labs_y_la_alegria_de_hacer_cosas/</guid><pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate><description>Un recorrido por Pocho labs, Porque La alegría no es solo brasilera - Columna emitida 2026-05-06</description><content:encoded><![CDATA[<p>Es importante encontrar cosas buenas en esta coyuntura. Porque parecería ser que el único camino que nos deja la crítica es la de la angustia frente a un futuro oscuro. Y eso nos inmoviliza.</p>
 <div class="archive-audio-player">
@@ -179,9 +171,9 @@ No es barata, pero viene con ZimaOS preinstalado, un sistema operativo con inter
 </a>
 </div>
 <p>Desde acá, en esta columna, reflexionamos periódicamente sobre tecnologías y lo que nos pasa con eso. Esta reflexión está muchas veces teñida de angustias, preocupaciones y advertencias. Pero pasan cosas lindas, hay algo que me tracciona, que nos tracciona a muchos de nosotros a probar, testear y meternos a producir, o probar tecnologías. Esa pulsión de vida también está ahí. Y como la semana pasada, hoy vengo a comentar algunas de  esas cosas lindas que me emocionan.</p>
-<p>La semana pasada hablamos de videojuegos, de videojuegos argentinos y de <a href="https://421.news" target="_blank">la revista 421</a>. Hoy vamos a hablar de <a href="https://www.youtube.com/@PochoLabs" target="_blank">Pocho Labs</a>, un canal de youtube que no está desvinculado de 421, ya que llegué al canal y a Pocho a través de un canal de Discord.</p>
+<p>La semana pasada hablamos de videojuegos, de videojuegos argentinos y de <a href="https://421.news"  target="_blank" rel="noreferrer">la revista 421</a>. Hoy vamos a hablar de <a href="https://www.youtube.com/@PochoLabs"  target="_blank" rel="noreferrer">Pocho Labs</a>, un canal de youtube que no está desvinculado de 421, ya que llegué al canal y a Pocho a través de un canal de Discord.</p>
 <p>Si recordamos, un par de emisiones atrás hablamos de Discord, en un contexto menos feliz. Discord es una plataforma en la cual se pueden crear canales de chats. Los pibes lo usan cuando juegan, y yo lo uso para encontrarme con otros gordos compus o gordos comics a compartir novedades e ideas.</p>
-<p>El canal en el que conocí a pocho como les decía, es el de <a href="https://www.youtube.com/@CirculoVicioso8" target="_blank">circulo vicioso</a>. Circulo vicioso es un podcast/stream que nació en la pandemia. Una charla larga y descontracturada entre dos amigos, Pablo Wasserman y Juan Roucco. De circulo vicioso podemos hablar mucho, solo voy a decir que es un lugar que congregó a muchas personas con intereses similares e ideologías muy distintas y eso me parece muy bueno.</p>
+<p>El canal en el que conocí a pocho como les decía, es el de <a href="https://www.youtube.com/@CirculoVicioso8"  target="_blank" rel="noreferrer">circulo vicioso</a>. Circulo vicioso es un podcast/stream que nació en la pandemia. Una charla larga y descontracturada entre dos amigos, Pablo Wasserman y Juan Roucco. De circulo vicioso podemos hablar mucho, solo voy a decir que es un lugar que congregó a muchas personas con intereses similares e ideologías muy distintas y eso me parece muy bueno.</p>
 <p>En fin 421 es un medio fundado por Roucco, Circulo vicioso es un stream de él también y el canal de discord es un rejunte de personas con diferentes
 intereses. Y en el, apareció Pocho y su Pocho Labs.</p>
 <p>Pocho Labs es un canal de youtube donde Pocho nos muestra y enseña su camino en la automatización de su casa, sus aprendizajes mientras hace uso de tecnologías lo más open source que se pueda. Esto es decir, tecnologías abiertas, tecnologías a las que tenemos acceso al código, lo podemos modificar y podemos compartirlo.</p>
@@ -288,13 +280,11 @@ Tiene uno muy bueno sobre meshtastic un dispositivo que usa señales de radio de
   <img class="nozoom" src="/images/rss-podcast-badge.svg" alt="Conectalo a tu reproductor (RSS)" width="165" height="40">
 </a>
 </div>
-<p>Con esta idea <a href="/media/lento_es_normal/lo_estas_haciendo_mal/">me fui</a> y con esta idea vuelvo, qué emociones son las que se premian o cuáles son las que se trigerean para tenernos enganchados.</p>
+<p>Con esta idea <a href="/media/lento_es_normal/lo_estas_haciendo_mal/" >me fui</a> y con esta idea vuelvo, qué emociones son las que se premian o cuáles son las que se trigerean para tenernos enganchados.</p>
 <p>Hoy voy a hablar del FOMO, y creo que durante algunas columnas más voy a profundizar en esto.
 Qué es el fomo:</p>
-<blockquote>
-<p>FOMO son las siglas en inglés de ‘Fear Of Missing Out’, o sea, <em>miedo a perderse algo</em>. Una ansiedad social real. Es esa voz interna que te dice: ‘todos están viviendo algo increíble menos tú’. No, más atinado sería &rsquo;todos están viendo algo que no te podés perder&rsquo;. No podés quedar afuera.</p>
-</blockquote>
-<p>Esta ansiedad nos lleva a mirar el teléfono cada 5 minutos, en mi caso revisar mi twitter a cada momento, pero hay más manifestaciones:</p>
+<blockquote><p>FOMO son las siglas en inglés de ‘Fear Of Missing Out’, o sea, <em>miedo a perderse algo</em>. Una ansiedad social real. Es esa voz interna que te dice: ‘todos están viviendo algo increíble menos tú’. No, más atinado sería &rsquo;todos están viendo algo que no te podés perder&rsquo;. No podés quedar afuera.</p>
+</blockquote><p>Esta ansiedad nos lleva a mirar el teléfono cada 5 minutos, en mi caso revisar mi twitter a cada momento, pero hay más manifestaciones:</p>
 <ul>
 <li>tratar de estar al tanto de la series del momento, y para eso vernos resúmenes en lugar de ver la serie.</li>
 <li>Ponernos a skipear música a lo pavote para tener un panorama de lo que hoy se escucha.</li>
@@ -446,7 +436,7 @@ adelante un tanto incierto.</p>
 openClaw fue ruidosa y compleja. Voy a tratar de hacer un recorrido de esto de
 lo que estoy hablando, plasmar algunas impresiones pero sobre todo, dejar muchas
 preguntas abiertas.</p>
-<p><a href="https://openclaw.ai/" target="_blank">OpenClaw</a> es un Asistente IA que vive en tu aplicacion
+<p><a href="https://openclaw.ai/"  target="_blank" rel="noreferrer">OpenClaw</a> es un Asistente IA que vive en tu aplicacion
 chat favorita, WhatsApp, Telegram o la que elijas. Le escribis, como si le
 escribieras a un amigo, y te contesta. Pero a diferencia de ChatGpt o Claude
 tiene trés caracteristicas únicas:</p>
@@ -485,7 +475,7 @@ precauciones sobre las que alertan los expertos en ciberseguridad.</p>
 <p>En este marco, hubo un artículo que llamó mi atención. y al que sigo volviendo
 casi todos los días. Salió el 26 de enero del 2026 se llama I Installed Clawdbot
 Yesterday. Every User Hits The Same Dark Pattern At Week 8 escrito por el
-usuario de tuitter <a href="https://x.com/TukiFromKL" target="_blank">@TukiFromKL</a></p>
+usuario de tuitter <a href="https://x.com/TukiFromKL"  target="_blank" rel="noreferrer">@TukiFromKL</a></p>
 <p>En el artículo se detalla brevemente como funcionan estos asistentes y hace una
 suerte de especulación predictiva sobre lo que va a venir. Un ejercicio de la
 fantasia que abre preguntas interesantes y que quiero compartir.</p>
@@ -512,8 +502,7 @@ hacer algo en tu computadora, a confirmar la predicción y luego simplente
 hacerlo. Va a ser tan gradual que no nos vamos a dar cuenta. Luego va a llegar
 el cambio en nuestro comportamiento. Les voy a leer un fragmento de sus
 especulaciones. La traduccion es mia… y de Claude que me ayudó:</p>
-<blockquote>
-<p>Para el año 2, tu IA conoce tus patrones mejor que vos. Y empieza a correrte, a
+<blockquote><p>Para el año 2, tu IA conoce tus patrones mejor que vos. Y empieza a correrte, a
 empujarte, a “guiarte” sutilmente. Un escenario real de lo que que creo que va a
 pasar:</p>
 <p>Vos: “Hoy no voy al gimnasio”
@@ -532,8 +521,7 @@ propuesta. Sí querés comer mejor. Pero cuando cada decisión está optimizada
 algorítmicamente, en base a tu comportamiento pasado y tus preferencias
 declaradas…</p>
 <p>¿Estás tomando decisiones? ¿O estás ejecutando un modelo de predicción?</p>
-</blockquote>
-<p>Tuki predice que para finales de 2027 las empresas requerirán de Asistentes con
+</blockquote><p>Tuki predice que para finales de 2027 las empresas requerirán de Asistentes con
 IA, no explicitamente sino efectivamente. Que la gente que se resista será vista
 como:</p>
 <ul>
@@ -570,55 +558,33 @@ dejado de ejercitarla. Como un músculo que no usamos en años.</p>
 <p>Y optimiza tu vida en base a este conocimiento.</p>
 <p>¿Quién serías vos? ¿La persona que toma decisiones o el sustrato biológico que ejecuta el algoritmo?</p>
 <p>Tuki anticipa crisis en las relaciones. Una división más entre quienes están Optimizados y los analógicos. Especula lo siguente:</p>
-<blockquote>
-<p>Los Optimizados van a superar a los Analógicos. En el trabajo. En estatus. En
+<blockquote><p>Los Optimizados van a superar a los Analógicos. En el trabajo. En estatus. En
 capacidad. Pero los Analógicos van a tener algo que los Optimizados no: Agencia.
 Presencia. Autoconocimiento. El lujo de ser &ldquo;no optimizado&rdquo;.</p>
-</blockquote>
-<blockquote>
-<p>Para 2028, decir &ldquo;yo no uso un asistente de IA&rdquo; va a ser como decir hoy &ldquo;yo no tengo smartphone&rdquo;.
+</blockquote><blockquote><p>Para 2028, decir &ldquo;yo no uso un asistente de IA&rdquo; va a ser como decir hoy &ldquo;yo no tengo smartphone&rdquo;.
 O sos:</p>
-</blockquote>
-<blockquote>
-<p>A) Suficientemente rico para elegir no usarlo (tenés asistentes humanos)</p>
-</blockquote>
-<blockquote>
-<p>B) Suficientemente convencido de tus principios como para sacrificar productividad</p>
-</blockquote>
-<blockquote>
-<p>C) El que se quedó atrás</p>
-</blockquote>
-<blockquote>
-<p>La clase media no va a tener la opción A. Y la mayoría no va a elegir la opción B&hellip;</p>
-</blockquote>
-<blockquote>
-<p>y esto es lo que nadie está diciendo</p>
-</blockquote>
-<blockquote>
-<p>Para el año 3, especula que vamos a darnos cuenta de algo: el lado oscuro de los asistentes de IA no es la privacidad. No es ni siquiera el control. Es LA &gt; MIZACIÓN EN SÍ MISMA.
+</blockquote><blockquote><p>A) Suficientemente rico para elegir no usarlo (tenés asistentes humanos)</p>
+</blockquote><blockquote><p>B) Suficientemente convencido de tus principios como para sacrificar productividad</p>
+</blockquote><blockquote><p>C) El que se quedó atrás</p>
+</blockquote><blockquote><p>La clase media no va a tener la opción A. Y la mayoría no va a elegir la opción B&hellip;</p>
+</blockquote><blockquote><p>y esto es lo que nadie está diciendo</p>
+</blockquote><blockquote><p>Para el año 3, especula que vamos a darnos cuenta de algo: el lado oscuro de los asistentes de IA no es la privacidad. No es ni siquiera el control. Es LA &gt; MIZACIÓN EN SÍ MISMA.
 Porque la optimización tiene un objetivo. Y nadie se está preguntando: ¿para qué estamos optimizando?</p>
-</blockquote>
-<blockquote>
-<ul>
+</blockquote><blockquote><ul>
 <li>¿para la Productividad? → Y te convertís en una máquina de trabajar</li>
 <li>¿para la Eficiencia? → Y perdés la espontaneidad</li>
 <li>¿para la Felicidad? → Y Evitás el malestar necesario</li>
 <li>¿para la Comodidad? → Y nos volvemos incapaces de tolerar la incomodidad.</li>
 </ul>
-</blockquote>
-<blockquote>
-<p>Estamos optimizando nuestras vidas. ¿Pero hacia qué? ¿Ser más productivos en
+</blockquote><blockquote><p>Estamos optimizando nuestras vidas. ¿Pero hacia qué? ¿Ser más productivos en
 trabajos que la IA va a terminar haciendo de todas formas? ¿Ser más eficientes
 en tareas que en realidad no importan? ¿Ser más felices evitando todo lo
 difícil? ¿Ser más cómodos hasta que no podamos manejar nada incómodo?</p>
-</blockquote>
-<blockquote>
-<p>Para el año 3, anticipa que vamos a mirar atrás, hacia el 2026 y vamos a
+</blockquote><blockquote><p>Para el año 3, anticipa que vamos a mirar atrás, hacia el 2026 y vamos a
 decir: &ldquo;Estábamos tan emocionados de que funcionara. Nunca nos detuvimos a
 preguntarnos si QUERÍAMOS que funcionara. Y ahora es demasiado tarde para
 volver. Porque todos los que no se optimizaron&hellip; quedaron afuera.&rdquo;</p>
-</blockquote>
-<p>Segun Tuki, ese es el verdadero lado oscuro. No que los asistentes de IA sean malignos. Sino que son DEMASIADO BUENOS.
+</blockquote><p>Segun Tuki, ese es el verdadero lado oscuro. No que los asistentes de IA sean malignos. Sino que son DEMASIADO BUENOS.
 Y ser demasiado bueno en algo peligroso&hellip; es lo más peligroso de todo.</p>
 <p>Entonces: ¿Que deberíamos hacer?
 Roberto Chuit Roganovich dice algo interesante en Archipielagos. Ocupar estas tecnologías en clave bélica, táctica y estrategica.
@@ -761,102 +727,71 @@ Vale la pena preguntarnos Qué herramientas elegimos usar en nuestro día a día
   <img class="nozoom" src="/images/rss-podcast-badge.svg" alt="Conectalo a tu reproductor (RSS)" width="165" height="40">
 </a>
 </div>
-<p>Me gusta conectar textos. Tender puentes entre personas e ideas. Me gusta <a href="https://www.421.news/" target="_blank">421</a> porque se mete entre otras lecturas y pone en juego pasiones, ideas y temores que me convocan. Y además, nos permite interactuar, y al menos responder,  o iniciar un diálogo que puede florecer o no. Pero que esta dado. Abierto.
-El artículo <a href="https://www.421.news/low-tech-high-life-cottagecore-cyberpunk/" target="_blank">Low Tech Hig Life</a> da mucha tela para cortar. Una de ellas: Qué herramientas elegimos usar en nuestro día a día.</p>
+<p>Me gusta conectar textos. Tender puentes entre personas e ideas. Me gusta <a href="https://www.421.news/"  target="_blank" rel="noreferrer">421</a> porque se mete entre otras lecturas y pone en juego pasiones, ideas y temores que me convocan. Y además, nos permite interactuar, y al menos responder,  o iniciar un diálogo que puede florecer o no. Pero que esta dado. Abierto.
+El artículo <a href="https://www.421.news/low-tech-high-life-cottagecore-cyberpunk/"  target="_blank" rel="noreferrer">Low Tech Hig Life</a> da mucha tela para cortar. Una de ellas: Qué herramientas elegimos usar en nuestro día a día.</p>
 <p>En mi caso, necesito una para editar y leer textos. Ya sea para programar algo o para volcar mis ideas cuando no tengo un papel a mono. Y nada más low tech para esto que el texto plano. Nada más high life que Emacs.</p>
-<p>Quiero compartirles extractos de un sensayo titulado  <a href="https://waxbanks.wordpress.com/2025/08/01/bare-metal-the-emacs-essay/" target="_blank">bare metal (the emacs essay) de Wax Banks</a>. Sería algo así como Fierro desnudo (El ensayo de emacs)</p>
+<p>Quiero compartirles extractos de un sensayo titulado  <a href="https://waxbanks.wordpress.com/2025/08/01/bare-metal-the-emacs-essay/"  target="_blank" rel="noreferrer">bare metal (the emacs essay) de Wax Banks</a>. Sería algo así como Fierro desnudo (El ensayo de emacs)</p>
 <p>Este texto puso en palabras mucho de lo que pienso, o más bien siento con mi editor de texto favorito.</p>
 <p>Además dialoga directamente con lo que Juan expone en su artículo y con lo que algunos venimos tratando de recuperar. Un espacio de soberanía cognitiva.</p>
 <p>Lo que lees voy a leer a continuación es una carta de amor, amor por todo lo que la programación tiene para ofrecernos.</p>
 <p>Programar es mucho más que un trabajo para algunos de nosotros, es más que hacer algo que nos sirva. Programar es dominar la magia de las ideas abstractas convirtiendolas en cosas que podemos manipular para crear.</p>
 <p>Esta es una carta de amor hecha de recortes y sentimientos. Un collage que quiere develar la pasión por herramientas que nos liberan. La profunda conexión que algunos encontramos entre los sistemas que regulan nuestros días y su raíz olvidada/negada transformadora.</p>
 
-
-<h3 class="relative group">Breve intro 
+<h3 class="relative group">Breve intro
     <div id="breve-intro" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#breve-intro" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#breve-intro" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
-<blockquote>
-<p>Emacs tiene aproximadamente 50 años y se nota, y los usuarios que llegan a Emacs desde programas comerciales modernos son como habitantes de departamentos urbanos obligados a desenchufar sus microondas y descubrir el fuego. Los microondas hacen las cosas difíciles más fáciles, las cosas lentas más rápidas y los malos trabajos mejores, pero sin otras herramientas no pueden hacer una buena comida; además, cuando suban los mares y se apaguen las luces, los microondas serán inútiles excepto como cuchas para mascotas pequeñas. El fuego permanece.
+<blockquote><p>Emacs tiene aproximadamente 50 años y se nota, y los usuarios que llegan a Emacs desde programas comerciales modernos son como habitantes de departamentos urbanos obligados a desenchufar sus microondas y descubrir el fuego. Los microondas hacen las cosas difíciles más fáciles, las cosas lentas más rápidas y los malos trabajos mejores, pero sin otras herramientas no pueden hacer una buena comida; además, cuando suban los mares y se apaguen las luces, los microondas serán inútiles excepto como cuchas para mascotas pequeñas. El fuego permanece.
 No se puede gobernar sin fuego.</p>
-</blockquote>
-<blockquote>
-<p>Usar Emacs es interactuar con un sistema distinto a cualquier otro programa de capacidades similares: uno construido alrededor de la introspección —autoexamen, el editor exponiendo y editando su propio código— y un grado de extensibilidad inigualable.</p>
-</blockquote>
-<blockquote>
-<p>Emacs es una obra filosófica encarnada: una forma de vivir libre (a la que solo le falta un editor de texto decente).</p>
-</blockquote>
-<blockquote>
-<p>Emacs articula una filosofía de libertad que sostiene que una persona no es verdaderamente libre a menos que tenga privacidad total y control total sobre sus herramientas. Por eso todo Emacs está abierto al examen y la introspección hasta los mismos fierro, su base, su código C de más bajo nivel. A pesar de la complejidad de la herramienta y el entorno computacional, nada se le esconde al usuario. El programa fue construido específicamente para permitir esa introspección; para eso está, no para editar texto —que lo hace bien— sino para otorgar (ejercer) control sobre la computación, exactamente lo opuesto a las convenciones de los ’jardines vallados’ actuales. (Probá conseguir repuestos alternativos para tu Tesla.)</p>
-</blockquote>
-<hr>
+</blockquote><blockquote><p>Usar Emacs es interactuar con un sistema distinto a cualquier otro programa de capacidades similares: uno construido alrededor de la introspección —autoexamen, el editor exponiendo y editando su propio código— y un grado de extensibilidad inigualable.</p>
+</blockquote><blockquote><p>Emacs es una obra filosófica encarnada: una forma de vivir libre (a la que solo le falta un editor de texto decente).</p>
+</blockquote><blockquote><p>Emacs articula una filosofía de libertad que sostiene que una persona no es verdaderamente libre a menos que tenga privacidad total y control total sobre sus herramientas. Por eso todo Emacs está abierto al examen y la introspección hasta los mismos fierro, su base, su código C de más bajo nivel. A pesar de la complejidad de la herramienta y el entorno computacional, nada se le esconde al usuario. El programa fue construido específicamente para permitir esa introspección; para eso está, no para editar texto —que lo hace bien— sino para otorgar (ejercer) control sobre la computación, exactamente lo opuesto a las convenciones de los ’jardines vallados’ actuales. (Probá conseguir repuestos alternativos para tu Tesla.)</p>
+</blockquote><hr>
 
-
-<h3 class="relative group">seguridad a cambio de libertad. 
+<h3 class="relative group">seguridad a cambio de libertad.
     <div id="seguridad-a-cambio-de-libertad" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#seguridad-a-cambio-de-libertad" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#seguridad-a-cambio-de-libertad" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
-<blockquote>
-<p>Es un programa que está perfectamente alineado en el espíritu de sus orígenes en el movimiento de los 70 por de una computación personal liberadora, la creación y difusión de herramientas para aumentar la salud y capacidad humana en lugar de extraernos dólares publicitarios. (Silicon Valley simplemente abandonó este ethos, que es una de las razones por las que Richard Stallman, el creador de Emacs, es ridiculizado por estos caretas.)</p>
-</blockquote>
-<blockquote>
-<p>El objetivo del programa es brindar, posibilitar, una experiencia emancipatoria de computación autónoma. Las mentes son lo que los cuerpos hacen y las herramientas extienden la mente-cuerpo: el control de las herramientas es libertad.</p>
-</blockquote>
-<blockquote>
-<p>No estás realmente usando el programa hasta que empezás a pensar como él piensa —momento en el cual se vuelve difícil imaginar usar otra cosa a menos que te obliguen o estés obligado…
+<blockquote><p>Es un programa que está perfectamente alineado en el espíritu de sus orígenes en el movimiento de los 70 por de una computación personal liberadora, la creación y difusión de herramientas para aumentar la salud y capacidad humana en lugar de extraernos dólares publicitarios. (Silicon Valley simplemente abandonó este ethos, que es una de las razones por las que Richard Stallman, el creador de Emacs, es ridiculizado por estos caretas.)</p>
+</blockquote><blockquote><p>El objetivo del programa es brindar, posibilitar, una experiencia emancipatoria de computación autónoma. Las mentes son lo que los cuerpos hacen y las herramientas extienden la mente-cuerpo: el control de las herramientas es libertad.</p>
+</blockquote><blockquote><p>No estás realmente usando el programa hasta que empezás a pensar como él piensa —momento en el cual se vuelve difícil imaginar usar otra cosa a menos que te obliguen o estés obligado…
 Emacs logra tanto articular un sistema de creencias como ser, fuera de joda, una herramienta poderosa que es un placer usar y dominar.</p>
 </blockquote>
-
-
-<h3 class="relative group">Sistema mágico 
-    <div id="sistema-m%C3%A1gico" class="anchor"></div>
+<h3 class="relative group">Sistema mágico
+    <div id="sistema-mágico" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#sistema-m%C3%A1gico" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#sistema-m%c3%a1gico" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
-<blockquote>
-<p>… por supuesto que deberíamos mirar a Emacs como una especie de sistema mágico, todo un reino alternativo que requiere trabajo para que tenga sentido —y una vez que tiene sentido puede hacer cualquier cosa. Podés usarlo para editar archivos de texto, incluso en lenguajes humanos, pero eso sería como ’usar magia’ para ’hacer un hechizo de amor’. Los hechizos  son efectos secundarios de la transformación imaginativa del mago, carajo,  francamente si lo que querés sacar de la indagación mágica es hacer que alguien se enamore de vos entonces hay mejores herramientas ahí afuera, como por ejemplo la conversación atenta y curiosa. Lleva un montón de trabajo hacer que Emacs ’simplemente funcione’, pero así debe ser: aprender Emacs —como aprender Lisp o latín, tantra o tarantela— no resuelve problemas en sí mismo, te deja ver nuevas formas de resolver problemas.</p>
-</blockquote>
-<blockquote>
-<p>Ya nadie habla latín, pero casi todos en Occidente hablan algún idioma al que aprender latín te da acceso. Meditar no te va a ’hacer mas tranquilo’, pero podría ayudarte a entender cómo lograrlo. El poder de la herramienta es que sos vos quien se vuelve más poderoso, es decir, más listo/capaz de asumir responsabilidad auténtica por la creación, es decir, más libre.</p>
-</blockquote>
-<blockquote>
-<p>Todos los hechizos se lanzan sobre quien los lanza.
+<blockquote><p>… por supuesto que deberíamos mirar a Emacs como una especie de sistema mágico, todo un reino alternativo que requiere trabajo para que tenga sentido —y una vez que tiene sentido puede hacer cualquier cosa. Podés usarlo para editar archivos de texto, incluso en lenguajes humanos, pero eso sería como ’usar magia’ para ’hacer un hechizo de amor’. Los hechizos  son efectos secundarios de la transformación imaginativa del mago, carajo,  francamente si lo que querés sacar de la indagación mágica es hacer que alguien se enamore de vos entonces hay mejores herramientas ahí afuera, como por ejemplo la conversación atenta y curiosa. Lleva un montón de trabajo hacer que Emacs ’simplemente funcione’, pero así debe ser: aprender Emacs —como aprender Lisp o latín, tantra o tarantela— no resuelve problemas en sí mismo, te deja ver nuevas formas de resolver problemas.</p>
+</blockquote><blockquote><p>Ya nadie habla latín, pero casi todos en Occidente hablan algún idioma al que aprender latín te da acceso. Meditar no te va a ’hacer mas tranquilo’, pero podría ayudarte a entender cómo lograrlo. El poder de la herramienta es que sos vos quien se vuelve más poderoso, es decir, más listo/capaz de asumir responsabilidad auténtica por la creación, es decir, más libre.</p>
+</blockquote><blockquote><p>Todos los hechizos se lanzan sobre quien los lanza.
 La magia no funciona, nos seguimos diciendo, pero funciona. Para decirlo con más precisión: una vez que tenés tus archivos de configuración (conciencia, sistema mágico, caja de herramientas) como los querés, podés hacer todas las cosas que te propusiste hacer desde un principio.</p>
+</blockquote><blockquote><p>De ahí la diferencia entre la industria de la ’computadora personal’ y el movimiento de la ’computación personal’, la primera es sobre comprar y usar herramientas, la segunda sobre transformar y expandir el yo a través del uso de herramientas, realizando el potencial humano… y siendo, como ’efecto secundario’, menos propenso a comprar bienes de consumo caros de los depredadores ordinarios. ¿Por qué pensás que mataron el movimiento…?</p>
 </blockquote>
-<blockquote>
-<p>De ahí la diferencia entre la industria de la ’computadora personal’ y el movimiento de la ’computación personal’, la primera es sobre comprar y usar herramientas, la segunda sobre transformar y expandir el yo a través del uso de herramientas, realizando el potencial humano… y siendo, como ’efecto secundario’, menos propenso a comprar bienes de consumo caros de los depredadores ordinarios. ¿Por qué pensás que mataron el movimiento…?</p>
-</blockquote>
-
-
-<h3 class="relative group">Mundo y Mundo 
+<h3 class="relative group">Mundo y Mundo
     <div id="mundo-y-mundo" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#mundo-y-mundo" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#mundo-y-mundo" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
-<blockquote>
-<p>Nuestro ruinoso mundo nuevo requiere algo distinto, una amenabilidad ’amigable para el consumidor’ y a la medida de Mercados Extranjeros. Requiere que todo tenga  un Modo tutorial, resúmenes. No hay mercados para el misterio; no hay tiempo para soñar despierto, eso pertenece a un viejo mundo menos productivo.
+<blockquote><p>Nuestro ruinoso mundo nuevo requiere algo distinto, una amenabilidad ’amigable para el consumidor’ y a la medida de Mercados Extranjeros. Requiere que todo tenga  un Modo tutorial, resúmenes. No hay mercados para el misterio; no hay tiempo para soñar despierto, eso pertenece a un viejo mundo menos productivo.
 Así vivimos:
 Queriendo que funcione apenas lo saco de la caja.</p>
 <ul>
@@ -867,32 +802,21 @@ Queriendo que funcione apenas lo saco de la caja.</p>
 <li>Siiií, necesito  eso en una hora, gracias.
 …todo lo cual es exactamente lo opuesto de la imprecisión fecunda de la magia, como el porno es lo opuesto del erotismo y ’spoiler’ es lo opuesto del ’relato’ (asombro)</li>
 </ul>
+</blockquote><blockquote><p>Las herramientas que te dejan hacer un trabajo más difícil y mejor son una bendición; las que hacen la vida más fácil pero peor son la otra cosa, incluso si nos criaron mal y aprendimos a valorarlas.</p>
+</blockquote><blockquote><p>Abrirse camino más allá de la satisfacción fácil hacia la realización profunda significa rechazar la manía por la facilidad y la conveniencia en el núcleo de nuestra religión de estado consumista secular —y abrazar, no sin riesgo, una realidad alternativa fuera del consenso.</p>
 </blockquote>
-<blockquote>
-<p>Las herramientas que te dejan hacer un trabajo más difícil y mejor son una bendición; las que hacen la vida más fácil pero peor son la otra cosa, incluso si nos criaron mal y aprendimos a valorarlas.</p>
-</blockquote>
-<blockquote>
-<p>Abrirse camino más allá de la satisfacción fácil hacia la realización profunda significa rechazar la manía por la facilidad y la conveniencia en el núcleo de nuestra religión de estado consumista secular —y abrazar, no sin riesgo, una realidad alternativa fuera del consenso.</p>
-</blockquote>
-
-
-<h3 class="relative group">Emacs 
+<h3 class="relative group">Emacs
     <div id="emacs" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#emacs" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#emacs" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
-<blockquote>
-<p>Emacs representa una apuesta que no dio resultado, por un futuro que nunca, jamás se va a permitir que llegue. Encarna la creencia encantadora pero equivocada de que crear herramientas para hacer a la gente más libre va a iniciar un movimiento hacia la libertad. Si lo hubieran hecho punks en lugar de hippies —en lugar de científicos e ingenieros viviendo en una esperanza meritocrática equivocada— quizás el movimiento que representa estaría en posición de exigir en lugar de recordar.</p>
-</blockquote>
-<blockquote>
-<p>Cada vez que me siento en mi computadora y abro Emacs entro en el futuro desvanecido de un pasado desvanecido en lugar de al futuro, y se me otorga acceso a un poder inigualable, y me rompe el puto corazón.</p>
-</blockquote>
-<ul>
+<blockquote><p>Emacs representa una apuesta que no dio resultado, por un futuro que nunca, jamás se va a permitir que llegue. Encarna la creencia encantadora pero equivocada de que crear herramientas para hacer a la gente más libre va a iniciar un movimiento hacia la libertad. Si lo hubieran hecho punks en lugar de hippies —en lugar de científicos e ingenieros viviendo en una esperanza meritocrática equivocada— quizás el movimiento que representa estaría en posición de exigir en lugar de recordar.</p>
+</blockquote><blockquote><p>Cada vez que me siento en mi computadora y abro Emacs entro en el futuro desvanecido de un pasado desvanecido en lugar de al futuro, y se me otorga acceso a un poder inigualable, y me rompe el puto corazón.</p>
+</blockquote><ul>
 <li>imagen: Senshi, preparando la comida, tomandose tiempos para descubrise cocinando.</li>
 </ul>]]></content:encoded><itunes:title>Low Tech High Life: Emacs magia y liberación</itunes:title><itunes:author>Alvar</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>Emacs es un editor de textos, una reliquia de un mundo mágico estas son palabras de amor a una herramienta que amo. Columna emitida 2025-11-29</itunes:summary><itunes:subtitle>Emacs es un editor de textos, una reliquia de un mundo mágico estas son palabras de amor a una herramienta que amo. Columna emitida 2025-11-29</itunes:subtitle><itunes:image href="https://alvarmaciel.github.io/media/lento_es_normal/low_tech_high_life_emacs_magia_y_liberacion/featured_hu_a8afd2617cd8429a.png"/><enclosure url="https://archive.org/download/lento-es-normal-miercoles-29-10-25_202608/LENTO_ES_NORMAL-MIERCOLES-29-10-25.mp3" length="0" type="audio/mpeg"/></item><item><title>Fallas en la nube y una vuelta a tecnologías básicas</title><link>https://alvarmaciel.github.io/media/lento_es_normal/fallas_en_la_nube_y_una_vuelta_a_tecnologia_basica/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/fallas_en_la_nube_y_una_vuelta_a_tecnologia_basica/</guid><pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate><description>Se cayó AWS y charlamos sobre teléfonos básicos para los pibes. Columna emitida el 2025-10-22</description><content:encoded><![CDATA[<div class="archive-audio-player">
   <iframe
@@ -945,26 +869,24 @@ Hablamos sobre teléfonos básicos y celulares liberados a partir de la columna 
 </a>
 </div>
 
-
-<h3 class="relative group">Enlaces y referencias 
+<h3 class="relative group">Enlaces y referencias
     <div id="enlaces-y-referencias" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#enlaces-y-referencias" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#enlaces-y-referencias" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <ul>
 <li>
-<p><a href="https://www.jeantwenge.com/10-rules-for-raising-kids-in-a-high-tech-world/?" target="_blank">Jean M. Twenge — 10 Rules for Raising Kids in a High-Tech World</a></p>
+<p><a href="https://www.jeantwenge.com/10-rules-for-raising-kids-in-a-high-tech-world/?"  target="_blank" rel="noreferrer">Jean M. Twenge — 10 Rules for Raising Kids in a High-Tech World</a></p>
 </li>
 <li>
-<p><a href="https://www.421.news/telefonos-android-sin-google/" target="_blank">Teléfonos Android sin Google: un camino de ida en un Moto G7</a></p>
+<p><a href="https://www.421.news/telefonos-android-sin-google/"  target="_blank" rel="noreferrer">Teléfonos Android sin Google: un camino de ida en un Moto G7</a></p>
 </li>
 <li>
-<p><a href="https://www.waituntil8th.org/" target="_blank">Wait until 8th</a></p>
+<p><a href="https://www.waituntil8th.org/"  target="_blank" rel="noreferrer">Wait until 8th</a></p>
 </li>
 <li>
 <p>imagen: Ed frente a sus cosas</p>
@@ -1020,22 +942,20 @@ Hablamos sobre teléfonos básicos y celulares liberados a partir de la columna 
 </a>
 </div>
 
-
-<h3 class="relative group">Enlaces y referencias 
+<h3 class="relative group">Enlaces y referencias
     <div id="enlaces-y-referencias" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#enlaces-y-referencias" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#enlaces-y-referencias" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <ul>
-<li><a href="https://www.jeantwenge.com/10-rules-for-raising-kids-in-a-high-tech-world/?" target="_blank">Jean M. Twenge — 10 Rules for Raising Kids in a High-Tech World</a></li>
-<li><a href="https://www.sleepfoundation.org/teens-and-sleep" target="_blank">Estudio sobre sueño y adolescentes (National Sleep Foundation)</a></li>
-<li><a href="https://www.bbc.com/news/articles/c89vjj0lxx9o" target="_blank">Australia approves social media ban on under-16s</a></li>
-<li><a href="https://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side" target="_blank">Blue light has a dark side</a></li>
+<li><a href="https://www.jeantwenge.com/10-rules-for-raising-kids-in-a-high-tech-world/?"  target="_blank" rel="noreferrer">Jean M. Twenge — 10 Rules for Raising Kids in a High-Tech World</a></li>
+<li><a href="https://www.sleepfoundation.org/teens-and-sleep"  target="_blank" rel="noreferrer">Estudio sobre sueño y adolescentes (National Sleep Foundation)</a></li>
+<li><a href="https://www.bbc.com/news/articles/c89vjj0lxx9o"  target="_blank" rel="noreferrer">Australia approves social media ban on under-16s</a></li>
+<li><a href="https://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side"  target="_blank" rel="noreferrer">Blue light has a dark side</a></li>
 </ul>
 <p>Imagen: Greg y Steven</p>]]></content:encoded><itunes:title>Pantallas, hábitos nocturnos y las opinones de Eva</itunes:title><itunes:author>Alvar</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>Pantallas, hábitos nocturnos y las opiniones de Eva</itunes:summary><itunes:subtitle>Pasó Eva, mi hija, a charlar sobre estos temas</itunes:subtitle><itunes:image href="https://alvarmaciel.github.io/media/lento_es_normal/pantallas_habitos_nocturnos_y_las_opiniones_de_eva/featured_hu_575cd33d7fcf32ec.jpg"/><enclosure url="https://archive.org/download/lento-es-normal-miercoles-8-10-25/LENTO_ES_NORMAL-MIERCOLES-8-10-25.mp3" length="0" type="audio/mpeg"/></item><item><title>Psicosis de IA y salud mental</title><link>https://alvarmaciel.github.io/media/lento_es_normal/psicosis-de-ia-y-salud-mental/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/psicosis-de-ia-y-salud-mental/</guid><pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate><description>Salud mental, inteligencia artificial, Brainrot</description><content:encoded><![CDATA[<div class="archive-audio-player">
   <iframe
@@ -1089,42 +1009,40 @@ Hablamos sobre teléfonos básicos y celulares liberados a partir de la columna 
 </a>
 </div>
 
-
-<h3 class="relative group">Enlaces y referencias 
+<h3 class="relative group">Enlaces y referencias
     <div id="enlaces-y-referencias" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#enlaces-y-referencias" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#enlaces-y-referencias" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <ul>
 <li>
-<p><strong>Cory Doctorow</strong> — <a href="https://pluralistic.net/2025/09/17/automating-gang-stalking-delusion/" target="_blank"><em>AI Psychosis and the Distorting Mirror</em></a><br>
+<p><strong>Cory Doctorow</strong> — <a href="https://pluralistic.net/2025/09/17/automating-gang-stalking-delusion/"  target="_blank" rel="noreferrer"><em>AI Psychosis and the Distorting Mirror</em></a><br>
 Análisis sobre cómo los modelos de lenguaje refuerzan delirios humanos y modifican los límites de la percepción compartida.</p>
 </li>
 <li>
-<p><strong>Brainrot (slang)</strong> — <a href="https://en.wikipedia.org/wiki/Brain_rot" target="_blank">Wikipedia</a>
+<p><strong>Brainrot (slang)</strong> — <a href="https://en.wikipedia.org/wiki/Brain_rot"  target="_blank" rel="noreferrer">Wikipedia</a>
 Definición del término que describe el deterioro cognitivo y emocional por exposición prolongada a contenido digital de bajo valor.</p>
 </li>
 <li>
-<p><strong>The Social Dilemma (Netflix)</strong> — <a href="https://www.netflix.com/title/81254224" target="_blank">Documental</a><br>
+<p><strong>The Social Dilemma (Netflix)</strong> — <a href="https://www.netflix.com/title/81254224"  target="_blank" rel="noreferrer">Documental</a><br>
 Testimonios de ex-desarrolladores de Silicon Valley que advierten sobre el diseño adictivo de las redes sociales.</p>
 </li>
 <li>
 <p><strong>Cathy O’Neil — <em>Weapons of Math Destruction</em></strong><br>
-<a href="https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction" target="_blank">Sitio en Wikipdia</a><br>
+<a href="https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction"  target="_blank" rel="noreferrer">Sitio en Wikipdia</a><br>
 Libro sobre cómo los algoritmos amplifican desigualdades y riesgos sociales.</p>
 </li>
 <li>
 <p><strong>Jean M. Twenge — <em>10 Rules for Raising Kids in a High-Tech World</em></strong><br>
-<a href="https://www.jeantwenge.com/10-rules-for-raising-kids-in-a-high-tech-world/" target="_blank">Libro</a><br>
+<a href="https://www.jeantwenge.com/10-rules-for-raising-kids-in-a-high-tech-world/"  target="_blank" rel="noreferrer">Libro</a><br>
 Guía sobre crianza digital y salud mental infantil.</p>
 </li>
 </ul>
-<p>Imagen: <a href="https://www.cbr.com/soul-eater-crona-best-worst-things-trivia/" target="_blank">Crona. Soul Eater</a></p>]]></content:encoded><itunes:title>Psicosis de IA y salud mental</itunes:title><itunes:author>Alvar</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>Salud mental, inteligencia artificial, Brainrot</itunes:summary><itunes:subtitle>Salud mental, inteligencia artificial, Brainrot</itunes:subtitle><itunes:image href="https://alvarmaciel.github.io/media/lento_es_normal/psicosis-de-ia-y-salud-mental/featured_hu_399d9b70d2b4af21.jpg"/><enclosure url="https://archive.org/download/lento-es-normal-miercoles-24-9-25/LENTO_ES_NORMAL-MIERCOLES-24-9-25.mp3" length="0" type="audio/mpeg"/></item><item><title>Pantallas y patrones de uso adictivo</title><link>https://alvarmaciel.github.io/media/lento_es_normal/pantallas-y-patrones-de-uso-adictivos/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/pantallas-y-patrones-de-uso-adictivos/</guid><pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate><description>Cómo el uso adictivo de pantallas afecta la salud mental y nuestra capacidad de decidir.</description><content:encoded><![CDATA[<div class="archive-audio-player">
+<p>Imagen: <a href="https://www.cbr.com/soul-eater-crona-best-worst-things-trivia/"  target="_blank" rel="noreferrer">Crona. Soul Eater</a></p>]]></content:encoded><itunes:title>Psicosis de IA y salud mental</itunes:title><itunes:author>Alvar</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>Salud mental, inteligencia artificial, Brainrot</itunes:summary><itunes:subtitle>Salud mental, inteligencia artificial, Brainrot</itunes:subtitle><itunes:image href="https://alvarmaciel.github.io/media/lento_es_normal/psicosis-de-ia-y-salud-mental/featured_hu_399d9b70d2b4af21.jpg"/><enclosure url="https://archive.org/download/lento-es-normal-miercoles-24-9-25/LENTO_ES_NORMAL-MIERCOLES-24-9-25.mp3" length="0" type="audio/mpeg"/></item><item><title>Pantallas y patrones de uso adictivo</title><link>https://alvarmaciel.github.io/media/lento_es_normal/pantallas-y-patrones-de-uso-adictivos/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/pantallas-y-patrones-de-uso-adictivos/</guid><pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate><description>Cómo el uso adictivo de pantallas afecta la salud mental y nuestra capacidad de decidir.</description><content:encoded><![CDATA[<div class="archive-audio-player">
   <iframe
     src="https://archive.org/embed/lento-es-normal-miercoles-17-9-25"
     width="100%"
@@ -1178,30 +1096,28 @@ La conclusión: <strong>las reglas individuales no bastan sin acción colectiva<
 </a>
 </div>
 
-
-<h3 class="relative group">Enlaces citados 
+<h3 class="relative group">Enlaces citados
     <div id="enlaces-citados" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#enlaces-citados" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#enlaces-citados" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <ul>
-<li><a href="https://x.com/AlanDaitch/status/1937996000221692347" target="_blank"><strong>Tweet de Alan Daitch</strong></a></li>
-<li>Estudio: <a href="https://jamanetwork.com/journals/jama/fullarticle/2835481" target="_blank"><em>Addictive Screen Use Trajectories and Suicidal Behaviors, Suicidal Ideation, and Mental Health in US Youths</em> — JAMA Network</a></li>
-<li>Resumen divulgativo: <a href="https://news.weill.cornell.edu/news/2025/06/study-finds-addictive-screen-use-not-total-screen-time-linked-to-youth-suicide-risk" target="_blank">Weill Cornell Medicine</a></li>
+<li><a href="https://x.com/AlanDaitch/status/1937996000221692347"  target="_blank" rel="noreferrer"><strong>Tweet de Alan Daitch</strong></a></li>
+<li>Estudio: <a href="https://jamanetwork.com/journals/jama/fullarticle/2835481"  target="_blank" rel="noreferrer"><em>Addictive Screen Use Trajectories and Suicidal Behaviors, Suicidal Ideation, and Mental Health in US Youths</em> — JAMA Network</a></li>
+<li>Resumen divulgativo: <a href="https://news.weill.cornell.edu/news/2025/06/study-finds-addictive-screen-use-not-total-screen-time-linked-to-youth-suicide-risk"  target="_blank" rel="noreferrer">Weill Cornell Medicine</a></li>
 <li>Alan Dijs — divulgador tecnológico<br>
-<a href="https://twitter.com/alandijs" target="_blank">@alandijs en X/Twitter</a></li>
-<li>Libro: <a href="https://www.jeantwenge.com/10-rules-for-raising-kids-in-a-high-tech-world/" target="_blank"><em>10 Rules for Raising Kids in a High-Tech World</em> — Jean M. Twenge</a></li>
-<li>Proyecto: <a href="https://cibercirujas.org/" target="_blank">Cibercirujas</a></li>
-<li>Nota de Soldán: <a href="https://www.421.news/telefonos-android-sin-google/" target="_blank">“Teléfonos Android sin Google: un camino de ida en un Moto G7&quot;</a></li>
-<li>Revisión: <a href="https://en.wikipedia.org/wiki/Problematic_smartphone_use" target="_blank">Problematic smartphone use — Wikipedia</a></li>
-<li>Diseño persuasivo y adicción: <a href="https://arxiv.org/abs/2106.02604" target="_blank">“Do Persuasive Designs Make Smartphones More Addictive?” — arXiv</a></li>
+<a href="https://twitter.com/alandijs"  target="_blank" rel="noreferrer">@alandijs en X/Twitter</a></li>
+<li>Libro: <a href="https://www.jeantwenge.com/10-rules-for-raising-kids-in-a-high-tech-world/"  target="_blank" rel="noreferrer"><em>10 Rules for Raising Kids in a High-Tech World</em> — Jean M. Twenge</a></li>
+<li>Proyecto: <a href="https://cibercirujas.org/"  target="_blank" rel="noreferrer">Cibercirujas</a></li>
+<li>Nota de Soldán: <a href="https://www.421.news/telefonos-android-sin-google/"  target="_blank" rel="noreferrer">“Teléfonos Android sin Google: un camino de ida en un Moto G7&quot;</a></li>
+<li>Revisión: <a href="https://en.wikipedia.org/wiki/Problematic_smartphone_use"  target="_blank" rel="noreferrer">Problematic smartphone use — Wikipedia</a></li>
+<li>Diseño persuasivo y adicción: <a href="https://arxiv.org/abs/2106.02604"  target="_blank" rel="noreferrer">“Do Persuasive Designs Make Smartphones More Addictive?” — arXiv</a></li>
 </ul>
-<p>Imagen: <a href="https://static.fandomspot.com/images/12/11168/08-talisman-psycho-pass-anime.jpg" target="_blank">Talisman. Psycho Pass</a></p>
+<p>Imagen: <a href="https://static.fandomspot.com/images/12/11168/08-talisman-psycho-pass-anime.jpg"  target="_blank" rel="noreferrer">Talisman. Psycho Pass</a></p>
 ]]></content:encoded><itunes:title>Pantallas y patrones de uso adictivo</itunes:title><itunes:author>Alvar</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>Cómo el uso adictivo de pantallas afecta la salud mental y nuestra capacidad de decidir.</itunes:summary><itunes:subtitle>Cómo el uso adictivo de pantallas afecta la salud mental y nuestra capacidad de decidir.</itunes:subtitle><itunes:image href="https://alvarmaciel.github.io/media/lento_es_normal/pantallas-y-patrones-de-uso-adictivos/featured_hu_dab53a4d05e41b53.jpg"/><enclosure url="https://archive.org/download/lento-es-normal-miercoles-17-9-25/LENTO_ES_NORMAL-MIERCOLES-17-9-25.mp3" length="0" type="audio/mpeg"/></item><item><title>Privacidad y resistencia tecnológica</title><link>https://alvarmaciel.github.io/media/lento_es_normal/privacidad-y-resistencia-tecnologia/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/privacidad-y-resistencia-tecnologia/</guid><pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate><description>Privacidad y resistencia tecnológica</description><content:encoded><![CDATA[<div class="archive-audio-player">
   <iframe
     src="https://archive.org/embed/lento-es-normal-miercoles-3-9-25"
@@ -1253,20 +1169,18 @@ La conclusión: <strong>las reglas individuales no bastan sin acción colectiva<
 </div>
 <!-- more -->
 
-
-<h3 class="relative group">1. <strong>FUTO y el teclado FUTO</strong> 
+<h3 class="relative group">1. <strong>FUTO y el teclado FUTO</strong>
     <div id="1-futo-y-el-teclado-futo" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#1-futo-y-el-teclado-futo" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#1-futo-y-el-teclado-futo" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <ul>
-<li>Sitio: <a href="https://futo.org" target="_blank">https://futo.org</a></li>
-<li>Teclado: <a href="https://futo.org/kb/" target="_blank">https://futo.org/kb/</a></li>
+<li>Sitio: <a href="https://futo.org"  target="_blank" rel="noreferrer">https://futo.org</a></li>
+<li>Teclado: <a href="https://futo.org/kb/"  target="_blank" rel="noreferrer">https://futo.org/kb/</a></li>
 </ul>
 <p>FUTO desarrolla software que evita la conexión a internet y no envía datos a la nube.<br>
 Su teclado <strong>ejecuta autocorrección, predicción y dictado de voz localmente</strong>, sin telemetría.</p>
@@ -1279,56 +1193,50 @@ Su teclado <strong>ejecuta autocorrección, predicción y dictado de voz localme
 <p>Sus aplicaciones pueden usarse gratis o comprarse una sola vez (≈ 6 USD), y son <strong>open source</strong>.</p>
 <hr>
 
-
-<h3 class="relative group">2. <strong>Navegación y bloqueo de rastreo</strong> 
-    <div id="2-navegaci%C3%B3n-y-bloqueo-de-rastreo" class="anchor"></div>
+<h3 class="relative group">2. <strong>Navegación y bloqueo de rastreo</strong>
+    <div id="2-navegación-y-bloqueo-de-rastreo" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#2-navegaci%C3%B3n-y-bloqueo-de-rastreo" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#2-navegaci%c3%b3n-y-bloqueo-de-rastreo" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <ul>
-<li>Navegador recomendado: <a href="https://www.mozilla.org/firefox/" target="_blank">Firefox</a></li>
-<li>Extensión: <a href="https://ublockorigin.com/" target="_blank">uBlock Origin</a></li>
+<li>Navegador recomendado: <a href="https://www.mozilla.org/firefox/"  target="_blank" rel="noreferrer">Firefox</a></li>
+<li>Extensión: <a href="https://ublockorigin.com/"  target="_blank" rel="noreferrer">uBlock Origin</a></li>
 </ul>
 <hr>
 
-
-<h3 class="relative group">3. <strong>Alternativas a redes sociales y servicios centralizados</strong> 
+<h3 class="relative group">3. <strong>Alternativas a redes sociales y servicios centralizados</strong>
     <div id="3-alternativas-a-redes-sociales-y-servicios-centralizados" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#3-alternativas-a-redes-sociales-y-servicios-centralizados" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#3-alternativas-a-redes-sociales-y-servicios-centralizados" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <ul>
-<li><strong><a href="https://pixelfed.org/" target="_blank">PixelFed</a></strong> – versión federada y libre de Instagram.</li>
-<li><strong><a href="https://joinmastodon.org/" target="_blank">Mastodon</a></strong> – alternativa descentralizada a Twitter/X.</li>
-<li><strong><a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a></strong> – reemplazo libre de Google Maps.</li>
-<li><strong><a href="https://immich.app/" target="_blank">Immich</a></strong> – galería fotográfica auto-hospedada para evitar la nube de Google Photos.</li>
+<li><strong><a href="https://pixelfed.org/"  target="_blank" rel="noreferrer">PixelFed</a></strong> – versión federada y libre de Instagram.</li>
+<li><strong><a href="https://joinmastodon.org/"  target="_blank" rel="noreferrer">Mastodon</a></strong> – alternativa descentralizada a Twitter/X.</li>
+<li><strong><a href="https://www.openstreetmap.org/"  target="_blank" rel="noreferrer">OpenStreetMap</a></strong> – reemplazo libre de Google Maps.</li>
+<li><strong><a href="https://immich.app/"  target="_blank" rel="noreferrer">Immich</a></strong> – galería fotográfica auto-hospedada para evitar la nube de Google Photos.</li>
 </ul>
 <hr>
 
-
-<h3 class="relative group">4. <strong>Reducción del control algorítmico</strong> 
-    <div id="4-reducci%C3%B3n-del-control-algor%C3%ADtmico" class="anchor"></div>
+<h3 class="relative group">4. <strong>Reducción del control algorítmico</strong>
+    <div id="4-reducción-del-control-algorítmico" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#4-reducci%C3%B3n-del-control-algor%C3%ADtmico" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#4-reducci%c3%b3n-del-control-algor%c3%adtmico" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <p>Lanzador minimalista para el celular</p>
 <ul>
-<li><strong><a href="https://www.olauncher.app/" target="_blank">Olauncher</a></strong>,<br>
+<li><strong><a href="https://www.olauncher.app/"  target="_blank" rel="noreferrer">Olauncher</a></strong>,<br>
 que elimina íconos, notificaciones y distracciones, dejando solo texto y las apps esenciales.</li>
 </ul>
 ]]></content:encoded><itunes:title>Privacidad y resistencia tecnológica</itunes:title><itunes:author>Alvar</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>Privacidad y resistencia tecnológica</itunes:summary><itunes:subtitle>Alternativas tecnológicas orientadas a la privacidad</itunes:subtitle><itunes:image href="https://alvarmaciel.github.io/media/lento_es_normal/privacidad-y-resistencia-tecnologia/featured_hu_9532b633ededa2c7.jpg"/><enclosure url="https://archive.org/download/lento-es-normal-miercoles-3-9-25/LENTO_ES_NORMAL-MIERCOLES-3-9-25.mp3" length="0" type="audio/mpeg"/></item><item><title>Cory Doctorow, vigilancia e injusticias cotidianas</title><link>https://alvarmaciel.github.io/media/lento_es_normal/cory_doctorw_vigilancia_e_injusticias_cotidianas/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/cory_doctorw_vigilancia_e_injusticias_cotidianas/</guid><pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate><description>La privacidad es lo primero</description><content:encoded><![CDATA[<div class="archive-audio-player">
@@ -1369,10 +1277,10 @@ que elimina íconos, notificaciones y distracciones, dejando solo texto y las ap
 
 <p>Hoy es hora de presentar a Cory Doctorow. Una gran influiencia en esta columna.</p>
 <p>Trajo uno de las ideas fuerzas más interesantes de los
-últimos tiempos, Enshitification o como a <a href="https://www.421.news/author/juan-brodersen/" target="_blank">Juan Brodersen</a> supo describir muy bien
-en un artículo de <a href="https://www.421.news/" target="_blank">421</a>. <a href="https://www.421.news/ingenieria-inversa-a-la-mierdificacion-de-internet/" target="_blank">La mierdificación de Internet</a>. Busquenló, está bueno.</p>
+últimos tiempos, Enshitification o como a <a href="https://www.421.news/author/juan-brodersen/"  target="_blank" rel="noreferrer">Juan Brodersen</a> supo describir muy bien
+en un artículo de <a href="https://www.421.news/"  target="_blank" rel="noreferrer">421</a>. <a href="https://www.421.news/ingenieria-inversa-a-la-mierdificacion-de-internet/"  target="_blank" rel="noreferrer">La mierdificación de Internet</a>. Busquenló, está bueno.</p>
 <ul>
-<li><a href="https://pluralistic.net/2025/08/20/billionaireism/#surveillance-infantalism" target="_blank">Nota sobre survillance infantilism</a></li>
+<li><a href="https://pluralistic.net/2025/08/20/billionaireism/#surveillance-infantalism"  target="_blank" rel="noreferrer">Nota sobre survillance infantilism</a></li>
 </ul>]]></content:encoded><itunes:title>Cory Doctorow, vigilancia e injusticias cotidianas</itunes:title><itunes:author>Alvar</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>La privacidad es lo primero</itunes:summary><itunes:subtitle>La privacidad es lo primero</itunes:subtitle><itunes:image href="https://alvarmaciel.github.io/media/lento_es_normal/cory_doctorw_vigilancia_e_injusticias_cotidianas/featured_hu_13a7dc0b193c1e2.png"/><enclosure url="https://archive.org/download/lento-es-normal-miercoles-27-8-25/LENTO_ES_NORMAL-MIERCOLES-27-8-25.mp3" length="0" type="audio/mpeg"/></item><item><title>Filtraciones de datos y apps de citas</title><link>https://alvarmaciel.github.io/media/lento_es_normal/data_breach_y_apps_de_citas/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/data_breach_y_apps_de_citas/</guid><pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate><description>La privacidad es importante. Muy importante</description><content:encoded><![CDATA[<div class="archive-audio-player">
   <iframe
     src="https://archive.org/embed/lento-es-normal-miercoles-30-7-25"
@@ -1412,7 +1320,7 @@ en un artículo de <a href="https://www.421.news/" target="_blank">421</a>. <a h
 <p>Consecuencias inesperadas a partir de la filtracion de datos. Y una charla sobre aplicaciones de citas
 Links Sobre lo que hablamos:</p>
 <ul>
-<li><a href="https://cybersecurefox.com/es/plataforma-tea-filtracion-masiva-datos-personales-59gb/" target="_blank">Nota sobre la filtración de Tea</a></li>
+<li><a href="https://cybersecurefox.com/es/plataforma-tea-filtracion-masiva-datos-personales-59gb/"  target="_blank" rel="noreferrer">Nota sobre la filtración de Tea</a></li>
 <li>La imagen es de Serial Experiments Lain. Gran Anime.</li>
 </ul>]]></content:encoded><itunes:title>Filtraciones de datos y apps de citas</itunes:title><itunes:author>Alvar</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>La privacidad es importante. Muy importante</itunes:summary><itunes:subtitle>La privacidad es importante. Muy importante</itunes:subtitle><itunes:image href="https://alvarmaciel.github.io/media/lento_es_normal/data_breach_y_apps_de_citas/featured_hu_7b4a6d7ccba5f2df.jpg"/><enclosure url="https://archive.org/download/lento-es-normal-miercoles-30-7-25/LENTO-ES-NORMAL-MIERCOLES-30-7-25.mp3" length="0" type="audio/mpeg"/></item><item><title>Comodidad, servicios y algo de rant</title><link>https://alvarmaciel.github.io/media/lento_es_normal/una_charla_con_enojo/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/una_charla_con_enojo/</guid><pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate><description>Sobre la comodidad de los servicios</description><content:encoded><![CDATA[<div class="archive-audio-player">
   <iframe
@@ -1453,20 +1361,18 @@ Links Sobre lo que hablamos:</p>
 <p>Una charla con enojo, un poco de rant y algunas reflexiones con Nestor y el Chato.</p>
 <p>Links Sobre lo que hablamos:</p>
 <ul>
-<li><a href="https://www.vialibre.org.ar/" target="_blank">Fundación Vía Libre</a></li>
-<li><a href="https://odia.ar/" target="_blank">Observatorio de Derecho Informático Argentino</a></li>
-<li><a href="https://mpd.readthedocs.io/en/stable/user.html" target="_blank">Cómo usar MPD</a></li>
+<li><a href="https://www.vialibre.org.ar/"  target="_blank" rel="noreferrer">Fundación Vía Libre</a></li>
+<li><a href="https://odia.ar/"  target="_blank" rel="noreferrer">Observatorio de Derecho Informático Argentino</a></li>
+<li><a href="https://mpd.readthedocs.io/en/stable/user.html"  target="_blank" rel="noreferrer">Cómo usar MPD</a></li>
 </ul>]]></content:encoded><itunes:title>Comodidad, servicios y algo de rant</itunes:title><itunes:author>Alvar</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>Sobre la comodidad de los servicios</itunes:summary><itunes:subtitle>Sobre la comodidad de los servicios</itunes:subtitle><itunes:image href="https://alvarmaciel.github.io/media/lento_es_normal/una_charla_con_enojo/featured_hu_5d97611e0d8f2fdf.jpg"/><enclosure url="https://archive.org/download/lento-es-normal-miercoles-23-7-25/LENTO_ES_NORMAL-%20MIERCOLES%20-%2023-7-25.mp3" length="0" type="audio/mpeg"/></item><item><title>Baja intensidad tecnológica, alta intensidad de vida</title><link>https://alvarmaciel.github.io/media/lento_es_normal/baja_alta_intensidad/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/baja_alta_intensidad/</guid><pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate><description>Low Tech, High Life</description><content:encoded><![CDATA[<p>Aclaración: No hay audio hoy. Este es el texto usado para la columna. Por las cosas de la vida, aquello que pronostiqué al final del texto se hizo realidad y el audio se perdió.</p>
-<p>Vamos a profundizar en al idea de soberanía cognitiva. Esta columna está fuertemente influenciada por la revista digital <a href="https://cuatroveintiuno.com" target="_blank">cuatroveintiuno</a> y <a href="https://linktr.ee/cybercirujas" target="_blank">Cibercirujas</a>, amigos que ya son frecuentes de la casa.</p>
+<p>Vamos a profundizar en al idea de soberanía cognitiva. Esta columna está fuertemente influenciada por la revista digital <a href="https://cuatroveintiuno.com"  target="_blank" rel="noreferrer">cuatroveintiuno</a> y <a href="https://linktr.ee/cybercirujas"  target="_blank" rel="noreferrer">Cibercirujas</a>, amigos que ya son frecuentes de la casa.</p>
 <p>El título de la nota que inspira la columna parte de un ejercició que creo es importante: imaginar nuevos futuros donde no se vaya todo al demonio. Es difícil, lo sé, más en el contexto actual. De todas maneras, creo fuertemente en la idea de la profecía autocumplida.</p>
 <p>Una idea o profecía, que nos condiciona a hacer todo lo posible para que esta se cumpla. Siendo un ejemplo típico, un pensamiento rumiante como: Seguro que me deja, o ya no le gusto. Pensamientos que, sin que haya evidencia real de estos, nos impulsan a hacer cosas que, sin darnos cuenta, aportan a que nos deje o dejemos de gustarle. Al final nos dejan y aliviados podemos decir: Lo sabía, no le gustaba.</p>
 <p>Ese mecanismo personal para autocumplir profecías creo que opera también a nivel social. Y si rumiamos todo el día con como todo se va a al demonio, como las tecnologías nos depredan la vida. Es probable que entre todos, hagamos todo para que se cumpla.
 Entonces, pensar nuevos futuros está bueno, es una opción contra el impulso de cumplir la profecía apocalictica que nos venimos contando año a año. Pero pensarlos y ponernos en práctica está mejor.
 voy a citar a Juan Ruocco:</p>
-<blockquote>
-<p>La idea de Low Tech High Life se vincula en parte con el concepto de soberanía cognitiva. En principio, porque abre un espacio de &ldquo;diseño&rdquo; en la posibilidad de pensar los usos que le damos a la tecnología y el tiempo que gastamos tanto en comprar nuevos dispositivos como en aprender a usarlos, generalmente para reemplazar funciones que ya teníamos resueltas. Esta reflexión abarca varias puntos: tiempo y dinero, relación costo-beneficio, y carga cognitiva.</p>
-</blockquote>
-<p><a href="https://www.cuatroveintiuno.com/low-tech-high-life-cottagecore-cyberpunk/" target="_blank">En low tech, High Life. cuatroveintiuno</a></p>
+<blockquote><p>La idea de Low Tech High Life se vincula en parte con el concepto de soberanía cognitiva. En principio, porque abre un espacio de &ldquo;diseño&rdquo; en la posibilidad de pensar los usos que le damos a la tecnología y el tiempo que gastamos tanto en comprar nuevos dispositivos como en aprender a usarlos, generalmente para reemplazar funciones que ya teníamos resueltas. Esta reflexión abarca varias puntos: tiempo y dinero, relación costo-beneficio, y carga cognitiva.</p>
+</blockquote><p><a href="https://www.cuatroveintiuno.com/low-tech-high-life-cottagecore-cyberpunk/"  target="_blank" rel="noreferrer">En low tech, High Life. cuatroveintiuno</a></p>
 <p>Juan segmenta en tres categorías la reflexión:</p>
 <ul>
 <li>Tiempo y dinero</li>
@@ -1476,78 +1382,66 @@ voy a citar a Juan Ruocco:</p>
 <p>Basicamente: ¿Cuánto de nuestra vida gastamos en adquirir tecnología?, ¿La tecnología que compramos justifíca su precio en términos de mejora en la calidad de vida?, ¿Cuánta complejidad añadimos a nuestras vidas con cada nueva tecnología que incorporamos?
 Las preguntas las dejo abiertas para que cada uno pueda pensar en ellas. Pero vamos con ejemplos prácticos. Y qué mejor para eso que contarles mis desventuras con la tecnología.</p>
 
-
-<h3 class="relative group">Internet y las plataformas 
+<h3 class="relative group">Internet y las plataformas
     <div id="internet-y-las-plataformas" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#internet-y-las-plataformas" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#internet-y-las-plataformas" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <p>Todo pareciera estar  en alguna plataforma y para cada plataforma hay que pagar. Qué lindas memorias que tengo buscando y bajando Lost.</p>
 <p>En fin, se nos puso cómoda la vida Cómoda cara. Pero hay alternativas. Tadavía podemos buscar, descargar y guardar en discos rígidos o cd&rsquo;s. De hecho, una buena idea, si es que tienen una computadora vieja por ahí o alguna de las de conectar igualdad dando vueltas y sin uso,  es convertirla en nuestro centro multimedia. Donde podamos bajar y mandar a la tele lo que queremos ver.
 Ni que hablar que lo mismo podemos hacer con la música. Bajar, guardar, escuchar y evitar la tiranía de los algorítmos, además de que podemos escuchar nuestra música con o sin internet.</p>
 
-
-<h3 class="relative group">Musiquita 
+<h3 class="relative group">Musiquita
     <div id="musiquita" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#musiquita" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#musiquita" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <p>El bluetooth está sobrevalorado. Usar auriculares con cable o conectar el parlantito con un cable no solo hace que tengamos muchos menos problemas con el dispositivo, que si se empareja, que si anda o no. Si tiene bateria o no tiene. Un lindo auricular con cable no falla nunca, y cuando lo hace, es fácil de arreglar.</p>
 
-
-<h3 class="relative group">El reloj 
+<h3 class="relative group">El reloj
     <div id="el-reloj" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#el-reloj" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#el-reloj" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <p>Les cuento el caso de mi reloj. Me compré uno de eso inteligentes. Ahora resulta que tengo un celular en mi muñeca, que necesita cargarse cada día para que me de la hora y las mismas funciones que el celular, salvo llamar por teléfono, que al final ni lo hago.</p>
 <p>Fue una compra estupida, llevada por el hype del momento. Incluso si ejercito o salgo a correr, puedo usar las funciones del celular para todo. En fin, que cuando se le termine su vida útil, voy a volver al viejo y querido Casio. Ese no falla.</p>
 
-
-<h3 class="relative group">Los jueguitos 
+<h3 class="relative group">Los jueguitos
     <div id="los-jueguitos" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#los-jueguitos" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#los-jueguitos" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <p>El año pasado hablamos largo de los videojuegos. En esas charlas comentamos las virtudes de los viejos juegos, los ahora llamados retrojuegos. No solo pueden ayudarnos mucho a aprender sobre las frustraciones. Tres vidas y a empezar todo de nuevo. Sino que también podemos armarmos con esa vieja computadora una consola de videojuegos usando emuladores que nos traen a la vida las glorias de los juegos pasados. De hecho se le pueden agregar controles básicos y tenemos una consola hermosa con cientos de juegos gratis.</p>
 
-
-<h3 class="relative group">La radio 
+<h3 class="relative group">La radio
     <div id="la-radio" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#la-radio" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#la-radio" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <p>La radio para mí es también una elección en este sentido. Lo que hablamos, lo que ocurre acá es efímero. Porque no es un streaming. No usamos una plataforma que emite y graba todo y lo sube a internet. Si, hacemos recortes, si, subimos algunas cosas. Pero esto es una tarea extra. Una cosa más que hacemos para que quien no puede escuchar, escuche. Pero muchas veces me pregunto ¿Para qué? por qué hacerlo. Porqué estar al tanto de todo. A mi personalmente me toma tiempo subir y postear eso que ya hablamos acá. Cuál es el problema con perdernos algo. Con dejar solo en el eter nuestras palabras y que duren lo que dura el diálogo. En esa tensión me muevo. Una contradicción. porque seguro subiré esta columna. Pero sinceramente quisiera no hacerlo. Dejar que lo que pase pase acá y nada más.</p>
 <p>Para cerrar, voy a citar a Juan de nuevo</p>
-<blockquote>
-<p>En definitiva, Low Tech High Life no es una postura dogmática que rechaza el avance tecnológico ni la aceleración que conlleva. Se trata de una estrategia de supervivencia para modular el ritmo al cual queremos exponernos a la tecnología, priorizando el bienestar por sobre la obsolescencia programada y la dependencia de sistemas externos. No es una cuestión de nostalgia ni de romanticismo tecnológico, sino de encontrar un balance realista entre lo que nos facilita la vida y lo que nos complica innecesariamente. De la robustez de la mecánica sobre la fragilidad y obsolescencia de la electrónica.</p>
-</blockquote>
-<hr>
+<blockquote><p>En definitiva, Low Tech High Life no es una postura dogmática que rechaza el avance tecnológico ni la aceleración que conlleva. Se trata de una estrategia de supervivencia para modular el ritmo al cual queremos exponernos a la tecnología, priorizando el bienestar por sobre la obsolescencia programada y la dependencia de sistemas externos. No es una cuestión de nostalgia ni de romanticismo tecnológico, sino de encontrar un balance realista entre lo que nos facilita la vida y lo que nos complica innecesariamente. De la robustez de la mecánica sobre la fragilidad y obsolescencia de la electrónica.</p>
+</blockquote><hr>
 <p>Pd: perdimos el audio, asi que lo que se charló en la radio, ahi quedó. En ese momento y en estas notas finales a las que por decision no les pasé el corrector, ni lo filtré por chatgpt para que me corrija la gramática. Unas relecturas y a la calle.</p>]]></content:encoded><itunes:title>Baja intensidad tecnológica, alta intensidad de vida</itunes:title><itunes:author>Alvar</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>Low Tech, High Life</itunes:summary><itunes:subtitle>Low tech, High Life</itunes:subtitle><itunes:image href="https://alvarmaciel.github.io/media/lento_es_normal/baja_alta_intensidad/featured_hu_98993d28c9ec0e31.jpg"/></item><item><title>Ciberseguridad para todos #2</title><link>https://alvarmaciel.github.io/media/lento_es_normal/ciberseguridad_para_todos_2/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/ciberseguridad_para_todos_2/</guid><pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate><description>Como andar seguros por la Internet</description><content:encoded><![CDATA[<div class="archive-audio-player">
   <iframe
     src="https://archive.org/embed/lento-es-normal-miercoles-11-6-25"
@@ -1586,53 +1480,47 @@ Ni que hablar que lo mismo podemos hacer con la música. Bajar, guardar, escucha
 
 <p>Dejo en este post una lista de vpn gratuitas, pagas y tailscale.</p>
 
-
-<h3 class="relative group">VPN Gratuitas (con limitaciones) 
+<h3 class="relative group">VPN Gratuitas (con limitaciones)
     <div id="vpn-gratuitas-con-limitaciones" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#vpn-gratuitas-con-limitaciones" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#vpn-gratuitas-con-limitaciones" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <ul>
-<li><a href="https://protonvpn.com/" target="_blank">ProtonVPN</a> - Líder en privacidad, sin límite de datos (velocidad reducida).</li>
-<li><a href="https://windscribe.com/" target="_blank">Windscribe</a> - 10GB/mes gratis con email.</li>
-<li><a href="https://www.tunnelbear.com/" target="_blank">TunnelBear</a> - 2GB/mes, interfaz amigable.</li>
+<li><a href="https://protonvpn.com/"  target="_blank" rel="noreferrer">ProtonVPN</a> - Líder en privacidad, sin límite de datos (velocidad reducida).</li>
+<li><a href="https://windscribe.com/"  target="_blank" rel="noreferrer">Windscribe</a> - 10GB/mes gratis con email.</li>
+<li><a href="https://www.tunnelbear.com/"  target="_blank" rel="noreferrer">TunnelBear</a> - 2GB/mes, interfaz amigable.</li>
 </ul>
 
-
-<h3 class="relative group">VPN de Pago (más rápidas y seguras) 
-    <div id="vpn-de-pago-m%C3%A1s-r%C3%A1pidas-y-seguras" class="anchor"></div>
+<h3 class="relative group">VPN de Pago (más rápidas y seguras)
+    <div id="vpn-de-pago-más-rápidas-y-seguras" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#vpn-de-pago-m%C3%A1s-r%C3%A1pidas-y-seguras" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#vpn-de-pago-m%c3%a1s-r%c3%a1pidas-y-seguras" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <ul>
-<li><a href="https://nordvpn.com/" target="_blank">NordVPN</a> - Velocidad + doble VPN ($$).</li>
-<li><a href="https://www.expressvpn.com/" target="_blank">ExpressVPN</a> - Confiable para streaming ($$$).</li>
-<li><a href="https://surfshark.com/" target="_blank">Surfshark</a> - Ilimitado dispositivos ($$).</li>
+<li><a href="https://nordvpn.com/"  target="_blank" rel="noreferrer">NordVPN</a> - Velocidad + doble VPN ($$).</li>
+<li><a href="https://www.expressvpn.com/"  target="_blank" rel="noreferrer">ExpressVPN</a> - Confiable para streaming ($$$).</li>
+<li><a href="https://surfshark.com/"  target="_blank" rel="noreferrer">Surfshark</a> - Ilimitado dispositivos ($$).</li>
 </ul>
 
-
-<h3 class="relative group">Para técnicos y redes privadas 
-    <div id="para-t%C3%A9cnicos-y-redes-privadas" class="anchor"></div>
+<h3 class="relative group">Para técnicos y redes privadas
+    <div id="para-técnicos-y-redes-privadas" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#para-t%C3%A9cnicos-y-redes-privadas" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#para-t%c3%a9cnicos-y-redes-privadas" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <ul>
-<li><a href="https://tailscale.com/" target="_blank">Tailscale</a> - <strong>VPN moderna</strong> basada en WireGuard, ideal para conectar dispositivos de forma segura (gratis para uso personal).</li>
+<li><a href="https://tailscale.com/"  target="_blank" rel="noreferrer">Tailscale</a> - <strong>VPN moderna</strong> basada en WireGuard, ideal para conectar dispositivos de forma segura (gratis para uso personal).</li>
 </ul>
 <p><em>Las VPN gratuitas suelen tener restricciones. Para uso intensivo o mayor seguridad, considera una de pago o Tailscale para redes privadas.</em></p>
 <p><em>¿VPN tradicional o Tailscale?</em>* Depende:</p>
@@ -1678,201 +1566,177 @@ Ni que hablar que lo mismo podemos hacer con la música. Bajar, guardar, escucha
 
 <p>Dejo en este post una lista de gestores de contraseñas, Autenticadores y Llaves biométricas</p>
 
-
-<h2 class="relative group">Gestores de contraseñas 
-    <div id="gestores-de-contrase%C3%B1as" class="anchor"></div>
+<h2 class="relative group">Gestores de contraseñas
+    <div id="gestores-de-contraseñas" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#gestores-de-contrase%C3%B1as" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#gestores-de-contrase%c3%b1as" aria-label="Ancla">#</a>
+    </span>
     
 </h2>
 
-
-<h3 class="relative group">Libres (código abierto) 
-    <div id="libres-c%C3%B3digo-abierto" class="anchor"></div>
+<h3 class="relative group">Libres (código abierto)
+    <div id="libres-código-abierto" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#libres-c%C3%B3digo-abierto" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#libres-c%c3%b3digo-abierto" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <ul>
-<li><a href="https://bitwarden.com/" target="_blank">Bitwarden</a></li>
-<li><a href="https://keepassxc.org/" target="_blank">KeePassXC</a></li>
-<li><a href="https://keepass.info/" target="_blank">KeePass</a></li>
-<li><a href="https://buttercup.pw/" target="_blank">Buttercup</a></li>
-<li><a href="https://padloc.app/" target="_blank">Padloc</a></li>
-<li><a href="https://lesspass.com/" target="_blank">LessPass</a></li>
-<li><a href="https://www.passwordstore.org/" target="_blank">pass</a></li>
+<li><a href="https://bitwarden.com/"  target="_blank" rel="noreferrer">Bitwarden</a></li>
+<li><a href="https://keepassxc.org/"  target="_blank" rel="noreferrer">KeePassXC</a></li>
+<li><a href="https://keepass.info/"  target="_blank" rel="noreferrer">KeePass</a></li>
+<li><a href="https://buttercup.pw/"  target="_blank" rel="noreferrer">Buttercup</a></li>
+<li><a href="https://padloc.app/"  target="_blank" rel="noreferrer">Padloc</a></li>
+<li><a href="https://lesspass.com/"  target="_blank" rel="noreferrer">LessPass</a></li>
+<li><a href="https://www.passwordstore.org/"  target="_blank" rel="noreferrer">pass</a></li>
 </ul>
 
-
-<h3 class="relative group">Gratuitas (propietarias) 
+<h3 class="relative group">Gratuitas (propietarias)
     <div id="gratuitas-propietarias" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#gratuitas-propietarias" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#gratuitas-propietarias" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <ul>
-<li><a href="https://passwords.google.com/" target="_blank">Google Password Manager</a></li>
-<li><a href="https://www.lastpass.com/" target="_blank">LastPass Free</a></li>
-<li><a href="https://www.dashlane.com/" target="_blank">Dashlane Free</a></li>
-<li><a href="https://nordpass.com/" target="_blank">NordPass Free</a></li>
-<li><a href="https://proton.me/pass" target="_blank">Proton Pass Free</a></li>
+<li><a href="https://passwords.google.com/"  target="_blank" rel="noreferrer">Google Password Manager</a></li>
+<li><a href="https://www.lastpass.com/"  target="_blank" rel="noreferrer">LastPass Free</a></li>
+<li><a href="https://www.dashlane.com/"  target="_blank" rel="noreferrer">Dashlane Free</a></li>
+<li><a href="https://nordpass.com/"  target="_blank" rel="noreferrer">NordPass Free</a></li>
+<li><a href="https://proton.me/pass"  target="_blank" rel="noreferrer">Proton Pass Free</a></li>
 </ul>
 
-
-<h3 class="relative group">Pagas 
+<h3 class="relative group">Pagas
     <div id="pagas" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#pagas" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#pagas" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <ul>
-<li><a href="https://1password.com/" target="_blank">1Password</a></li>
-<li><a href="https://www.keepersecurity.com/" target="_blank">Keeper</a></li>
-<li><a href="https://www.lastpass.com/" target="_blank">LastPass Premium</a></li>
-<li><a href="https://www.dashlane.com/" target="_blank">Dashlane Premium</a></li>
-<li><a href="https://nordpass.com/plans/" target="_blank">NordPass Premium</a></li>
-<li><a href="https://proton.me/pass" target="_blank">Proton Pass Plus</a></li>
+<li><a href="https://1password.com/"  target="_blank" rel="noreferrer">1Password</a></li>
+<li><a href="https://www.keepersecurity.com/"  target="_blank" rel="noreferrer">Keeper</a></li>
+<li><a href="https://www.lastpass.com/"  target="_blank" rel="noreferrer">LastPass Premium</a></li>
+<li><a href="https://www.dashlane.com/"  target="_blank" rel="noreferrer">Dashlane Premium</a></li>
+<li><a href="https://nordpass.com/plans/"  target="_blank" rel="noreferrer">NordPass Premium</a></li>
+<li><a href="https://proton.me/pass"  target="_blank" rel="noreferrer">Proton Pass Plus</a></li>
 </ul>
 <hr>
 
-
-<h2 class="relative group">Autenticadores de segundo factor (software) 
+<h2 class="relative group">Autenticadores de segundo factor (software)
     <div id="autenticadores-de-segundo-factor-software" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#autenticadores-de-segundo-factor-software" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#autenticadores-de-segundo-factor-software" aria-label="Ancla">#</a>
+    </span>
     
 </h2>
 
-
-<h3 class="relative group">Libres 
+<h3 class="relative group">Libres
     <div id="libres" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#libres" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#libres" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <ul>
-<li><a href="https://fedoramagazine.org/freeotp-an-open-source-solution-for-authentication-soft-tokens/" target="_blank">FreeOTP</a></li>
-<li><a href="https://getaegis.app/" target="_blank">Aegis Authenticator</a></li>
-<li><a href="https://github.com/raivo-otp/ios-application" target="_blank">Raivo OTP</a></li>
+<li><a href="https://fedoramagazine.org/freeotp-an-open-source-solution-for-authentication-soft-tokens/"  target="_blank" rel="noreferrer">FreeOTP</a></li>
+<li><a href="https://getaegis.app/"  target="_blank" rel="noreferrer">Aegis Authenticator</a></li>
+<li><a href="https://github.com/raivo-otp/ios-application"  target="_blank" rel="noreferrer">Raivo OTP</a></li>
 </ul>
 
-
-<h3 class="relative group">Gratuitas (propietarias) 
+<h3 class="relative group">Gratuitas (propietarias)
     <div id="gratuitas-propietarias-1" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#gratuitas-propietarias-1" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#gratuitas-propietarias-1" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <ul>
-<li><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2" target="_blank">Google Authenticator</a></li>
-<li><a href="https://www.microsoft.com/en-us/security/mobile-authenticator-app" target="_blank">Microsoft Authenticator</a></li>
-<li><a href="https://authy.com/" target="_blank">Authy</a></li>
-<li><a href="https://apps.apple.com/us/app/duo-mobile/id422663827" target="_blank">Duo Mobile</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2"  target="_blank" rel="noreferrer">Google Authenticator</a></li>
+<li><a href="https://www.microsoft.com/en-us/security/mobile-authenticator-app"  target="_blank" rel="noreferrer">Microsoft Authenticator</a></li>
+<li><a href="https://authy.com/"  target="_blank" rel="noreferrer">Authy</a></li>
+<li><a href="https://apps.apple.com/us/app/duo-mobile/id422663827"  target="_blank" rel="noreferrer">Duo Mobile</a></li>
 </ul>
 
-
-<h3 class="relative group">Pagas 
+<h3 class="relative group">Pagas
     <div id="pagas-1" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#pagas-1" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#pagas-1" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <ul>
-<li><a href="https://apps.apple.com/us/app/otp-auth/id659877384" target="_blank">OTP Auth Pro</a></li>
-<li><a href="https://steptwo.app/" target="_blank">Step Two</a></li>
+<li><a href="https://apps.apple.com/us/app/otp-auth/id659877384"  target="_blank" rel="noreferrer">OTP Auth Pro</a></li>
+<li><a href="https://steptwo.app/"  target="_blank" rel="noreferrer">Step Two</a></li>
 </ul>
 <hr>
 
-
-<h2 class="relative group">Llaves de seguridad biométricas / hardware 
-    <div id="llaves-de-seguridad-biom%C3%A9tricas--hardware" class="anchor"></div>
+<h2 class="relative group">Llaves de seguridad biométricas / hardware
+    <div id="llaves-de-seguridad-biométricas--hardware" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#llaves-de-seguridad-biom%C3%A9tricas--hardware" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#llaves-de-seguridad-biom%c3%a9tricas--hardware" aria-label="Ancla">#</a>
+    </span>
     
 </h2>
 
-
-<h3 class="relative group">Libres (hardware/firmware abierto) 
+<h3 class="relative group">Libres (hardware/firmware abierto)
     <div id="libres-hardwarefirmware-abierto" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#libres-hardwarefirmware-abierto" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#libres-hardwarefirmware-abierto" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <ul>
-<li><a href="https://solokeys.com/" target="_blank">SoloKeys Solo 2</a></li>
-<li><a href="https://shop.nitrokey.com/shop/nkfi2-nitrokey-fido2-55" target="_blank">Nitrokey FIDO2</a></li>
+<li><a href="https://solokeys.com/"  target="_blank" rel="noreferrer">SoloKeys Solo 2</a></li>
+<li><a href="https://shop.nitrokey.com/shop/nkfi2-nitrokey-fido2-55"  target="_blank" rel="noreferrer">Nitrokey FIDO2</a></li>
 </ul>
 
-
-<h3 class="relative group">Gratuitas 
+<h3 class="relative group">Gratuitas
     <div id="gratuitas" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#gratuitas" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#gratuitas" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <p><em>No existen llaves hardware biométricas gratuitas; requieren fabricación física.</em></p>
 
-
-<h3 class="relative group">Pagas 
+<h3 class="relative group">Pagas
     <div id="pagas-2" class="anchor"></div>
     
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#pagas-2" aria-label="Ancla">#</a>
-    </span>        
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#pagas-2" aria-label="Ancla">#</a>
+    </span>
     
 </h3>
 <ul>
-<li><a href="https://www.yubico.com/products/yubikey-bio-series/" target="_blank">YubiKey Bio Series</a></li>
-<li><a href="https://www.ftsafe.com/Products/FIDO/Bio" target="_blank">Feitian BioPass K26/K27</a></li>
-<li><a href="https://store.google.com/product/titan_security_key" target="_blank">Google Titan Security Key</a></li>
+<li><a href="https://www.yubico.com/products/yubikey-bio-series/"  target="_blank" rel="noreferrer">YubiKey Bio Series</a></li>
+<li><a href="https://www.ftsafe.com/Products/FIDO/Bio"  target="_blank" rel="noreferrer">Feitian BioPass K26/K27</a></li>
+<li><a href="https://store.google.com/product/titan_security_key"  target="_blank" rel="noreferrer">Google Titan Security Key</a></li>
 </ul>
-<p>Podés escucharlo también desde <a href="https://archive.org/details/lento-es-normal-miercoles-4-6-25" target="_blank">archive.org</a>.</p>]]></content:encoded><itunes:title>Ciberseguridad para todos #1</itunes:title><itunes:author>Alvar</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>Como andar seguros por la Internet</itunes:summary><itunes:subtitle>Como andar seguros por la Internet</itunes:subtitle><enclosure url="https://archive.org/download/lento-es-normal-miercoles-4-6-25/LENTO_ES_NORMAL_MIERCOLES-4-6-25.mp3" length="0" type="audio/mpeg"/></item><item><title>Soberanía Cognitiva Toma #1</title><link>https://alvarmaciel.github.io/media/lento_es_normal/soberania_cognitiva_toma_1/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/soberania_cognitiva_toma_1/</guid><pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate><description>Sobre una crísis personal y colectiva. Y una salida.</description><content:encoded><![CDATA[<div class="archive-audio-player">
+<p>Podés escucharlo también desde <a href="https://archive.org/details/lento-es-normal-miercoles-4-6-25"  target="_blank" rel="noreferrer">archive.org</a>.</p>]]></content:encoded><itunes:title>Ciberseguridad para todos #1</itunes:title><itunes:author>Alvar</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>Como andar seguros por la Internet</itunes:summary><itunes:subtitle>Como andar seguros por la Internet</itunes:subtitle><enclosure url="https://archive.org/download/lento-es-normal-miercoles-4-6-25/LENTO_ES_NORMAL_MIERCOLES-4-6-25.mp3" length="0" type="audio/mpeg"/></item><item><title>Soberanía Cognitiva Toma #1</title><link>https://alvarmaciel.github.io/media/lento_es_normal/soberania_cognitiva_toma_1/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/soberania_cognitiva_toma_1/</guid><pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate><description>Sobre una crísis personal y colectiva. Y una salida.</description><content:encoded><![CDATA[<div class="archive-audio-player">
   <iframe
     src="https://archive.org/embed/lento-es-normal-miercoles-28-5-25"
     width="100%"
@@ -1908,8 +1772,8 @@ Ni que hablar que lo mismo podemos hacer con la música. Bajar, guardar, escucha
 }
 </style>
 
-<p><a href="https://www.cuatroveintiuno.com/soberania-cognitiva-introduccion-autonomia-psiquica/" target="_blank">Para leer mas, este es el artículo de 421 sbre soberanía cognitiva</a></p>
-<p>Podés escucharlo también desde <a href="https://archive.org/details/lento-es-normal-miercoles-28-5-25" target="_blank">archive.org</a>.</p>
+<p><a href="https://www.cuatroveintiuno.com/soberania-cognitiva-introduccion-autonomia-psiquica/"  target="_blank" rel="noreferrer">Para leer mas, este es el artículo de 421 sbre soberanía cognitiva</a></p>
+<p>Podés escucharlo también desde <a href="https://archive.org/details/lento-es-normal-miercoles-28-5-25"  target="_blank" rel="noreferrer">archive.org</a>.</p>
 ]]></content:encoded><itunes:title>Soberanía Cognitiva Toma #1</itunes:title><itunes:author>Alvar</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>Sobre una crísis personal y colectiva. Y una salida.</itunes:summary><itunes:subtitle>Sobre una crísis personal y colectiva. Y una salida.</itunes:subtitle><enclosure url="https://archive.org/download/lento-es-normal-miercoles-28-5-25/LENTO_ES_NORMAL-MIERCOLES-28-5-25.mp3" length="0" type="audio/mpeg"/></item><item><title>confundidos y aturdidos</title><link>https://alvarmaciel.github.io/media/lento_es_normal/confundidos_y_aturdidos/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/confundidos_y_aturdidos/</guid><pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate><description>Charla sobre el estado de la tecnología y como impacta en nostros.</description><content:encoded><![CDATA[<div class="archive-audio-player">
   <iframe
     src="https://archive.org/embed/lento-es-normal-miercoles-21-5-25"
@@ -1946,7 +1810,7 @@ Ni que hablar que lo mismo podemos hacer con la música. Bajar, guardar, escucha
 }
 </style>
 
-<p>Podés escucharlo también desde <a href="https://archive.org/details/lento-es-normal-miercoles-21-5-25" target="_blank">archive.org</a>.</p>
+<p>Podés escucharlo también desde <a href="https://archive.org/details/lento-es-normal-miercoles-21-5-25"  target="_blank" rel="noreferrer">archive.org</a>.</p>
 ]]></content:encoded><itunes:title>confundidos y aturdidos</itunes:title><itunes:author>Alvar</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>Charla sobre el estado de la tecnología y como impacta en nostros.</itunes:summary><itunes:subtitle>Charla sobre el estado de la tecnología y como impacta en nosotros</itunes:subtitle><enclosure url="https://archive.org/download/lento-es-normal-miercoles-21-5-25/LENTO_ES_%20NORMAL-MIERCOLES-21-5-25.mp3" length="0" type="audio/mpeg"/></item><item><title>Sobre Cibercirujas y la obsolescencia programada</title><link>https://alvarmaciel.github.io/media/lento_es_normal/sobre_cibercirujas_y_la_obsolescencia_programada/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/sobre_cibercirujas_y_la_obsolescencia_programada/</guid><pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate><description>Columna grabada, había dolor de muelas y previa al dentista. Hablamos un poco de obsolescencia programada y Cibercirujas</description><content:encoded><![CDATA[<div class="archive-audio-player">
   <iframe
     src="https://archive.org/embed/lento_es_normal_2025_04_30_202508%22"
@@ -1983,7 +1847,7 @@ Ni que hablar que lo mismo podemos hacer con la música. Bajar, guardar, escucha
 }
 </style>
 
-<p>Podés escucharlo también desde <a href="https://archive.org/details/lento_es_normal_2025_04_30_202508" target="_blank">archive.org</a>.</p>
+<p>Podés escucharlo también desde <a href="https://archive.org/details/lento_es_normal_2025_04_30_202508"  target="_blank" rel="noreferrer">archive.org</a>.</p>
 ]]></content:encoded><itunes:title>Sobre Cibercirujas y la obsolescencia programada</itunes:title><itunes:author>Alvar</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>Columna grabada, había dolor de muelas y previa al dentista. Hablamos un poco de obsolescencia programada y Cibercirujas</itunes:summary><itunes:subtitle>Columna grabada, había dolor de muelas y previa al dentista. Hablamos un poco de obsolescencia programada y Cibercirujas</itunes:subtitle><enclosure url="https://archive.org/download/lento_es_normal_2025_04_30_202508/lento_es_normal_2025_04_30.mp3" length="0" type="audio/mpeg"/></item><item><title>Sobre Libre Pollo. Soberanía tecnológica y alimentaria</title><link>https://alvarmaciel.github.io/media/lento_es_normal/sobre_libre_pollo/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/sobre_libre_pollo/</guid><pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate><description>Entrevista a Fabricio Puzio de la CTO y AlterMundi sobre LibreIncu incubadora de pollos hecha con soft y hardware libre.</description><content:encoded><![CDATA[<div class="archive-audio-player">
   <iframe
     src="https://archive.org/embed/lento-es-normal-miercoles-23-4-25"
@@ -2020,7 +1884,7 @@ Ni que hablar que lo mismo podemos hacer con la música. Bajar, guardar, escucha
 }
 </style>
 
-<p>Podés escucharlo también desde <a href="https://archive.org/details/lento-es-normal-miercoles-23-4-25" target="_blank">archive.org</a>.</p>
+<p>Podés escucharlo también desde <a href="https://archive.org/details/lento-es-normal-miercoles-23-4-25"  target="_blank" rel="noreferrer">archive.org</a>.</p>
 ]]></content:encoded><itunes:title>Sobre Libre Pollo. Soberanía tecnológica y alimentaria</itunes:title><itunes:author>Alvar</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>Entrevista a Fabricio Puzio de la CTO y AlterMundi sobre LibreIncu incubadora de pollos hecha con soft y hardware libre.</itunes:summary><itunes:subtitle>Entrevista a Fabricio Puzio de la CTO y AlterMundi sobre LibreIncu incubadora de pollos hecha con soft y hardware libre.</itunes:subtitle><enclosure url="https://archive.org/download/lento-es-normal-miercoles-23-4-25/LENTO%20ES%20NORMAL%20-%20MIERCOLES%20-%2023-4-25.mp3" length="0" type="audio/mpeg"/></item><item><title>Sobre la IA 2 y cierre del 2024</title><link>https://alvarmaciel.github.io/media/lento_es_normal/sobre_ai_y_cierre_del_anio/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/sobre_ai_y_cierre_del_anio/</guid><pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate><description>Inteligencia Artifical, cierre del año</description><content:encoded><![CDATA[<div class="archive-audio-player">
   <iframe
     src="https://archive.org/embed/lento-es-normal-viernes-20-12-24"
@@ -2057,7 +1921,7 @@ Ni que hablar que lo mismo podemos hacer con la música. Bajar, guardar, escucha
 }
 </style>
 
-<p>Podés escucharlo también desde <a href="https://archive.org/details/lento-es-normal-viernes-20-12-24" target="_blank">archive.org</a>.</p>
+<p>Podés escucharlo también desde <a href="https://archive.org/details/lento-es-normal-viernes-20-12-24"  target="_blank" rel="noreferrer">archive.org</a>.</p>
 ]]></content:encoded><itunes:title>Sobre la IA 2 y cierre del 2024</itunes:title><itunes:author>Alvar</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>Inteligencia Artifical, cierre del año</itunes:summary><itunes:subtitle>Inteligencia Artifical, cierre del año</itunes:subtitle><enclosure url="https://archive.org/download/lento-es-normal-viernes-20-12-24/LENTO%20ES%20NORMAL%20VIERNES%2020-12-24.mp3" length="0" type="audio/mpeg"/></item><item><title>Sobre las cookies</title><link>https://alvarmaciel.github.io/media/lento_es_normal/sobre_las_cookies/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/sobre_las_cookies/</guid><pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate><description>Reflexión sobre qué aceptamos cuando navegamos, con audio desde archive.org</description><content:encoded><![CDATA[<div class="archive-audio-player">
   <iframe
     src="https://archive.org/embed/columna-30-de-agosto-lento-es-normal"
@@ -2094,7 +1958,7 @@ Ni que hablar que lo mismo podemos hacer con la música. Bajar, guardar, escucha
 }
 </style>
 
-<p>Podés escucharlo también desde <a href="https://archive.org/details/columna-30-de-agosto-lento-es-normal" target="_blank">archive.org</a>.</p>
+<p>Podés escucharlo también desde <a href="https://archive.org/details/columna-30-de-agosto-lento-es-normal"  target="_blank" rel="noreferrer">archive.org</a>.</p>
 ]]></content:encoded><itunes:title>Sobre las cookies</itunes:title><itunes:author>Alvar</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>Reflexión sobre qué aceptamos cuando navegamos, con audio desde archive.org</itunes:summary><itunes:subtitle>Qué autorizamos y por qué</itunes:subtitle><enclosure url="https://archive.org/download/columna-30-de-agosto-lento-es-normal/Columna%2030%20de%20agosto%20lento%20es%20normal.m4a" length="0" type="audio/x-m4a"/></item><item><title>Sobre el grooming</title><link>https://alvarmaciel.github.io/media/lento_es_normal/sobre_el_grooming/</link><guid isPermaLink="true">https://alvarmaciel.github.io/media/lento_es_normal/sobre_el_grooming/</guid><pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate><description>Entrevista en Radio San Javier</description><content:encoded><![CDATA[<div class="archive-audio-player">
   <iframe
     src="https://archive.org/embed/piso-alvar-maciel-por-grooming-con-separador"
@@ -2131,5 +1995,5 @@ Ni que hablar que lo mismo podemos hacer con la música. Bajar, guardar, escucha
 }
 </style>
 
-<p>Podés escucharlo también desde <a href="https://archive.org/details/piso-alvar-maciel-por-grooming-con-separador" target="_blank">archive.org</a>.</p>
+<p>Podés escucharlo también desde <a href="https://archive.org/details/piso-alvar-maciel-por-grooming-con-separador"  target="_blank" rel="noreferrer">archive.org</a>.</p>
 ]]></content:encoded><itunes:title>Sobre el grooming</itunes:title><itunes:author>Alvar</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>Entrevista en Radio San Javier</itunes:summary><itunes:subtitle>Entrevista en Radio San Javier</itunes:subtitle><enclosure url="https://archive.org/download/piso-alvar-maciel-por-grooming-con-separador/PISO%20Alvar%20Maciel%20por%20grooming%20-con%20separador.mp3" length="0" type="audio/mpeg"/></item></channel></rss>
